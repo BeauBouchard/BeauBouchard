@@ -4,7 +4,7 @@ I am Beau, I like to code things.
 
 
 
-## 🛠️ My favorite tools
+## 🛠️ My Favorite Tools and Such
 
 ### 👨‍💻 Languages
 
@@ -31,6 +31,9 @@ I am Beau, I like to code things.
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
+## 🔭 I’m currently working on ...
+
+
 
 ## 📫 How to reach me 
 
@@ -38,30 +41,5 @@ I am Beau, I like to code things.
 
  * [Twitter](https://twitter.com/beaubouchard)
  * [Github](https://github.com/BeauBouchard/)
- * [Calendly](#)
-   * Schedule Time for a Chat (Video, Audio)
-   * I love to have an open and tranparent schedule and will be happy to talk to you about most things. 
-
-
-### How to become Frustrated 
-
- * emails and replying to them over and over asking for schedule / times
- * calling unscheduled
  * [linkedin](https://www.linkedin.com/in/beaubouchard/)
    * I use linkedin as a static profile and as such rarely on it. 
-
-
-<!--
-**BeauBouchard/BeauBouchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
