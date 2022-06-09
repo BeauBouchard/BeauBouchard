@@ -30,11 +30,19 @@ I am Beau, I like to code things.
 ### 🗄️ Databases and cloud hosting
 
 
- ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white) (not since the breach tho)
+ ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
  ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
+### Cloud Tools
+
+ [![AWS](https://img.shields.io/badge/AWS%20Hosting-FFFFFF.svg?logo=amazonaws&logoColor=orange)](https://aws.amazon.com/)
+ [![AWS Lambda](https://img.shields.io/badge/AWS%20Lambdas-FFFFFF.svg?logo=awslambda&logoColor=orange)](https://aws.amazon.com/)
+ [![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-FFFFFF.svg?logo=googlecloud&logoColor=blue)](https://cloud.google.com/functions)
+ [![Kubernetes](https://img.shields.io/badge/Kubernetes-FFFFFF.svg?logo=kubernetes&logoColor=blue)](https://kubernetes.io/)
+ [![Terraform](https://img.shields.io/badge/Terraform-FFFFFF.svg?logo=terraform&logoColor=purple)](https://www.terraform.io/)
+ [![Helm](https://img.shields.io/badge/Helm-FFFFFF.svg?logo=helm&logoColor=blue)](https://helm.sh/)
  
 
 ## 📫 How to reach me 
