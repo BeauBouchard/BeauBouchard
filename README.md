@@ -49,13 +49,11 @@ I am Beau, I like to code things.
 
 ### Profiles
 
- * [![LinkTree](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=blue)](https://linktr.ee/beaubouchard)
- * [![Twitter](https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue)](https://twitter.com/beaubouchard)
- * [![Github](https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=blue)](https://github.com/BeauBouchard/)
- * [![Linkedin](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beaubouchard/)
-   * I use linkedin as a static profile and as such rarely on it. 
+ [![LinkTree](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=blue)](https://linktr.ee/beaubouchard)
+ [![Twitter](https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue)](https://twitter.com/beaubouchard)
+ [![Github](https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=blue)](https://github.com/BeauBouchard/)
+ [![Linkedin](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beaubouchard/)
 
 ### Like My Stuff?
-
 
  ![[Twitter](https://twitter.com/beaubouchard?ref_src=twsrc%5Etfw)](https://img.shields.io/twitter/follow/beaubouchard?label=Follow&style=social) 
