@@ -70,6 +70,12 @@ I am Beau, I like to code things.
  <a href="http://soul-cycle.com/">
    <img width="100" height="100" alt="Soul Cycle" src="https://healthywithnedi.com/wp-content/uploads/2019/01/soulcycle-logo.jpg">
  </a>
+ <a href="https://opensource.com/education/12/9/posse-2012-report">
+   <img width="100" height="50" alt="POSSE" src="https://opensource.com/sites/default/files/lead-images/EDU_POSSE.png">
+ </a>
+ <a href="https://github.com/Lazy-Newb-Pack">
+   <img width="100" height="100" alt="White Rabbit" src="https://avatars.githubusercontent.com/u/8883924?s=400&u=9985f7d7d097c4c4131daa928fa27ff14831544e&v=4">
+ </a>
  <a href="https://wh.iterabb.it/">
    <img width="100" height="100" alt="White Rabbit" src="https://avatars.githubusercontent.com/u/8884106?s=400&u=f1fa7fc97a5eada597274c69454653406fbf8e59&v=4">
  </a>
