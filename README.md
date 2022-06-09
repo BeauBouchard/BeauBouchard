@@ -32,6 +32,25 @@ I am Beau, I like to code things.
  ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
 
+## 📫 How to reach me 
+
+### How to Contact Me
+
+ * [Twitter](https://twitter.com/beaubouchard)
+ * [Github](https://github.com/BeauBouchard/)
+ * [Calendly](#)
+   * Schedule Time for a Chat (Video, Audio)
+   * I love to have an open and tranparent schedule and will be happy to talk to you about most things. 
+
+
+### How to become Frustrated 
+
+ * emails and replying to them over and over asking for schedule / times
+ * calling unscheduled
+ * [linkedin](https://www.linkedin.com/in/beaubouchard/)
+   * I use linkedin as a static profile and as such rarely on it. 
+
+
 <!--
 **BeauBouchard/BeauBouchard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
