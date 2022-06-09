@@ -4,6 +4,7 @@ I am Beau, I like to code things.
 
 
 
+
 ## 🛠️ My Favorite Tools and Such
 
 ### 👨‍💻 Languages
@@ -54,6 +55,26 @@ I am Beau, I like to code things.
  [![Github](https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=blue)](https://github.com/BeauBouchard/)
  [![Linkedin](https://img.shields.io/badge/Linkedin-FFFFFF.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beaubouchard/)
 
-### Like My Stuff?
+## Organizations I contributed to
+
+<p align="center">
+ <a href="https://github.com/Bombas">
+   <img width="200" height="200" alt="Bombas" src="https://good360.org/wp-content/uploads/2019/07/bombas.png">
+ </a>
+ <a href="https://github.com/Crucible-Standard">
+   <img width="200" height="200" alt="The Crucible Standard" src="https://avatars.githubusercontent.com/u/84492635?s=400&u=371bc7d77cb45b0c8e067efc0aa352e390439cb0&v=4">
+ </a>
+ <a href="https://github.com/free-ignorance">
+   <img width="200" height="200" alt="Free Ignorance Media" src="https://avatars.githubusercontent.com/u/50443974?s=400&u=963c2bc728a294bf13717a5d3d8b2c9ce0a5daf7&v=4">
+ </a>
+  <a href="https://wh.iterabb.it/">
+   <img width="200" height="200" alt="White Rabbit" src="https://avatars.githubusercontent.com/u/8884106?s=400&u=f1fa7fc97a5eada597274c69454653406fbf8e59&v=4">
+ </a>
+  <a href="https://vice.com/">
+   <img width="200" height="200" alt="Vice Media" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0019/7334/brand.gif?itok=8qqkxBRq">
+ </a>
+</p>
+
+## Like My Stuff?
 
  ![[Twitter](https://twitter.com/beaubouchard?ref_src=twsrc%5Etfw)](https://img.shields.io/twitter/follow/beaubouchard?label=Follow&style=social) 
