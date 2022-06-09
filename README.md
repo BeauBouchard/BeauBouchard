@@ -52,7 +52,7 @@ I am Beau, I like to code things.
  [![LinkTree](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=blue)](https://linktr.ee/beaubouchard)
  [![Twitter](https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue)](https://twitter.com/beaubouchard)
  [![Github](https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=blue)](https://github.com/BeauBouchard/)
- [![Linkedin](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beaubouchard/)
+ [![Linkedin](https://img.shields.io/badge/Linkedin-FFFFFF.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beaubouchard/)
 
 ### Like My Stuff?
 
