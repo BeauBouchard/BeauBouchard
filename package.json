@@ -1,4 +1,3 @@
-
 {
   "name": "beau.sh scss linter npm package",
   "version": "0.1.0",
@@ -19,5 +18,8 @@
     "test:lint:scss": "stylelint '**/*.scss'"
   },
   "devDependencies": {
+    "stylelint": "^14.9.1",
+    "stylelint-config-prettier-scss": "0.0.1",
+    "stylelint-config-standard-scss": "^4.0.0"
   }
 }
