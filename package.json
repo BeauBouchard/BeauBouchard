@@ -1,0 +1,23 @@
+
+{
+  "name": "beau.sh scss linter npm package",
+  "version": "0.1.0",
+  "description": "beau.sh scss linter npm package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com//BeauBouchard/BeauBouchard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BeauBouchard/BeauBouchard/issues"
+  },
+  "homepage": "https://github.com/BeauBouchard/BeauBouchard#readme",
+  "contributors": [
+    "Beau Bouchard <https://github.com/BeauBouchard>"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test:lint:scss": "stylelint '**/*.scss'"
+  },
+  "devDependencies": {
+  }
+}
