@@ -61,6 +61,9 @@ I am Beau, I like to code things.
  <a href="https://github.com/Bombas">
    <img width="100" height="100" alt="Bombas" src="https://good360.org/wp-content/uploads/2019/07/bombas.png">
  </a>
+ <a href="https://github.com/codecov">
+   <img width="100" height="100" alt="codecov" src="https://avatars.githubusercontent.com/u/8226205?s=200&v=4">
+ </a>
  <a href="https://github.com/Crucible-Standard">
    <img width="100" height="100" alt="The Crucible Standard" src="https://avatars.githubusercontent.com/u/84492635?s=400&u=371bc7d77cb45b0c8e067efc0aa352e390439cb0&v=4">
  </a>
