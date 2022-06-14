@@ -67,6 +67,12 @@ I am Beau, I like to code things.
  <a href="https://github.com/free-ignorance">
    <img width="100" height="100" alt="Free Ignorance Media" src="https://avatars.githubusercontent.com/u/50443974?s=400&u=963c2bc728a294bf13717a5d3d8b2c9ce0a5daf7&v=4">
  </a>
+ <a href="https://github.com/slackapi">
+   <img width="100" height="100" alt="slackapi" src="https://avatars.githubusercontent.com/u/6962987?s=200&v=4">
+ </a>
+ <a href="https://github.com/sequelize">
+   <img width="100" height="100" alt="sequelize" src="https://avatars.githubusercontent.com/u/3591786?s=200&v=4">
+ </a>
  <a href="http://soul-cycle.com/">
    <img width="100" height="100" alt="Soul Cycle" src="https://healthywithnedi.com/wp-content/uploads/2019/01/soulcycle-logo.jpg">
  </a>
@@ -83,6 +89,8 @@ I am Beau, I like to code things.
    <img width="100" height="100" alt="Vice Media" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0019/7334/brand.gif?itok=8qqkxBRq">
  </a>
 </p>
+
+
 
 ## Tools I built
 
