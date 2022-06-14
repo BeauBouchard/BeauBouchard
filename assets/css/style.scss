@@ -2,19 +2,64 @@
 ---
 
 @import "{{ site.theme }}";
+/** Default beau.sh Page Theme **/
+$theme-default-primary:       #B91646;
+$theme-default-secondary:     #105652;
+$theme-default-trinary:       #FBF3E4;
+$theme-default-background:    #FDFAF5;
+$theme-default-text-color:    #323232;
+$theme-default-link-color:    #d5000d;
+$theme-default-hlink-color:   #B91646;
+$theme-default-vlink-color:   #551A8B;
+/** Sage.af Project Page Theme **/
+$theme-sage-primary:       #B91646;
+$theme-sage-secondary:     #105652;
+$theme-sage-trinary:       #FBF3E4;
+$theme-sage-background:    #FDFAF5;
+$theme-sage-text-color:    #323232;
+$theme-sage-link-color:    #d5000d;
+$theme-sage-hlink-color:   #B91646;
+$theme-sage-vlink-color:   #551A8B;
 
-body {
+.body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1em;
   line-height: 1.5;
-  color: #323232;
+  color: $theme-default-text-color;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-  background-color: #FDFAF5;
+  background-color: $theme-default-background;
 }
 
 a {
-  color: #d5000d;
+  color: $theme-default-link-color;
 }
+
 a:hover {
-  color: #B91646;
+  color: $theme-default-hlink-color;
+}
+
+a:visited {
+  color: $theme-default-vlink-color;
+}
+
+/** Sage.af Project Page **/
+.sage {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 1em;
+  line-height: 1.5;
+  color: $theme-sage-text-color;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+  background-color: $theme-sage-background;
+  
+  a {
+    color: $theme-sage-link-color;
+  }
+
+  a:hover {
+    color: $theme-sage-hlink-color;
+  }
+
+  a:visited {
+    color: $theme-sage-vlink-color;
+  }
 }
