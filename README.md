@@ -53,6 +53,12 @@ I am Beau, I like to code things.
 
 ## 📫 How to reach me 
 
+📵 Don't Call my Phone. . . (sorry)
+
+* DM me on [![Twitter](https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue)](https://twitter.com/beaubouchard)
+* OR Email me with the subject "From Your Github Page"
+  * If you want, you can shedule a time to chat on audio/video services. 
+
 ### 💅 Profiles
 
  [![LinkTree](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=blue)](https://linktr.ee/beaubouchard)
