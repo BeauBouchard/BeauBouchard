@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+
+# About Beau . . .
+
+## Bio 
+
 I am Beau, I like to code things. 
-
-
-
-
 
 ## 🛠️ My Favorite Tools and Such
 
@@ -49,14 +50,14 @@ I am Beau, I like to code things.
 
 ## 📫 How to reach me 
 
-### Profiles
+### 💅 Profiles
 
  [![LinkTree](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=blue)](https://linktr.ee/beaubouchard)
  [![Twitter](https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue)](https://twitter.com/beaubouchard)
  [![Github](https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=blue)](https://github.com/BeauBouchard/)
  [![Linkedin](https://img.shields.io/badge/Linkedin-FFFFFF.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beaubouchard/)
 
-## Organizations I contributed to
+## 🏛️ Organizations I contributed to
 
 <p align="center">
  <a href="https://github.com/Bombas">
@@ -92,9 +93,9 @@ I am Beau, I like to code things.
 ### [Sever Side Tools NPM Package](https://github.com/wh-iterabb-it/sst-ts) - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white) Reusable npm module for some essential items my APIs use.
 
 
-## Fun Projects 
+## 😄 Fun Projects 
 
-### APIs
+### 🛰️ APIs
 
 [obiter-dictum](https://github.com/Crucible-Standard/obiter-dictum)
 [![Issues](https://img.shields.io/github/issues/Crucible-Standard/obiter-dictum.svg)](https://github.com/Crucible-Standard/obiter-dictum/issues)
@@ -135,7 +136,9 @@ I am Beau, I like to code things.
 
 
 
-### Websites
+### 🌐 Websites
+
+[beau.sh](https://beau.sh)
 
 [sage.af](https://sage.af)
 
