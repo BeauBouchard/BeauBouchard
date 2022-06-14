@@ -1,7 +1,7 @@
----
----
+---/* stylelint-disable-line */
+---/* stylelint-disable-line */
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}";/* stylelint-disable-line */
 /** Default beau.sh Page Theme **/
 $theme-default-primary:       #B91646;
 $theme-default-secondary:     #105652;
