@@ -1,7 +1,8 @@
----/* stylelint-disable-line */
----/* stylelint-disable-line */
+---
+---
 
-@import "{{ site.theme }}";/* stylelint-disable-line */
+@import "{{ site.theme }}";
+
 /** Default beau.sh Page Theme **/
 $theme-default-primary:       #B91646;
 $theme-default-secondary:     #105652;
@@ -17,16 +18,16 @@ $theme-sage-secondary:     #105652;
 $theme-sage-trinary:       #FBF3E4;
 $theme-sage-background:    #FDFAF5;
 $theme-sage-text-color:    #323232;
-$theme-sage-link-color:    #d5000d;
-$theme-sage-hlink-color:   #B91646;
-$theme-sage-vlink-color:   #551A8B;
+$theme-sage-link-color:    #ADDFB3;
+$theme-sage-hlink-color:   #8ABD91;
+$theme-sage-vlink-color:   #9CAF88;
 
 .body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1em;
   line-height: 1.5;
   color: $theme-default-text-color;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
   background-color: $theme-default-background;
 }
 
@@ -48,9 +49,9 @@ a:visited {
   font-size: 1em;
   line-height: 1.5;
   color: $theme-sage-text-color;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
   background-color: $theme-sage-background;
-  
+
   a {
     color: $theme-sage-link-color;
   }
