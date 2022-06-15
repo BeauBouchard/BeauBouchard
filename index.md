@@ -13,7 +13,9 @@ It may be fun to read for some people. :D
   <p></p>
     <h1 width="100%"><a href="projects/garden">🌱 garden</a></h1>
   <p></p>
-    <h1 width="100%"><a href="projects/sage">sage.af</a></h1>
+    <h1 width="100%"><a href="projects/sage">🔮 sage.af</a></h1>
+  <p></p>
+    <h1 width="100%"><a href="projects/crucible">🔩 crucible</a></h1>
   <p></p>
 </div>
 
