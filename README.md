@@ -142,4 +142,4 @@ I am Beau, I like to code things.
  
 ## Like My Stuff?
 
- ![[Twitter](https://twitter.com/beaubouchard?ref_src=twsrc%5Etfw)](https://img.shields.io/twitter/follow/beaubouchard?label=Follow&style=social) 
+ [![Twitter](https://img.shields.io/twitter/follow/beaubouchard?label=Follow&style=social)](https://twitter.com/beaubouchard?ref_src=twsrc%5Etfw) 
