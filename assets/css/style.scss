@@ -31,13 +31,12 @@ $theme-retro-wave-five:          #F0C71D;
 $theme-retro-wave-background:    #F9F0E3;
 
 .rainbow-retro {
-  position: relative;
+  position: absolute;
   width: 50vw;
   height: 25vw;
   overflow: hidden;
   background: transparent;
-  left: 42vw;
-  bottom: 5vw;
+  right: -25vw;
 }
 
 .rainbow-retro:after {
