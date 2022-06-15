@@ -65,6 +65,16 @@ a:visited {
   color: $theme-sage-text-color;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
   background-color: $theme-sage-background;
+  
+  p:first-child::first-letter{
+    color: $theme-sage-primary;
+    font-weight: bold;
+    font-size: 2rem;
+    float: left;
+    line-height: 1.9rem;
+    padding-right: 8px;
+    margin-top: -3px;
+  }
 
   a {
     color: $theme-sage-link-color;
@@ -77,16 +87,6 @@ a:visited {
   a:visited {
     color: $theme-sage-vlink-color;
   }
-}
-
-.sage p:first-child::first-letter{
-    color: $theme-sage-primary;
-    font-weight: bold;
-    font-size: 2rem;
-    float: left;
-    line-height: 1.9rem;
-    padding-right: 8px;
-    margin-top: -3px;
 }
 
 /* Hiding some Theme stuff */
