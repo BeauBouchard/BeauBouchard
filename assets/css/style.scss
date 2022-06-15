@@ -66,6 +66,10 @@ a:visited {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
   background-color: $theme-sage-background;
   
+  p { 
+    text-align: justify;
+  }
+  
   p:first-of-type:first-letter {
     color: $theme-sage-primary;
     float: left;
