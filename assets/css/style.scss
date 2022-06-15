@@ -30,6 +30,33 @@ $theme-retro-wave-four:          #EA9F1C;
 $theme-retro-wave-five:          #F0C71D;
 $theme-retro-wave-background:    #F9F0E3;
 
+.rainbow-retro {
+  position: relative;
+  width: 95vw;
+  height: 45vw;
+  overflow: hidden;
+  background: transparent;
+  transform: translate(-50vw, -16.666vw);
+  top: 8vw;
+  left: 50vw;
+}
+
+.rainbow-retro:after {
+  position: absolute;
+  content: '';
+  width: 50%;
+  height: 100%;
+  top: 25vw;
+  left: 25vw;
+  border-radius: 50%;
+  box-shadow: 
+    0 0 0 2vw $theme-retro-wave-one, 
+    0 0 0 4vw $theme-retro-wave-two, 
+    0 0 0 6vw $theme-retro-wave-three, 
+    0 0 0 8vw $theme-retro-wave-four, 
+    0 0 0 10vw $theme-retro-wave-five;
+}
+
 h5 {
   margin-top: 0px;
   margin-bottom: 50px;
