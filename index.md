@@ -12,7 +12,6 @@ It may be fun to read for some people. :D
   <h1 width="100%">Garden</h1>
   <h1 width="100%">Other</h1>
 </div>
-<div class="rainbow-retro"></div>
 
 <h2>You can find Beau on . . . </h2>
 <div align="center">
@@ -37,4 +36,7 @@ It may be fun to read for some people. :D
     </a>
   </p>
 </div>
+
+<div class="rainbow-retro"></div>
+
 
