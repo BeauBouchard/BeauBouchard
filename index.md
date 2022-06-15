@@ -11,7 +11,7 @@ It may be fun to read for some people. :D
 
 <div align="center">
   <p></p>
-    <h1 width="100%"><a href="projects/garden">Garden</a></h1>
+    <h1 width="100%"><a href="projects/garden">🌱 garden</a></h1>
   <p></p>
     <h1 width="100%"><a href="projects/sage">sage.af</a></h1>
   <p></p>
