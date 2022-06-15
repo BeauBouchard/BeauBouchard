@@ -9,8 +9,7 @@ It may be fun to read for some people. :D
 ## Projects 
 
 <div align="center">
-  <h1 width="100%">Garden</h1>
-  <h1 width="100%">Other</h1>
+  <h1 width="100%">Coming soon...</h1>
 </div>
 
 <h2>You can find Beau on . . . </h2>
