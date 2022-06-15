@@ -1,5 +1,5 @@
 <div class="rainbow-retro"></div>
-<h5>beau.sh</h5>
+<h5 class="header-rainbow-retro">beau.sh</h5>
 
 ## Purpose 
 
