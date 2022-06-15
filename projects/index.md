@@ -1,5 +1,7 @@
+<div class="rainbow-retro"></div>
+<h5 class="header-rainbow-retro">Projects</h5>
 
-## Current Projects 
+## Current  
 
 <div align="center">
   <p></p>
@@ -10,7 +12,7 @@
   <p></p>
 </div>
 
-## Other Projects 
+## Past  
 
 <div align="center">
   <p></p>
