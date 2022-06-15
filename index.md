@@ -1,5 +1,5 @@
 <div class="rainbow-retro"></div>
-<h5>beau.sh</h5>
+<h5 class="header-rainbow-retro">beau.sh</h5>
 
 ## Purpose 
 
@@ -7,12 +7,14 @@ This website is for utility and documentation for projects Beau does.
 
 It may be fun to read for some people. :D 
 
-## Projects 
+## Latest Projects 
 
 <div align="center">
   <p></p>
-  <h1 width="100%">Coming soon...</h1>
-   <p></p>
+    <h1 width="100%"><a href="projects/garden">Garden</a></h1>
+  <p></p>
+    <h1 width="100%"><a href="projects/sage">sage.af</a></h1>
+  <p></p>
 </div>
 
 <h2>You can find Beau on . . . </h2>
