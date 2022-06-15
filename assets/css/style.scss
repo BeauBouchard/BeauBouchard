@@ -73,15 +73,17 @@ a:visited {
     text-align: justify;
   }
   
-  /** dropcap only first P **/
-  p:first-of-type:first-letter {
-    color: $theme-sage-primary;
-    float: left;
-    font-weight: bold;
-    font-size: 2rem;
-    line-height: 1.9rem;
-    padding-right: 8px;
-    margin-top: -3px;
+  .container {
+    /** dropcap only first P **/
+    p:first-of-type:first-letter {
+      color: $theme-sage-primary;
+      float: left;
+      font-weight: bold;
+      font-size: 2rem;
+      line-height: 1.9rem;
+      padding-right: 8px;
+      margin-top: -3px;
+    } 
   }
 
   a {
