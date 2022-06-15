@@ -12,8 +12,7 @@ It may be fun to read for some people. :D
   <h1 width="100%">Garden</h1>
   <h1 width="100%">Other</h1>
 </div>
-
-<figure class="rainbow bands"></figure>
+<div class="rainbow-retro"></div>
 
 <h2>You can find me on . . . </h2>
 <div align="center">
