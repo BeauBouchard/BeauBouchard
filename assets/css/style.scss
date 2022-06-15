@@ -79,6 +79,16 @@ a:visited {
   }
 }
 
+.sage p:first-child::first-letter{
+    color: $theme-sage-primary;
+    font-weight: bold;
+    font-size: 2rem;
+    float: left;
+    line-height: 1.9rem;
+    padding-right: 8px;
+    margin-top: -3px;
+}
+
 /* Hiding some Theme stuff */
 footer {
   display: none;
@@ -160,4 +170,5 @@ header {
     0 0 0 8vw $theme-retro-wave-four,
     0 0 0 10vw $theme-retro-wave-five;
 }
+
 
