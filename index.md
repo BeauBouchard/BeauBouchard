@@ -1,3 +1,4 @@
+<div class="rainbow-retro"></div>
 <h5>beau.sh</h5>
 
 ## Purpose 
@@ -22,4 +23,4 @@ It may be fun to read for some people. :D
   <p><a href="https://www.linkedin.com/in/beaubouchard/"><img src="https://img.shields.io/badge/Linkedin-FFFFFF.svg?logo=linkedin&logoColor=blue" alt="LinkedIn Badge Image" /></a></p>
 </div>
 
-<div class="rainbow-retro"></div>
+
