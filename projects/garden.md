@@ -1,3 +1,14 @@
+<div class="planter-wrap">
+	<div class="planter-base">
+		<div class="planter-flowerpot"></div>
+		<div class="planter-plant-blade planter-plant-blade-center"></div>
+		<div class="planter-plant-blade planter-plant-blade-left-s"></div>
+		<div class="planter-plant-blade planter-plant-blade-right-s"></div>
+		<div class="planter-plant-blade planter-plant-blade-left-l"></div>
+		<div class="planter-plant-blade planter-plant-blade-right-l"></div>
+	</div>
+</div>
+
 # The Garden
 
 In short Its a portable solar powered hydroponic system that automates a lot of the effort and routine out of gardening. 
