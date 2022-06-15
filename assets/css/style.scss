@@ -12,6 +12,7 @@ $theme-default-text-color:    #323232;
 $theme-default-link-color:    #FFB562;
 $theme-default-hlink-color:   #F87474;
 $theme-default-vlink-color:   #FF8862;
+
 /** Sage.af Project Page Theme **/
 $theme-sage-primary:       #B91646;
 $theme-sage-secondary:     #105652;
@@ -31,9 +32,11 @@ $theme-retro-wave-five:          #F0C71D;
 $theme-retro-wave-background:    #F9F0E3;
 
 /** Emoji maps **/
-$symbol-good:       "🟢";
-$symbol-bad:        "🔴";
-$symbol-issue:      "🟡";
+$symbol-good:         "🟢";
+$symbol-issue:        "🟡";
+$symbol-bad:          "🔴";
+$symbol-warning:      "⚠️";
+$symbol-alert:        "🚨";
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
