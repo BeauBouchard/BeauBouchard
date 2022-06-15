@@ -8,4 +8,14 @@ It may be fun to read for some people. :D
 
 ## Projects 
 
-### Garden
+<div align="center">
+  <h1 width="100%">Garden</h1>
+  <h1 width="100%">Other</h1>
+</div>
+
+<figure class="rainbow bands"></figure>
+
+<h2>You can find me on . . . </h2>
+<div align="center">
+  <p><a href="https://github.com/BeauBouchard/"><img src="https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=blue" alt="Github Badge Image" /></a></p>
+</div>
