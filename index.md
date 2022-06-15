@@ -3,7 +3,7 @@
 
 ## Purpose 
 
-This website is for utility and documentation for projects Beau does. 
+This website is for <span class="accent">utility</span> and <span class="accent">documentation</span> of projects from <a href="whoami">Beau</a>. 
 
 It may be fun to read for some people. :D 
 
