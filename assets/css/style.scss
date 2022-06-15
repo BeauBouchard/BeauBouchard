@@ -32,11 +32,10 @@ $theme-retro-wave-background:    #F9F0E3;
 
 .rainbow-retro {
   position: relative;
-  width: 95vw;
-  height: 45vw;
+  width: 50vw;
+  height: 23vw;
   overflow: hidden;
   background: transparent;
-  transform: translate(-50vw, -16.666vw);
   top: 8vw;
   left: 50vw;
 }
@@ -46,8 +45,8 @@ $theme-retro-wave-background:    #F9F0E3;
   content: '';
   width: 50%;
   height: 100%;
-  top: 25vw;
-  left: 25vw;
+  top: 12.5vw;
+  left: 12.5vw;
   border-radius: 50%;
   box-shadow: 
     0 0 0 2vw $theme-retro-wave-one, 
