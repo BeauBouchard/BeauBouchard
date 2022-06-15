@@ -4,14 +4,14 @@
 @import "{{ site.theme }}";
 
 /** Default beau.sh Page Theme **/
-$theme-default-primary:       #B91646;
-$theme-default-secondary:     #105652;
-$theme-default-trinary:       #FBF3E4;
-$theme-default-background:    #FDFAF5;
+$theme-default-primary:       #3AB0FF;
+$theme-default-secondary:     #FFB562;
+$theme-default-trinary:       #F87474;
+$theme-default-background:    #F9F2ED;
 $theme-default-text-color:    #323232;
-$theme-default-link-color:    #d5000d;
-$theme-default-hlink-color:   #B91646;
-$theme-default-vlink-color:   #551A8B;
+$theme-default-link-color:    #FFB562;
+$theme-default-hlink-color:   #F87474;
+$theme-default-vlink-color:   #FF8862;
 /** Sage.af Project Page Theme **/
 $theme-sage-primary:       #B91646;
 $theme-sage-secondary:     #105652;
@@ -21,6 +21,56 @@ $theme-sage-text-color:    #323232;
 $theme-sage-link-color:    #ADDFB3;
 $theme-sage-hlink-color:   #8ABD91;
 $theme-sage-vlink-color:   #9CAF88;
+
+/** Retro Rainbow Text **/
+$theme-retro-wave-one:           #C82F3E;
+$theme-retro-wave-two:           #DF453B;
+$theme-retro-wave-three:         #D45E20;
+$theme-retro-wave-four:          #EA9F1C;
+$theme-retro-wave-five:          #F0C71D;
+$theme-retro-wave-background:    #F9F0E3;
+
+h5 {
+  margin-top: 0px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 3rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #F9F0E3;
+  text-shadow: -2px -2px 0 #323232,
+               -2px -1px 0 #323232,
+               -2px 0px 0 #323232,
+               -2px 1px 0 #323232,
+               -2px 2px 0 #323232,
+               -1px -2px 0 #323232,
+               -1px -1px 0 #323232,
+               -1px 0px 0 #323232,
+               -1px 1px 0 #323232,
+               -1px 2px 0 #323232,
+               0px -2px 0 #323232,
+               0px -1px 0 #323232,
+               0px 0px 0 #323232,
+               0px 1px 0 #323232,
+               0px 2px 0 #323232,
+               1px -2px 0 #323232,
+               1px -1px 0 #323232,
+               1px 0px 0 #323232,
+               1px 1px 0 #323232,
+               1px 2px 0 #323232,
+               2px -2px 0 #323232,
+               2px -1px 0 #323232,
+               2px 0px 0 #323232,
+               2px 1px 0 #323232,
+               2px 2px 0 #323232,
+               -4px 4px $theme-retro-wave-one,
+               -8px 8px $theme-retro-wave-two,
+               -12px 12px $theme-retro-wave-three,
+               -16px 16px $theme-retro-wave-four,
+               -20px 20px $theme-retro-wave-five;
+}
+
 
 .body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
