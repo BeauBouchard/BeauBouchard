@@ -7,6 +7,7 @@ In short Its a portable solar powered hydroponic system that automates a lot of 
 Its based on a dutch bucket system, where a single bucket is a single plant wattered and has a water return system.
 
 `TODO Diagram of Basic dutch bucket system`
+<img src="/assets/media/images/project/garden/water_diagram.png" alt="" />
 
 <div class="sage">
   <h1>Header 1</h1>
