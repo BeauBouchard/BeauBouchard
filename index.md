@@ -21,9 +21,9 @@ It may be fun to read for some people. :D
 
 <div align="center">
   <p></p>
-    <h1 width="100%"><a href="sage.af">🔮 sage.af</a></h1>
+    <h1 width="100%"><a href="https://sage.af">🔮 sage.af</a></h1>
   <p></p>
-    <h1 width="100%"><a href="wh.iterabb.it">🧑‍💻 wh.iterabb.it</a></h1>
+    <h1 width="100%"><a href="https://wh.iterabb.it">🧑‍💻 wh.iterabb.it</a></h1>
   <p></p>
 </div>
 
