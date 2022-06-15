@@ -1,14 +1,3 @@
-<div class="planter-wrap">
-	<div class="planter-base">
-		<div class="planter-flowerpot"></div>
-		<div class="planter-plant-blade planter-plant-blade-center"></div>
-		<div class="planter-plant-blade planter-plant-blade-left-s"></div>
-		<div class="planter-plant-blade planter-plant-blade-right-s"></div>
-		<div class="planter-plant-blade planter-plant-blade-left-l"></div>
-		<div class="planter-plant-blade planter-plant-blade-right-l"></div>
-	</div>
-</div>
-
 # The Garden
 
 In short Its a portable solar powered hydroponic system that automates a lot of the effort and routine out of gardening. 
@@ -23,5 +12,6 @@ Its based on a dutch bucket system, where a single bucket is a single plant watt
   <h1>Header 1</h1>
   <h2>Header 2</h2>
   <h3>Header 3</h3>
-  <p> test this is a test <a href="#">test link</a></p>
+  <p>Lorem ipsum dolor sit amet, <a href="#">consectetur</a> adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+  <p>Duis aute irure dolor in reprehenderit in <a href="#">voluptate</a> velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 </div>
