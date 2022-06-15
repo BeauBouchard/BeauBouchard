@@ -68,8 +68,12 @@ a:visited {
   
   p:first-of-type:first-letter {
     color: $theme-sage-primary;
+    float: left;
     font-weight: bold;
     font-size: 2rem;
+    line-height: 1.9rem;
+    padding-right: 8px;
+    margin-top: -3px;
   }
 
   a {
