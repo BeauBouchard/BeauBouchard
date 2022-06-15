@@ -36,6 +36,7 @@ I am Beau, I like to code things.
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
  [![AWS](https://img.shields.io/badge/AWS%20Hosting-FFFFFF.svg?logo=amazonaws&logoColor=orange)](https://aws.amazon.com/)
+ [![netlify](https://img.shields.io/badge/Netlify-FFFFFF.svg?logo=netlify&logoColor=blue)](https://www.netlify.com/)
 
 ### ☁️ Cloud Tools
 
