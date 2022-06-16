@@ -5,16 +5,15 @@
 ## Purpose 
 
 <div class="rotation">
-  <p>This site exists to  </p>
-  <b>
-    <div class="innerRotation">
+  <p>This site exists to 
+  <b><div class="innerRotation">
       document projects<br />
       host my contact info<br />
       validate a domain purchase<br />
       outlink social network accounts<br />
       help others learn
     </div>
-  </b>.
+  </b>.</p>
 </div>
 
 It may be fun to read for some people. :D 
