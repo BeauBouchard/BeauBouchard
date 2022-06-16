@@ -184,6 +184,7 @@ header {
 
 /** Fixed height Rotating Text **/
 .rotation {
+  width: 100%;
   font: normal 40px/50px Helvetica, Arial, sans-serif;
 }
 
@@ -195,7 +196,6 @@ header {
   overflow: hidden;
   float: left;
   height: 50px;
-  width: 100%;
 }
 
 .rotation .innerRotation {
