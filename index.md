@@ -2,8 +2,9 @@
 <div class="rainbow-retro"></div>
 <h5 class="header-rainbow-retro">beau.sh</h5>
 
-<p></p>
+<p> </p>
 
+<p> </p>
 <div class="rotation">
   <p>This site exists to </p>
   <b><div class="innerRotation">
@@ -15,7 +16,9 @@
     </div>
   </b>
 </div>
-<p></p>
+
+<p> </p>
+
 It may be fun to read for some people. :D 
 <p></p>
 <div align="center">
@@ -23,9 +26,12 @@ It may be fun to read for some people. :D
     <h1 width="100%"><a href="/projects">🌱 Current Projects</a></h1>
   <p></p>
 </div>
-<p></p>
+
+<p> </p>
 
 ## You can find Beau on . . .
+
+<p> </p>
 
 <div align="center">
   <a href="https://linktr.ee/beaubouchard"><img src="https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=green" alt="LinkTree Badge Image" /></a>
@@ -33,5 +39,7 @@ It may be fun to read for some people. :D
   <a href="https://github.com/BeauBouchard/"><img src="https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=black" alt="Github Badge Image" /></a>
   <a href="https://www.linkedin.com/in/beaubouchard/"><img src="https://img.shields.io/badge/Linkedin-FFFFFF.svg?logo=linkedin&logoColor=blue" alt="LinkedIn Badge Image" /></a>
 </div>
+
+
 
 
