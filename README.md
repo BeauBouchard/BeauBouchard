@@ -52,7 +52,7 @@ I am Beau, I like to code things.
  [![New Relic](https://img.shields.io/badge/New%20Relic-FFFFFF.svg?logo=newrelic&logoColor=blue)](https://newrelic.com/)
  [![DataDog](https://img.shields.io/badge/DataDog-FFFFFF.svg?logo=datadog&logoColor=blue)](https://www.datadoghq.com/)
  [![PagerDuty](https://img.shields.io/badge/Pagerduty-FFFFFF.svg?logo=pagerduty&logoColor=blue)](https://www.pagerduty.com/)
- [![Apiary](https://img.shields.io/badge/Apiary-FFFFFF.svg?logo=oracle&logoColor=white)](https://apiary.io/)
+ [![Apiary](https://img.shields.io/badge/Apiary-FFFFFF.svg?logo=oracle&logoColor=%23F90000)](https://apiary.io/)
 
 
 ## 🏛️ Organizations I contributed to
