@@ -2,7 +2,7 @@
 <div class="rainbow-retro"></div>
 <h5 class="header-rainbow-retro">beau.sh</h5>
 
-## Purpose 
+<p></p>
 
 <div class="rotation">
   <p>This site exists to </p>
@@ -15,15 +15,15 @@
     </div>
   </b>.
 </div>
-
+<p></p>
 It may be fun to read for some people. :D 
-
+<p></p>
 <div align="center">
   <p></p>
     <h1 width="100%"><a href="/projects">🌱 Current Projects</a></h1>
   <p></p>
 </div>
-
+<p></p>
 
 ## You can find Beau on . . .
 
