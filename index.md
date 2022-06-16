@@ -18,7 +18,7 @@
 <p class="spacers"> </p>
 <p class="spacers"> </p>
 <div align="center">
-    <h1 width="100%"><a href="/projects">My Current Projects</a></h1>
+    <h1 width="100%"><a href="/projects">🔗 My Current Projects 🔗</a></h1>
 </div>
 <p class="spacers"> </p>
 <p class="spacers"> </p>
