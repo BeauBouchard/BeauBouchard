@@ -7,25 +7,14 @@ This website is for <span class="accent">utility</span> and <span class="accent"
 
 It may be fun to read for some people. :D 
 
-## Current Projects 
+
 
 <div align="center">
   <p></p>
-    <h1 width="100%"><a href="projects/garden">🌱 bucket.garden</a></h1>
-  <p></p>
-    <h1 width="100%"><a href="projects/crucible">🔩 crucible.news</a></h1>
+    <h1 width="100%"><a href="/projects">🌱 Current Projects</a></h1>
   <p></p>
 </div>
 
-## Other Projects 
-
-<div align="center">
-  <p></p>
-    <h1 width="100%"><a href="https://sage.af">🔮 sage.af</a></h1>
-  <p></p>
-    <h1 width="100%"><a href="https://wh.iterabb.it">🧑‍💻 wh.iterabb.it</a></h1>
-  <p></p>
-</div>
 
 ## You can find Beau on . . .
 
