@@ -13,7 +13,7 @@
       outlink social network accounts<br />
       help others learn
     </div>
-  </b>.
+  </b>
 </div>
 <p></p>
 It may be fun to read for some people. :D 
