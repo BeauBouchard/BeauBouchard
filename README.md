@@ -11,12 +11,13 @@ I am Beau, I like to code things.
 
  [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Abash)
  [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Acss)
+ [![GoLang](https://img.shields.io/badge/GoLang-20232a.svg?logo=go&logoColor=%2379D4FD)](https://go.dev/)
+ [![GraphQL](https://img.shields.io/badge/GraphQL-20232a.svg?logo=graphql&logoColor=%23e10098)](https://graphql.org/)
  [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Ahtml)
  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3BeauBouchard+language%3Ajavascript)
  [![markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Amarkdown)
  [![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Ajavascript)
  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Amarkdown)
-
 
 ### 🧰 Frameworks and Libraries
 
@@ -27,17 +28,16 @@ I am Beau, I like to code things.
  [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)](https://docs.github.com/en/actions)
  [![Docker](https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 
+### 🗄️ Databases and Hosting
 
-### 🗄️ Databases and Cloud Hosting
-
-
- ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
+ [![MySQL](https://img.shields.io/badge/MySQL-20232a.svg?logo=mysql&logoColor=%23007ACC)](https://www.mysql.com/)
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
- ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)
+ 
  [![AWS](https://img.shields.io/badge/AWS%20Hosting-FFFFFF.svg?logo=amazonaws&logoColor=orange)](https://aws.amazon.com/)
  [![netlify](https://img.shields.io/badge/Netlify-FFFFFF.svg?logo=netlify&logoColor=blue)](https://www.netlify.com/)
- ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-2671E5.svg?logo=github&logoColor=white)
+ [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)](#idontusethisanymore)
+ [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-2671E5.svg?logo=github&logoColor=white)](https://pages.github.com/)
 
 ### ☁️ Cloud Tools
 
@@ -52,6 +52,8 @@ I am Beau, I like to code things.
  [![New Relic](https://img.shields.io/badge/New%20Relic-FFFFFF.svg?logo=newrelic&logoColor=blue)](https://newrelic.com/)
  [![DataDog](https://img.shields.io/badge/DataDog-FFFFFF.svg?logo=datadog&logoColor=blue)](https://www.datadoghq.com/)
  [![PagerDuty](https://img.shields.io/badge/Pagerduty-FFFFFF.svg?logo=pagerduty&logoColor=blue)](https://www.pagerduty.com/)
+ [![Apiary](https://img.shields.io/badge/Apiary-FFFFFF.svg?logo=oracle&logoColor=white)](https://apiary.io/)
+
 
 ## 🏛️ Organizations I contributed to
 
