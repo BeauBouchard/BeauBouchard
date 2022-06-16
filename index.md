@@ -5,7 +5,7 @@
 ## Purpose 
 
 <div class="rotation">
-  <p>This site exists to 
+  <p>This site exists to </p>
   <b><div class="innerRotation">
       document projects<br />
       host my contact info<br />
@@ -13,7 +13,7 @@
       outlink social network accounts<br />
       help others learn
     </div>
-  </b>.</p>
+  </b>.
 </div>
 
 It may be fun to read for some people. :D 
