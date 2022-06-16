@@ -117,11 +117,11 @@ header {
   margin-top: 0px;
   margin-bottom: 50px;
   text-align: center;
-  font-family: sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 3rem;
   letter-spacing: 0.15rem;
   text-transform: uppercase;
-  color: #F9F0E3;
+  color: $theme-retro-wave-background;
   text-shadow: -2px -2px 0 #323232,
                -2px -1px 0 #323232,
                -2px 0px 0 #323232,
