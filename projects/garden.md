@@ -1,4 +1,4 @@
-<a href="/">home</a> / <a href="projects">projects</a> /  <a href="projects/garden">projects/garden</a>
+<a href="/">home</a> / <a href="projects">projects</a> /  <a href="projects/garden">garden</a>
 
 <div class="sage">
   <h1>The Garden</h1>
