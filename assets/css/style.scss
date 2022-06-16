@@ -192,7 +192,6 @@ header {
 }
 
 .rotation b {
-  float: left;
   overflow: hidden;
   height: 50px;
 }
@@ -201,9 +200,6 @@ header {
   display: inline-block;
   color: $theme-default-primary;
   white-space: nowrap;
-  position: relative;
-  top: 0;
-  left: 0;
 
 /** animation **/
 -webkit-animation:move 10s;
