@@ -1,3 +1,5 @@
+<a href="/">home</a> / <a href="projects">projects</a> /  <a href="projects/garden">projects/garden</a>
+
 <div class="sage">
   <h1>The Garden</h1>
   <div class="container">
