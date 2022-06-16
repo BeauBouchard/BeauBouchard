@@ -1,3 +1,15 @@
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-seo-tag
+title: "beau.sh"
+description: "Beau Bouchard's lil site"
+social:
+  name: Beau Bouchard
+  links:
+    - https://twitter.com/beaubouchard
+    - https://www.linkedin.com/in/beaubouchard
+    - https://github.com/beaubouchard
+twitter:
+  username: beaubouchard
+  card: summary
+url: beau.sh
