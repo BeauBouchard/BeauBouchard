@@ -1,6 +1,6 @@
-<a href="/">home</a> / <a href="/projects">projects</a> /  <a href="/projects/garden">bucket.garden</a>
-
 <div class="sage">
+  <a href="/">home</a> / <a href="/projects">projects</a> /  <a href="/projects/garden">bucket.garden</a>
+
   <h1>The Garden</h1>
   <div class="container">
     <p>The Project, in short is a portable solar powered hydroponic system that automates a lot of the effort and routine out of gardening. </p>
