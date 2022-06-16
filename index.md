@@ -8,7 +8,7 @@
       document projects<br />
       host my contact info<br />
       validate a domain purchase<br />
-      outlink social network accounts<br />
+      outlink social media<br />
       help others learn
     </div>
   </b>
