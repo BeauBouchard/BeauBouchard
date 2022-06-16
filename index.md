@@ -4,11 +4,20 @@
 
 ## Purpose 
 
-This website is for <span class="accent">utility</span> and <span class="accent">documentation</span> of projects from <a href="whoami">Beau</a>. 
+<div class="rotation">
+  <p>This site exists to  </p>
+  <b>
+    <div class="innerRotation">
+      document projects<br />
+      host my contact info<br />
+      validate a domain purchase<br />
+      outlink social network accounts<br />
+      help others learn
+    </div>
+  </b>.
+</div>
 
 It may be fun to read for some people. :D 
-
-
 
 <div align="center">
   <p></p>
