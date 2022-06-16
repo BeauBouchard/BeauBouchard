@@ -2,6 +2,7 @@
 <div class="rainbow-retro"></div>
 <h5 class="header-rainbow-retro">beau.sh</h5>
 <p class="spacers"> </p>
+<p class="spacers"> </p>
 <div class="rotation">
   <p>This site exists to </p>
   <b><div class="innerRotation">
@@ -19,7 +20,6 @@
 <div align="center">
     <h1 width="100%"><a href="/projects">My Current Projects</a></h1>
 </div>
-<p class="spacers"> </p>
 <p class="spacers"> </p>
 <p class="spacers"> </p>
 <div align="center">
