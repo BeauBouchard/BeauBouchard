@@ -1,5 +1,5 @@
 <div class="sage">
-  <a href="/">home</a> / <a href="/projects">projects</a> /  <a href="/projects/garden">bucket.garden</a>
+  <p><a href="/">home</a> / <a href="/projects">projects</a> /  <a href="/projects/garden">bucket.garden</a></p>
 
   <h1>The Garden</h1>
   <div class="container">
