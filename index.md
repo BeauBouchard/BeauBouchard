@@ -15,13 +15,12 @@
 </div>
 <p class="spacers"> </p>
 <p class="spacers"> </p>
-<p>It may be fun to read for some people. :D</p>
 <p class="spacers"> </p>
 <div align="center">
-    <h1 width="100%"><a href="/projects">🌱 Current Projects</a></h1>
+    <h1 width="100%"><a href="/projects">My Current Projects</a></h1>
 </div>
 <p class="spacers"> </p>
-## You can find Beau on . . .
+<p class="spacers"> </p>
 <p class="spacers"> </p>
 <div align="center">
   <a href="https://linktr.ee/beaubouchard"><img src="https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=green" alt="LinkTree Badge Image" /></a>
