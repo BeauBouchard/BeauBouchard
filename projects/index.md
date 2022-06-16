@@ -1,3 +1,4 @@
+<a href="/">home</a> / <a href="projects">projects</a>
 <div class="rainbow-retro"></div>
 <h5 class="header-rainbow-retro">Projects</h5>
 
