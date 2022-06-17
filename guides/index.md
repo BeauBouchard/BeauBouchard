@@ -40,7 +40,9 @@
 
 ### Markdown
 
- * [x](x)
+ * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
+ * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
+ * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
 
 ### Javascript
 
