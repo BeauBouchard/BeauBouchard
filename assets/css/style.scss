@@ -219,8 +219,18 @@ $theme-pride-eleven:                  #732982;
     0 0 0 6.5vw $theme-pride-nine,
     0 0 0 7.5vw $theme-pride-ten,
     0 0 0 8.5vw $theme-pride-eleven;
-    animation-delay: 180s;
-    animation: pride-slidein 3s;
+/** animation **/
+-webkit-animation:pride-slidein 10s;
+   -moz-animation:pride-slidein 10s;
+    -ms-animation:pride-slidein 10s;
+     -o-animation:pride-slidein 10s;
+        animation:pride-slidein 10s;
+  /** animation-delay **/
+-webkit-animation-delay:180s;
+   -moz-animation-delay:180s;
+    -ms-animation-delay:180s;
+     -o-animation-delay:180s;
+        animation-delay:180s;
 }
 
 @keyframes pride-slidein {
