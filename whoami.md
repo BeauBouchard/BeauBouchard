@@ -1,4 +1,5 @@
 <div class="whoami">
+  <div class="whoami-buffer"> </div>
   <div class="whoami-inner">
     <p><a href="/">home</a> / <a href="whoami">whoami</a></p>
     <div class="whoami-name">Beau Bouchard</div>
