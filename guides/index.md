@@ -42,11 +42,11 @@
 
 ## Language Specific
 
-### ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white) 
+### Markdown
 
- * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
- * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
- * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
+ * [Make a Collapsible in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-collapsible)
+ * [Add an Image in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-image)
+ * [Center Things in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-alignment)
 
 
 
