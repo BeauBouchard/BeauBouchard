@@ -192,21 +192,21 @@ a:visited {
   content: '';
   width: 50%;
   height: 100%;
-  top: 12.5vw;
-  left: 12.5vw;
+  top: 17.5vw;
+  left: 17.5vw;
   border-radius: 50%;
   box-shadow:
-    0 0 0 2vw $theme-pride-one,
-    0 0 0 4vw $theme-pride-two,
-    0 0 0 6vw $theme-pride-three,
-    0 0 0 8vw $theme-pride-four,
-    0 0 0 10vw $theme-pride-five,
-    0 0 0 12vw $theme-pride-six,
-    0 0 0 14vw $theme-pride-seven,
-    0 0 0 16vw $theme-pride-eight,
-    0 0 0 18vw $theme-pride-nine,
-    0 0 0 20vw $theme-pride-ten,
-    0 0 0 22vw $theme-pride-eleven;
+    0 0 0 1vw $theme-pride-one,
+    0 0 0 2vw $theme-pride-two,
+    0 0 0 3vw $theme-pride-three,
+    0 0 0 4vw $theme-pride-four,
+    0 0 0 5vw $theme-pride-five,
+    0 0 0 7vw $theme-pride-six,
+    0 0 0 9vw $theme-pride-seven,
+    0 0 0 11vw $theme-pride-eight,
+    0 0 0 13vw $theme-pride-nine,
+    0 0 0 15vw $theme-pride-ten,
+    0 0 0 17vw $theme-pride-eleven;
 }
 
 .rainbow-retro:hover::before {
