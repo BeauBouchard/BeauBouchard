@@ -20,16 +20,18 @@
         <li><a href="">CSS/SCSS</a></li>
       </ul>
     </li>
-    <li><a href="#automation">Automation</a></li>
-    <ul>
-      <li><a href="#github-actions">Github Actions</a></li>
-      <li><a href="#docker">Docker</a></li>
-    </ul>
-    <li><a href="#tutorials-in-900-seconds">Tutorials in 900 seconds</a></li>
-    <ul>
-      <li><a href="#rest-api">REST APIs</a></li>
-      <li><a href="#graphql">GraphQL</a></li>
-    </ul>
+    <li><a href="#automation">Automation</a>
+      <ul>
+        <li><a href="#github-actions">Github Actions</a></li>
+        <li><a href="#docker">Docker</a></li>
+      </ul>
+    </li>
+    <li><a href="#tutorials-in-900-seconds">Tutorials in 900 seconds</a>
+      <ul>
+        <li><a href="#rest-api">REST APIs</a></li>
+        <li><a href="#graphql">GraphQL</a></li>
+      </ul>
+    </li>
   </ul>
 
 </details>
