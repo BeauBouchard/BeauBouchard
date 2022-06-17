@@ -220,9 +220,11 @@ $theme-pride-eleven:                  #732982;
     0 0 0 6.5vw $theme-pride-nine,
     0 0 0 7.5vw $theme-pride-ten,
     0 0 0 8.5vw $theme-pride-eleven;
-  
-  animation-duration: 3s;
-  animation-name: pride-slidein;
+  -webkit-animation:pride-slidein 10s;
+   -moz-animation:pride-slidein 10s;
+    -ms-animation:pride-slidein 10s;
+     -o-animation:pride-slidein 10s;
+        animation:pride-slidein 10s;
 }
 
 @keyframes pride-slidein {
@@ -325,7 +327,6 @@ $theme-pride-eleven:                  #732982;
   60% { top: -150px; }
   80% { top: -200px; }
 }
-
 
 .whoami {
   width: 100vw;
