@@ -222,11 +222,11 @@ $theme-pride-eleven:                  #732982;
      -o-animation:pride-slidein 10s;
         animation:pride-slidein 10s;
   /** animation-delay **/
--webkit-animation-delay:180s;
-   -moz-animation-delay:180s;
-    -ms-animation-delay:180s;
-     -o-animation-delay:180s;
-        animation-delay:180s;
+-webkit-animation-delay:10s;
+   -moz-animation-delay:10s;
+    -ms-animation-delay:10s;
+     -o-animation-delay:10s;
+        animation-delay:10s;
 }
 
 @keyframes pride-slidein {
