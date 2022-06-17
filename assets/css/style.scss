@@ -202,10 +202,6 @@ $theme-pride-eleven:                  #732982;
 .rainbow-pride:after {
   position: absolute;
   content: '';
-  width: 50%;
-  height: 100%;
-  top: 8.75vw;
-  left: 8.75vw;
   border-radius: 50%;
   box-shadow:
     0 0 0 0.5vw $theme-pride-one,
@@ -239,7 +235,13 @@ $theme-pride-eleven:                  #732982;
     right: 100vw;
     width: 1%;
     height: 1%;
-    rotate: 1deg;
+  }
+  
+  to {
+    width: 50%;
+    height: 100%;
+    top: 8.75vw;
+    left: 8.75vw; 
   }
 }
 
