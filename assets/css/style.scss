@@ -219,8 +219,9 @@ $theme-pride-eleven:                  #732982;
     0 0 0 6.5vw $theme-pride-nine,
     0 0 0 7.5vw $theme-pride-ten,
     0 0 0 8.5vw $theme-pride-eleven;
-    animation-delay: 10s;
-    animation:pride-slidein 3s;
+  animation-delay: 10s;
+  animation-duration: 3s;
+  animation-name: pride-slidein;
 }
 
 @keyframes pride-slidein {
