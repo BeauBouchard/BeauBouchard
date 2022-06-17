@@ -23,12 +23,6 @@
     <h1 width="100%"><a href="/guides">🧑‍🎓 Guides</a></h1>
     <p class="spacers"> </p>
     <p class="spacers"> </p>
-    <p>
-      <a href="https://linktr.ee/beaubouchard"><img src="https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=green" alt="LinkTree Badge Image" /></a>
-      <a href="https://twitter.com/beaubouchard"><img src="https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue" alt="Twitter Badge Image" /></a>
-      <a href="https://github.com/BeauBouchard/"><img src="https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=black" alt="Github Badge Image" /></a>
-      <a href="https://www.linkedin.com/in/beaubouchard/"><img src="https://img.shields.io/badge/Linkedin-FFFFFF.svg?logo=linkedin&logoColor=blue" alt="LinkedIn Badge Image" /></a>
-    </p>
 </div>
 
 
