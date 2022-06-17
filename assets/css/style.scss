@@ -189,11 +189,11 @@ a:visited {
 
 .rainbow-pride {
   position: absolute;
-  width: 70vw;
-  height: 35vw;
+  width: 35vw;
+  height: 17.5vw;
   overflow: hidden;
   background: transparent;
-  right: -35vw;
+  right: -17.5vw;
   top: -1.2vw;
   rotate: 180deg;
 }
@@ -203,21 +203,21 @@ a:visited {
   content: '';
   width: 50%;
   height: 100%;
-  top: 17.5vw;
-  left: 17.5vw;
+  top: 8.75vw;
+  left: 8.75vw;
   border-radius: 50%;
   box-shadow:
-    0 0 0 1vw $theme-pride-one,
-    0 0 0 2vw $theme-pride-two,
-    0 0 0 3vw $theme-pride-three,
-    0 0 0 4vw $theme-pride-four,
-    0 0 0 5vw $theme-pride-five,
-    0 0 0 7vw $theme-pride-six,
-    0 0 0 9vw $theme-pride-seven,
-    0 0 0 11vw $theme-pride-eight,
-    0 0 0 13vw $theme-pride-nine,
-    0 0 0 15vw $theme-pride-ten,
-    0 0 0 17vw $theme-pride-eleven;
+    0 0 0 0.5vw $theme-pride-one,
+    0 0 0 1vw $theme-pride-two,
+    0 0 0 1.5vw $theme-pride-three,
+    0 0 0 2vw $theme-pride-four,
+    0 0 0 2.5vw $theme-pride-five,
+    0 0 0 3.5vw $theme-pride-six,
+    0 0 0 4.5vw $theme-pride-seven,
+    0 0 0 5.5vw $theme-pride-eight,
+    0 0 0 6.5vw $theme-pride-nine,
+    0 0 0 7.5vw $theme-pride-ten,
+    0 0 0 8.5vw $theme-pride-eleven;
   
   animation-duration: 3s;
   animation-name: slidein;
