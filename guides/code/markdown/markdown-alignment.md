@@ -14,7 +14,10 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags wit
 
 #### Center
 
-<img align="center" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" /><br />
+<img align="center" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+
+<p class="spacers"> <br /></p>
+
 
 #### Code
 
@@ -26,10 +29,9 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags wit
 
 #### Left
 
-<img align="left" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" /><br />
+<img align="left" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 
-
-
+<p class="spacers"> <br /></p>
 
 #### Code
 
@@ -40,9 +42,9 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags wit
 
 #### Right
 
-<img align="right" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" /><br />
+<img align="right" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 
-
+<p class="spacers"> </p>
 
 #### Code
 
@@ -61,6 +63,7 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags wit
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true">
 </div>
   
+<p class="spacers"> <br /></p>
 
 #### Code
 
