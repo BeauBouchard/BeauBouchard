@@ -42,7 +42,7 @@
 
 ## Language Specific
 
-### Markdown
+### ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white) 
 
  * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
  * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
