@@ -230,14 +230,14 @@ $theme-pride-eleven:                  #732982;
 }
 
 @keyframes pride-slidein {
-  from {
+  0% {
     top: 100vw;
     right: 100vw;
     width: 1%;
     height: 1%;
   }
   
-  to {
+  100% {
     width: 50%;
     height: 100%;
     top: 8.75vw;
