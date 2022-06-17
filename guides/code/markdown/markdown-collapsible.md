@@ -47,25 +47,6 @@
   ```
 </details>
 
-### Structure
-
-```
-
-### A collapsible section containing code
-
-<details>
-  <summary>Click to expand!</summary>
-  
-  ```javascript
-    function logger(message) {
-      var date = new Date();
-      console.log(`[${date.toISOString()}]: ${message}`);
-    }
-  ```
-</details>
-
-```
-
 
 # NOTE:
 ## Very important rules for github markdown
