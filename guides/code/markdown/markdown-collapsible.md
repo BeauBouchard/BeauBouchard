@@ -78,15 +78,18 @@
 
 ## Very important rules for github markdown
 
+otherwise the markdown/code blocks won't show correctly.
+
 <p class="spacers"> </p>
 
 1. **MUST HAVE** an **empty line** after the closing `</summary>` tag.
 2. **MUST HAVE** an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.
 3. **FOR** Github Pages, all content inside of HTML tags **MUST BE** in HTML, not markdown. 
 
-otherwise the markdown/code blocks won't show correctly.
-
 <p class="spacers"> </p>
 
 ## Advanced Usage
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details">MDN HTML Documentation on details tag.</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details">MDN HTML Documentation on details tag.</a>
