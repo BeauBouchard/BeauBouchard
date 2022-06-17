@@ -15,7 +15,7 @@ I am Beau, I like to code things.
  [![GraphQL](https://img.shields.io/badge/GraphQL-20232a.svg?logo=graphql&logoColor=%23e10098)](https://graphql.org/)
  [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Ahtml)
  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3BeauBouchard+language%3Ajavascript)
- [![markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Amarkdown)
+ [![markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Amarkdown)
  [![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Ajavascript)
  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Amarkdown)
 
@@ -37,7 +37,7 @@ I am Beau, I like to code things.
  
  #### 🗄️ Databases
 
- [![MySQL](https://img.shields.io/badge/MySQL-20232a.svg?logo=mysql&logoColor=%23007ACC)](https://www.mysql.com/)
+ [![MySQL](https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC)](https://www.mysql.com/)
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
