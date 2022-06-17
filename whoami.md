@@ -2,6 +2,7 @@
   <div class="whoami-buffer"> </div>
   <div class="whoami-inner">
     <p><a href="/">home</a> / <a href="whoami">whoami</a></p>
+    <div class="rainbow-pride"></div>
     <div class="whoami-name">Beau Bouchard</div>
     <p class="spacers"><br /></p>
     <p class="spacers"><br /></p>
