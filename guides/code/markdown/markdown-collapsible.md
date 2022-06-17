@@ -9,15 +9,23 @@
 
 <details>
   <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. both numbered
-  2. and lettered ordered lists
-     * also with bullets
-     * or Sub bullets
+
+  <h2>Heading</h2>
+
+  <ol>
+    <li>both numbered</li>
+    <li>and lettered ordered lists</li>
+    <li>and unordered lists
+      <ul>
+        <li>with bullets</li>
+        <li>or sub-bullets</li>
+      </ul>
+    </li>
+  </ol>
+
 </details>
 
-### Structure
+### Structure in Markdown
 
 ```
 ### A collapsible Details Section Containing markdown
@@ -28,34 +36,57 @@
   ## Heading
   1. both numbered
   2. and lettered ordered lists
-     * also with bullets
-     * or Sub bullets
+  3. and unordered lists
+     * with bullets
+     * or sub-bullets
 </details>
 
 ```
 
-### A collapsible section containing code
+<p class="spacers"> </p>
+
+### Structure in HTML / Githubpages
+
+```
+### A collapsible Details Section Containing markdown
 
 <details>
   <summary>Click to expand!</summary>
-  
-  ```javascript
-    function logger(message) {
-      var date = new Date();
-      console.log(`[${date.toISOString()}]: ${message}`);
-    }
-  ```
+
+  <h2>Heading</h2>
+
+  <ol>
+    <li>both numbered</li>
+    <li>and lettered ordered lists</li>
+    <li>and unordered lists
+      <ul>
+        <li>with bullets</li>
+        <li>or sub-bullets</li>
+      </ul>
+    </li>
+  </ol>
+
 </details>
 
+```
+
+<p class="spacers"> </p>
 
 # NOTE:
+
+<p class="spacers"> </p>
+
 ## Very important rules for github markdown
+
+<p class="spacers"> </p>
 
 1. **MUST HAVE** an **empty line** after the closing `</summary>` tag.
 2. **MUST HAVE** an **empty line** after the closing `</details>` tag if you have multiple collapsible sections.
+3. **FOR** Github Pages, all content inside of HTML tags **MUST BE** in HTML, not markdown. 
 
 otherwise the markdown/code blocks won't show correctly.
 
+<p class="spacers"> </p>
 
 ## Advanced Usage
 
