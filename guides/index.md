@@ -1,9 +1,9 @@
 <p><a href="/">home</a> / <a href="/guides">guides</a></p>
 <div class="rainbow-retro"></div>
 <h5 class="header-rainbow-retro">Guides</h5>
-<div class="guides">
 
-## Table of Contents
+<h2>Table of Contents</h2>
+
 <details>
 
   <summary>Table of Contents</summary>
@@ -32,6 +32,8 @@
   </ul>
 
 </details>
+
+<p class="spacers"> </p>
 
 ## Language Specific
 
@@ -73,5 +75,3 @@
  * [x](x)
 
 
-
-</div>
