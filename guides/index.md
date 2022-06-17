@@ -10,16 +10,16 @@
 
   * [Table of Contents]()
   * [Language Specific]()
-     * [Markdown]()
-     * [Javascript]()
-     * [Typescript]()
+     * [Markdown](#markdown)
+     * [Javascript](#javascript)
+     * [Typescript](#typescript)
      * [CSS/SCSS]()
   * [Automation]()
-     * [Github Actions]()
-     * [Docker]()
-  * [Tutorials in 900 seconds]()
-   * [REST API]()
-   * [GraphQL]()
+     * [Github Actions](#github-actions)
+     * [Docker](#docker)
+  * [Tutorials in 900 seconds](#tutorials-in-900-seconds)
+   * [REST API](#rest-api)
+   * [GraphQL](#graphql)
   
 
 </details>
