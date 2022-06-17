@@ -173,6 +173,29 @@ a:visited {
     0 0 0 10vw $theme-retro-wave-five;
 }
 
+.rainbow-retro::before {
+  position: absolute;
+  content: '';
+  width: 50%;
+  height: 100%;
+  top: 12.5vw;
+  left: 12.5vw;
+  border-radius: 50%;
+  box-shadow:
+    0 0 0 2vw #E7484F,
+    0 0 0 4vw #F68B1D,
+    0 0 0 6vw #FCED00,
+    0 0 0 8vw #00AAC3,
+    0 0 0 10vw #732982;
+  z-index: -1;
+  transition: transform .3s ease;
+}
+
+.rainbow-retro:hover::before {
+  transform: scaleX(1);
+  transform-origin: top right;
+}
+
 /** Fixed height Rotating Text **/
 .rotation {
   font: normal 40px/50px Helvetica, Arial, sans-serif;
