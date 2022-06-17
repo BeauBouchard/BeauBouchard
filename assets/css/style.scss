@@ -196,7 +196,6 @@ a:visited {
   right: -35vw;
   top: -1.2vw;
   rotate: 180deg;
-
 }
 
 .rainbow-pride:after {
@@ -226,13 +225,19 @@ a:visited {
 
 @keyframes slidein {
   from {
+    top: -17.5vw;
+    left: -17.5vw;
     width: 1vw;
     height: 1vw;
+    rotate: 1deg;
   }
 
   to {
+    top: 17.5vw;
+    left: 17.5vw;
     width: 70vw;
     height: 35vw;
+    rotate: 180deg;
   }
 }
 
