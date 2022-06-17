@@ -21,7 +21,7 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
 
 #### Code
 
-```
+```html
 <p align="center">
   <img  width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 </p>
@@ -37,7 +37,7 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
 
 #### Code
 
-```
+```html
 <p align="left">
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 </p>
@@ -52,7 +52,7 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
  
 #### Code
 
-```
+```html
 <p align="right">
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 </p>
@@ -72,7 +72,7 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
 
 #### Code
 
-```
+```html
 <div align="center">
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true">
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true">
