@@ -35,8 +35,6 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 </p>
 
-<p class="spacers"> <br /></p>
-
 #### Code
 
 ```
@@ -44,6 +42,7 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 </p>
 ```
+
 ---
 
 #### Right
@@ -51,8 +50,6 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 </p>
  
-<p class="spacers"> </p>
-
 #### Code
 
 ```
@@ -62,7 +59,6 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
 ```
 
 ---
-
 
 ### Align other content using Div Tags
 
@@ -83,13 +79,13 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>`
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true">
 </div>
 ```
+---
 <p class="spacers"> <br /></p>
 
 ## Advanced Usage
-
 
 ### NOTE:
 
 It is no longer recommended to directly attach `align=""` to `<img/>` tags 
 
-Read here: <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/align">MDN HTML Documentation on 'align' property.</a>
+Read here: <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/align">MDN HTMLImageElement Documentation on 'align' property.</a>
