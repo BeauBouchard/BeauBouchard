@@ -21,8 +21,8 @@
     <h1 width="100%"><a href="/projects">🔗 My Current Projects</a></h1>
     <p class="spacers"> </p>
     <h1 width="100%"><a href="/projects">🧑‍🎓 Guides</a></h1>
-    <p class="spacers"></hr></p>
-    <p class="spacers"></hr></p>
+    <p class="spacers"></p>
+    <p class="spacers"></p>
     <p>
       <a href="https://linktr.ee/beaubouchard"><img src="https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=green" alt="LinkTree Badge Image" /></a>
       <a href="https://twitter.com/beaubouchard"><img src="https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue" alt="Twitter Badge Image" /></a>
