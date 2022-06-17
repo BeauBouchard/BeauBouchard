@@ -3,8 +3,9 @@
     <p><a href="/">home</a> / <a href="whoami">whoami</a></p>
     <div class="whoami-name">Beau Bouchard</div>
     <p class="spacers"><br /></p>
-
-
+    <p class="spacers"><br /></p>
+    <p class="spacers"><br /></p>
+    
     <h2>📫 How to reach me </h2>
     <p>📵 Don't Call my Phone. . . (sorry, I enjoy when I am disconnected)</p>
     <ul>
