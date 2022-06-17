@@ -31,6 +31,14 @@ $theme-retro-wave-four:          #EA9F1C;
 $theme-retro-wave-five:          #F0C71D;
 $theme-retro-wave-background:    #F9F0E3;
 
+/** Happy Pride Month Rainbow Colors **/
+$theme-pride-one:                 #E7484F;
+$theme-pride-two:                 #F68B1D;
+$theme-pride-three:               #FCED00;
+$theme-pride-four:                #009E4F;
+$theme-pride-five:                #00AAC3;
+$theme-pride-six:                 #732982;
+
 /** Emoji maps **/
 $symbol-good:         "🟢";
 $symbol-issue:        "🟡";
@@ -183,12 +191,12 @@ a:visited {
   left: 12.5vw;
   border-radius: 50%;
   box-shadow:
-    0 0 0 2vw #E7484F,
-    0 0 0 4vw #F68B1D,
-    0 0 0 6vw #FCED00,
-    0 0 0 8vw #009E4F
-    0 0 0 10vw #00AAC3,
-    0 0 0 12vw #732982;
+    0 0 0 2vw $theme-pride-one,
+    0 0 0 4vw $theme-pride-two,
+    0 0 0 6vw $theme-pride-three,
+    0 0 0 8vw $theme-pride-four
+    0 0 0 10vw $theme-pride-five,
+    0 0 0 12vw $theme-pride-six;
   transition: transform .3s ease;
   z-index: -1;
 }
