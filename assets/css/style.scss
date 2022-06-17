@@ -199,7 +199,7 @@ $theme-pride-eleven:                  #732982;
   rotate: 180deg;
 }
 
-.rainbow-pride:after {
+.rainbow-pridehover::after {
   position: absolute;
   content: '';
   width: 50%;
@@ -219,11 +219,11 @@ $theme-pride-eleven:                  #732982;
     0 0 0 6.5vw $theme-pride-nine,
     0 0 0 7.5vw $theme-pride-ten,
     0 0 0 8.5vw $theme-pride-eleven;
-  -webkit-animation:pride-slidein 10s;
-   -moz-animation:pride-slidein 10s;
-    -ms-animation:pride-slidein 10s;
-     -o-animation:pride-slidein 10s;
-        animation:pride-slidein 10s;
+  -webkit-animation:pride-slidein 3s;
+   -moz-animation:pride-slidein 3s;
+    -ms-animation:pride-slidein 3s;
+     -o-animation:pride-slidein 3s;
+        animation:pride-slidein 3s;
 }
 
 @keyframes pride-slidein {
