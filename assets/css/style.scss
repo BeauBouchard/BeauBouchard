@@ -187,11 +187,20 @@ a:visited {
     0 0 0 10vw $theme-retro-wave-five;
 }
 
-.rainbow-retro::before {
+.rainbow-pride {
   position: absolute;
-  content: '';
   width: 70vw;
   height: 35vw;
+  overflow: hidden;
+  background: transparent;
+  right: -35vw;
+  top: -1.2vw;
+  rotate: 180deg;
+}
+
+.rainbow-pride:after {
+  position: absolute;
+  content: '';
   width: 50%;
   height: 100%;
   top: 17.5vw;
@@ -211,9 +220,7 @@ a:visited {
     0 0 0 17vw $theme-pride-eleven;
 }
 
-.rainbow-retro:hover::before {
 
-}
 
 /** Fixed height Rotating Text **/
 .rotation {
