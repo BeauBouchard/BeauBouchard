@@ -257,9 +257,19 @@ a:visited {
 
 
 .whoami {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
   font-family: helvetica, arial, sans-serif;
   background-color: #2E2E31;
   color: #F9F2ED;
+  h1, h2, h3 {
+     font-family: helvetica, arial, sans-serif;
+    background-color: #2E2E31;
+    color: #F9F2ED;
+  }
 }
 
 /** whoami Page Text Animation **/
