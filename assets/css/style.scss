@@ -216,11 +216,11 @@ $theme-pride-eleven:                  #732982;
     0 0 0 7.5vw $theme-pride-ten,
     0 0 0 8.5vw $theme-pride-eleven;
 /** animation **/
--webkit-animation:pride-slidein 10s;
-   -moz-animation:pride-slidein 10s;
-    -ms-animation:pride-slidein 10s;
-     -o-animation:pride-slidein 10s;
-        animation:pride-slidein 10s;
+-webkit-animation:pride-slidein 2800ms ease-in-out 0s forwards;;
+   -moz-animation:pride-slidein 2800ms ease-in-out 0s forwards;;
+    -ms-animation:pride-slidein 2800ms ease-in-out 0s forwards;;
+     -o-animation:pride-slidein 2800ms ease-in-out 0s forwards;;
+        animation:pride-slidein 2800ms ease-in-out 0s forwards;;
   /** animation-delay **/
 -webkit-animation-delay:10s;
    -moz-animation-delay:10s;
@@ -327,6 +327,17 @@ $theme-pride-eleven:                  #732982;
   60% { top: -150px; }
   80% { top: -200px; }
 }
+
+
+/** whoami Page Theme **/
+$theme-whoami-primary:                #FFB562;
+$theme-whoami-secondary:              #3AB0FF;
+$theme-whoami-trinary:                #FBF3E4;
+$theme-whoami-background:             #2E2E31;
+$theme-whoami-text-color:             #F9F2ED;
+$theme-whoami-link-color:             #ADDFB3;
+$theme-whoami-hlink-color:            #8ABD91;
+$theme-whoami-vlink-color:            #9CAF88;
 
 .whoami {
   width: 100vw;
