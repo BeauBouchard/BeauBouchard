@@ -42,55 +42,15 @@
 
 ## Language Specific
 
-### CSS/SCSS
-
- * [x](x)
-
-### Golang
-
- * [x](x)
-
-### Javascript
-
- * [x](x)
-
-### Typescript
-
- * [x](x)
-
-### PHP
-
- * [x](x)
-
 ### Markdown
 
  * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
- * [Add an Image in Markdown](/guides/code/markdown/markdown-alignment)
+ * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
  * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
 
 
 
 
 
-## Automation
-
-### Github Actions
-
- * [x](x)
-
-### Docker
-
- * [x](x)
-
-
-## Tutorials in 900 seconds
-
-### REST API
-
- * [x](x)
-
-### GraphQL
-
- * [x](x)
 
 
