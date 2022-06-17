@@ -65,7 +65,7 @@
 ### Markdown
 
  * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
- * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
+ * [Add an Image in Markdown](/guides/code/markdown/markdown-alignment)
  * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
 
 
