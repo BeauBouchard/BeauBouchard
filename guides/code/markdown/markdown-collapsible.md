@@ -1,3 +1,6 @@
+<p><a href="/">home</a> / <a href="/guides">guides</a></p>
+<div class="rainbow-retro"></div>
+
 # Make a Collapsible in Markdown
 
 ## Simple Usage
