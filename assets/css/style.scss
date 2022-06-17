@@ -279,9 +279,9 @@ a:visited {
   width: 100%;
   top: 50%;
   display: block;
-  border: 15px solid red;
+  border: 15px solid #FFB562;
   transform: translateX(-50%) translateY(-50%) rotate(0deg);
-  animation: 10s infinite alternate ease-in-out spin-right-round;
+  animation: 10s infinite alternate ease-in-out spin;
 }
 
 .whoami-name:before {
@@ -294,7 +294,7 @@ a:visited {
   box-shadow: 25px 25px 25px rgba(46, 46, 49, .8);
 }
 
-@keyframes spin-right-round {
+@keyframes spin {
   0 {
     transform: translateX(-50%) translateY(-50%) rotate(0deg);
   }
