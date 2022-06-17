@@ -11,18 +11,19 @@
   <h2>Table of Contents</h2>
 
   <ul>
-    <li><a href="#table-of-contents">Table of Contents</a><li>
-    <li><a href="#language-specific">Language Specific</a><li>
+    <li><a href="#table-of-contents">Table of Contents</a></li>
+    <li><a href="#language-specific">Language Specific</a>
+      <ul>
+        <li><a href="#markdown">Markdown</a></li>
+        <li><a href="#javascript">Javascript</a></li>
+        <li><a href="#typescript">Typescript</a></li>
+        <li><a href="">CSS/SCSS</a></li>
+      </ul>
+    </li>
+    <li><a href="#automation">Automation</a></li>
     <ul>
-      <li><a href="#markdown">Markdown</a><li>
-      <li><a href="#javascript">Javascript</a><li>
-      <li><a href="#typescript">Typescript</a><li>
-      <li><a href="">CSS/SCSS</a><li>
-    </ul>
-    <li><a href="#automation">Automation</a><li>
-    <ul>
-      <li><a href="#github-actions">Github Actions</a><li>
-      <li><a href="#docker">Docker</a><li>
+      <li><a href="#github-actions">Github Actions</a></li>
+      <li><a href="#docker">Docker</a></li>
     </ul>
     <li><a href="#tutorials-in-900-seconds">Tutorials in 900 seconds</a><li>
     <ul>
