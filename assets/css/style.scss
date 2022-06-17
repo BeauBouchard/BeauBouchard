@@ -165,6 +165,7 @@ a:visited {
   top: 12.5vw;
   left: 12.5vw;
   border-radius: 50%;
+  z-index: -2;
   box-shadow:
     0 0 0 2vw $theme-retro-wave-one,
     0 0 0 4vw $theme-retro-wave-two,
@@ -185,10 +186,11 @@ a:visited {
     0 0 0 2vw #E7484F,
     0 0 0 4vw #F68B1D,
     0 0 0 6vw #FCED00,
-    0 0 0 8vw #00AAC3,
-    0 0 0 10vw #732982;
-  z-index: -1;
+    0 0 0 8vw #009E4F
+    0 0 0 10vw #00AAC3,
+    0 0 0 12vw #732982;
   transition: transform .3s ease;
+  z-index: -1;
 }
 
 .rainbow-retro:hover::before {
