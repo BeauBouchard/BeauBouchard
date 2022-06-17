@@ -8,8 +8,6 @@
 
   <summary>Table of Contents</summary>
 
-  <h2>Table of Contents</h2>
-
   <ul>
     <li><a href="#table-of-contents">Table of Contents</a></li>
     <li><a href="#language-specific">Language Specific</a>
