@@ -23,22 +23,12 @@ $theme-sage-link-color:               #ADDFB3;
 $theme-sage-hlink-color:              #8ABD91;
 $theme-sage-vlink-color:              #9CAF88;
 
-/** Retro Rainbow Text **/
-$theme-retro-wave-one:                #C82F3E;
-$theme-retro-wave-two:                #DF453B;
-$theme-retro-wave-three:              #D45E20;
-$theme-retro-wave-four:               #EA9F1C;
-$theme-retro-wave-five:               #F0C71D;
-$theme-retro-wave-background:         #F9F0E3;
-
-
-
 /** Emoji maps **/
-$symbol-good:         "🟢";
-$symbol-issue:        "🟡";
-$symbol-bad:          "🔴";
-$symbol-warning:      "⚠️";
-$symbol-alert:        "🚨";
+$symbol-good:                         "🟢";
+$symbol-issue:                        "🟡";
+$symbol-bad:                          "🔴";
+$symbol-warning:                      "⚠️";
+$symbol-alert:                        "🚨";
 
 body {
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -107,6 +97,15 @@ a:visited {
 }
 
 /** Art **/
+
+/** Retro Rainbow Text / Wave **/
+$theme-retro-wave-one:                #C82F3E;
+$theme-retro-wave-two:                #DF453B;
+$theme-retro-wave-three:              #D45E20;
+$theme-retro-wave-four:               #EA9F1C;
+$theme-retro-wave-five:               #F0C71D;
+$theme-retro-wave-background:         #F9F0E3;
+
 .header-rainbow-retro {
   margin-top: 0px;
   margin-bottom: 50px;
@@ -230,7 +229,7 @@ $theme-pride-eleven:                  #732982;
 @keyframes pride-slidein {
   from {
     top: -17.5vw;
-    left: -17.5vw;
+    right: 100vw;
     width: 1%;
     height: 1%;
     rotate: 1deg;
