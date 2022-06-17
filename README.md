@@ -32,8 +32,8 @@ I am Beau, I like to code things.
 
  [![AWS](https://img.shields.io/badge/AWS%20Hosting-FFFFFF.svg?logo=amazonaws&logoColor=orange)](https://aws.amazon.com/)
  [![netlify](https://img.shields.io/badge/Netlify-FFFFFF.svg?logo=netlify&logoColor=blue)](https://www.netlify.com/)
- [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white)](#idontusethisanymore)
- [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-2671E5.svg?logo=github&logoColor=white)](https://pages.github.com/)
+ [![Heroku](https://img.shields.io/badge/Heroku-FFFFFF.svg?logo=heroku&logoColor=%23430098)](#idontusethisanymore)
+ [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-FFFFFF.svg?logo=github&logoColor=%232671E5)](https://pages.github.com/)
  
  #### 🗄️ Databases
 
