@@ -15,12 +15,11 @@
   <ol>
     <li>both numbered</li>
     <li>and lettered ordered lists</li>
-    <li>and unordered lists
+    <li>and unordered lists</li>
       <ul>
         <li>with bullets</li>
         <li>or sub-bullets</li>
       </ul>
-    </li>
   </ol>
 
 </details>
