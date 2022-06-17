@@ -6,7 +6,7 @@
 
 You have to use an HTML tag, Once you use an HTML tag in Markdown, everything between the open and closing tag must be also in HTML. 
 
-You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags with align properties attached to them. 
+You can directly attach `align=""` to any `HTML` tag, or create `<div>` or `<p>` tags with align properties attached to them. 
 
 ## Simple Usage
 
@@ -14,42 +14,50 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags wit
 
 #### Center
 
-<img align="center" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
-
-<p class="spacers"> <br /></p>
-
+<p align="center">
+  <img  width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+</p>
 
 #### Code
 
 ```
-<img align="center" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+<p align="center">
+  <img  width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+</p>
 ```
 
 ---
 
 #### Left
 
-<img align="left" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+<p align="left">
+  <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+</p>
 
 <p class="spacers"> <br /></p>
 
 #### Code
 
 ```
-<img align="left" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+<p align="left">
+  <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+</p>
 ```
 ---
 
 #### Right
-
-<img align="right" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
-
+<p align="right">
+  <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+</p>
+ 
 <p class="spacers"> </p>
 
 #### Code
 
 ```
-<img align="right" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+<p align="right">
+  <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+</p>
 ```
 
 ---
