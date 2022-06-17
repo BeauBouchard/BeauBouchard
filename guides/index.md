@@ -14,10 +14,12 @@
     <li><a href="#table-of-contents">Table of Contents</a></li>
     <li><a href="#language-specific">Language Specific</a>
       <ul>
-        <li><a href="#markdown">Markdown</a></li>
+        <li><a href="">CSS/SCSS</a></li>
+        <li><a href="#golang">Golang</a></li>
         <li><a href="#javascript">Javascript</a></li>
         <li><a href="#typescript">Typescript</a></li>
-        <li><a href="">CSS/SCSS</a></li>
+        <li><a href="#php">PHP</a></li>
+        <li><a href="#markdown">Markdown</a></li>
       </ul>
     </li>
     <li><a href="#automation">Automation</a>
@@ -40,11 +42,13 @@
 
 ## Language Specific
 
-### Markdown
+### CSS/SCSS
 
- * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
- * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
- * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
+ * [x](x)
+
+### Golang
+
+ * [x](x)
 
 ### Javascript
 
@@ -54,9 +58,19 @@
 
  * [x](x)
 
-### CSS/SCSS
+### PHP
 
  * [x](x)
+
+### Markdown
+
+ * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
+ * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
+ * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
+
+
+
+
 
 ## Automation
 
