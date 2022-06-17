@@ -27,7 +27,7 @@
 
 ### Structure in Markdown
 
-```
+```md
 ### A collapsible Details Section Containing markdown
 
 <details>
@@ -47,7 +47,7 @@
 
 ### Structure in HTML / Githubpages
 
-```
+```html
 ### A collapsible Details Section Containing markdown
 
 <details>
