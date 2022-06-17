@@ -16,17 +16,22 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags wit
 
 <img align="center" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 
+
+---
+
+
 #### Code
 
 ```
 <img align="center" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 ```
 
----
-
 #### Left
 
 <img align="left" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
+
+
+---
 
 #### Code
 
@@ -34,19 +39,21 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags wit
 <img align="left" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 ```
 
----
 
 #### Right
 
 <img align="right" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 
+
+---
+
 #### Code
 
 ```
 <img align="right" width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 ```
 
----
+
 
 ### Align other content using Div Tags
 
@@ -56,7 +63,7 @@ You can directly attach `align=""` to any `HTML` tag, or create `<div>` tags wit
   <img width="100" height="100" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true">
 </div>
   
-
+---
 #### Code
 
 ```
