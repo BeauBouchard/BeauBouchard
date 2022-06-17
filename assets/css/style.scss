@@ -32,12 +32,17 @@ $theme-retro-wave-five:          #F0C71D;
 $theme-retro-wave-background:    #F9F0E3;
 
 /** Happy Pride Month Rainbow Colors **/
-$theme-pride-one:                 #E7484F;
-$theme-pride-two:                 #F68B1D;
-$theme-pride-three:               #FCED00;
-$theme-pride-four:                #009E4F;
-$theme-pride-five:                #00AAC3;
-$theme-pride-six:                 #732982;
+$theme-pride-one:                    #FBF9F5;
+$theme-pride-two:                    #FEAEC7;
+$theme-pride-three:                  #75D7EF;
+$theme-pride-four:                   #613A15;
+$theme-pride-five:                   #101010;
+$theme-pride-six:                    #E7484F;
+$theme-pride-seven:                  #F68B1D;
+$theme-pride-eight:                  #FCED00;
+$theme-pride-nine:                   #009E4F;
+$theme-pride-ten:                    #00AAC3;
+$theme-pride-eleven:                 #732982;
 
 /** Emoji maps **/
 $symbol-good:         "🟢";
@@ -191,19 +196,21 @@ a:visited {
   left: 12.5vw;
   border-radius: 50%;
   box-shadow:
-    0 0 0 2vw $theme-pride-one,
-    0 0 0 4vw $theme-pride-two,
-    0 0 0 6vw $theme-pride-three,
-    0 0 0 8vw $theme-pride-four,
-    0 0 0 10vw $theme-pride-five,
-    0 0 0 12vw $theme-pride-six;
-  transition: transform .3s ease;
-  z-index: -1;
+    0 0 0 -8vw $theme-pride-one
+    0 0 0 -6vw $theme-pride-two
+    0 0 0 -4vw $theme-pride-three
+    0 0 0 -2vw $theme-pride-four,
+    0 0 0 0 $theme-pride-five,
+    0 0 0 2vw $theme-pride-six,
+    0 0 0 4vw $theme-pride-seven,
+    0 0 0 6vw $theme-pride-eight,
+    0 0 0 8vw $theme-pride-nine,
+    0 0 0 10vw $theme-pride-ten,
+    0 0 0 12vw $theme-pride-eleven;
 }
 
 .rainbow-retro:hover::before {
-  transform: scaleX(1);
-  transform-origin: top right;
+
 }
 
 /** Fixed height Rotating Text **/
