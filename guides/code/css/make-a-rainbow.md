@@ -15,35 +15,110 @@
 
 <p>Think of CSS as the ability to place shapes on your blank HTML page. </p>
 
+
 <p>A rainbow is arches, but how do you make an arch shape in CSS?</p>
 
 <div align="center">
   <img src="/assets/media/images/guides/images/neatpartyoudont.jpg" />
 </div>
 
-<p>Render a circle and adding a shadow to it allows you to overlay two circles</p>
-
-```css
-
-```
 <p class="spacers"> </p>
 
-<div class="guide-5830-l05"></div>
+### Step 1 - Make a box
 
-<p>The drop shadow then renders a smaller circle behind of that one</p>
+Start by making a class `rainbow` and adding it to any old `HTML` element. Make the class have an `:after` with `content: ''`, which allows it to render that after element to the page on load.
+
+Because we are going to do multiple borders, we are going to do `drop-shadow` to that `:after`.
+
+#### HTML
+
+```html
+<div class="rainbow"></div>
+```
+
+#### CSS
 
 ```css
+.rainbow {
+  width: 35vw;
+  height: 17.5vw;
+  background: #E7484F;
+}
 
+.ranbow:after {
+  position: absolute;
+  content: '';
+  box-shadow: 0 0 0 1vw #F68B1D;
+}
 ```
 
 <p class="spacers"> </p>
+
+
+<div class="guide-5830-l01"></div>
+
+<p>You should see a single box like above</p>
+
+### Step 2 - Make those Boxes Circles
+
+#### CSS
+
+```css
+.rainbow {
+  width: 35vw;
+  height: 17.5vw;
+  background: #E7484F;
+}
+
+.ranbow:after {
+  position: absolute;
+  content: '';
+  box-shadow: 0 0 0 1vw #F68B1D;
+}
+```
+
+### Step 3 - Make more circles
+
+#### CSS
+
+```css
+.rainbow {
+  width: 35vw;
+  height: 17.5vw;
+  background: #E7484F;
+}
+
+.ranbow:after {
+  position: absolute;
+  content: '';
+  box-shadow: 0 0 0 1vw #F68B1D;
+}
+```
 
 <div class="guide-5830-l06"></div>
 
 
 <p class="spacers"> </p>
 
+### Step 4 - Cut those Circles in half
+
 <p>then cut them in half by turning off overflow, and moving the object slightly down, so the bounding box of the object is off-center, only showing half of it. and . . . </p>
+
+#### CSS
+
+```css
+.rainbow {
+  width: 35vw;
+  height: 17.5vw;
+  background: #E7484F;
+}
+
+.ranbow:after {
+  position: absolute;
+  content: '';
+  box-shadow: 0 0 0 1vw #F68B1D;
+}
+```
 
 <p>Voilà . . . AN ARCH</p>
 
