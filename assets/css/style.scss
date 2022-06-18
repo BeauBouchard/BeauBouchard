@@ -419,10 +419,16 @@ $theme-whoami-vlink-color:            #9CAF88;
   }
 }
 
+.guide-container-rainbow-pride {
+  width: 500px;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+}
+
 .guide-rainbow-pride {
   width: 35vw;
   height: 17.5vw;
-  overflow: hidden;
   background: transparent;
 }
 
@@ -430,6 +436,8 @@ $theme-whoami-vlink-color:            #9CAF88;
   position: absolute;
   content: '';
   border-radius: 50%;
+  width: 6.25%;
+  height: 12.5%;
   /** This shadow box adds 0.5vw and 1vw width strips **/
   box-shadow:
     0 0 0 0.5vw $theme-pride-one,   // 0.5vw width
