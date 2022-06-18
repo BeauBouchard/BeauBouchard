@@ -40,6 +40,10 @@
 
 ## Language Specific
 
+### CSS/SCSS
+
+ * [Make a Rainbow in ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](/guides/code/css/make-a-rainbow)
+
 ### Markdown
 
  * [Make a Collapsible in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-collapsible)
