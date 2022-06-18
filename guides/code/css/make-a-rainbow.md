@@ -51,9 +51,12 @@
 
 <p class="spacers"> </p>
 
-### Full Rainbow Example 
+### Full Rainbow Example
 
-<div class="guide-rainbow-pride"></div>
+<div class="guide-container-rainbow-pride">
+  <div class="guide-rainbow-pride"></div>
+</div>
+
 
 <p class="spacers"> </p>
 
