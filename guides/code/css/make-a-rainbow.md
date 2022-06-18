@@ -49,4 +49,56 @@
 
 <div class="guide-5830-l07"></div>
 
+<p class="spacers"> </p>
+
+### Full Rainbow Example 
+
+<div class="guide-rainbow-pride"></div>
+
+<p class="spacers"> </p>
+
+### Full Rainbow Example Code
+
+```scss
+/** Happy Pride Month Rainbow Colors **/
+$theme-pride-one:                     #FBF9F5;
+$theme-pride-two:                     #FEAEC7;
+$theme-pride-three:                   #75D7EF;
+$theme-pride-four:                    #613A15;
+$theme-pride-five:                    #101010;
+$theme-pride-six:                     #E7484F;
+$theme-pride-seven:                   #F68B1D;
+$theme-pride-eight:                   #FCED00;
+$theme-pride-nine:                    #009E4F;
+$theme-pride-ten:                     #00AAC3;
+$theme-pride-eleven:                  #732982;
+
+.rainbow-pride {
+  width: 35vw;
+  height: 17.5vw;
+  overflow: hidden;
+  background: transparent;
+  rotate: 180deg;
+}
+
+.rainbow-pride:after {
+  position: absolute;
+  content: '';
+  border-radius: 50%;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 0.5vw $theme-pride-one,   // 0.5vw width
+    0 0 0 1vw   $theme-pride-two,   // 0.5vw width
+    0 0 0 1.5vw $theme-pride-three, // 0.5vw width
+    0 0 0 2vw   $theme-pride-four,  // 0.5vw width
+    0 0 0 2.5vw $theme-pride-five,  // 1vw width
+    0 0 0 3.5vw $theme-pride-six,   // 1vw width
+    0 0 0 4.5vw $theme-pride-seven, // 1vw width
+    0 0 0 5.5vw $theme-pride-eight, // 1vw width
+    0 0 0 6.5vw $theme-pride-nine,  // 1vw width
+    0 0 0 7.5vw $theme-pride-ten,   // 1vw width
+    0 0 0 8.5vw $theme-pride-eleven;// 1vw width
+}
+```
+<p class="spacers"> </p>
 
