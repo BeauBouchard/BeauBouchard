@@ -17,7 +17,7 @@
 
 <p>A rainbow is arches, but how do you make an arch shape in CSS?</p>
 
-<img src="neatpartyoudont.jpg" />
+<img src="/assets/media/images/guides/images/neatpartyoudont.jpg" />
 
 <p>Render a circle and adding a shadow to it allows you to overlay two circles</p>
 
