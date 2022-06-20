@@ -215,6 +215,7 @@ $theme-pride-eleven:                  #732982;
     0 0 0 6.5vw $theme-pride-nine,
     0 0 0 7.5vw $theme-pride-ten,
     0 0 0 8.5vw $theme-pride-eleven;
+  
 /** animation **/
 -webkit-animation:pride-slidein 2800ms ease-in-out 0s forwards;
    -moz-animation:pride-slidein 2800ms ease-in-out 0s forwards;
@@ -419,13 +420,72 @@ $theme-whoami-vlink-color:            #9CAF88;
   }
 }
 
-.guide-container-rainbow-pride {
+.rainbow-container {
   width: 500px;
   height: 200px;
   margin: auto;
   padding: 0;
   overflow: hidden;
 }
+
+.guide-rainbow-01 {
+  position: relative;
+  width: 1vw;
+  height: 2vh;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 2.5vw $theme-pride-five,  // 1vw width
+    0 0 0 3.5vw $theme-pride-six,   // 1vw width
+}
+
+.guide-rainbow-02 {
+  position: relative;
+  width: 1vw;
+  height: 2vh;
+  border-radius: 50%;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 3.5vw $theme-pride-six,   // 1vw width
+    0 0 0 4.5vw $theme-pride-seven, // 1vw width
+}
+
+
+.guide-rainbow-03 {
+  position: relative;
+  width: 1vw;
+  height: 2vh;
+  border-radius: 50%;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 3.5vw $theme-pride-six,   // 1vw width
+    0 0 0 4.5vw $theme-pride-seven, // 1vw width
+    0 0 0 5.5vw $theme-pride-eight, // 1vw width
+    0 0 0 6.5vw $theme-pride-nine,  // 1vw width
+    0 0 0 7.5vw $theme-pride-ten,   // 1vw width
+    0 0 0 8.5vw $theme-pride-eleven;// 1vw width
+}
+
+.guide-rainbow-04 {
+  position: relative;
+  top: 190px;
+  left: 200px;
+  width: 1vw;
+  height: 2vh;
+  border-radius: 50%;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 3.5vw $theme-pride-six,   // 1vw width
+    0 0 0 4.5vw $theme-pride-seven, // 1vw width
+    0 0 0 5.5vw $theme-pride-eight, // 1vw width
+    0 0 0 6.5vw $theme-pride-nine,  // 1vw width
+    0 0 0 7.5vw $theme-pride-ten,   // 1vw width
+    0 0 0 8.5vw $theme-pride-eleven;// 1vw width
+}
+
 
 .guide-rainbow-pride {
   position: relative;
