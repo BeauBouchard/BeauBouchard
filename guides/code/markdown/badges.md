@@ -82,14 +82,13 @@ The whole url and example above is like so:
 ![GraphQL](https://img.shields.io/badge/GoLang-20232A.svg?logo=go&logoColor=%2379D4FD)
 ```
 
-
 <div align="center">
  <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
 </div> 
 
-```md![GraphQL](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098)
+```md!
+[GraphQL](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098)
 ```
-
 
 <div align="center">
  <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
@@ -99,7 +98,6 @@ The whole url and example above is like so:
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ```
 
-
 <div align="center">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
 </div> 
@@ -107,7 +105,6 @@ The whole url and example above is like so:
 ```md
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ```
-
 
 <div align="center">
  <img src="https://img.shields.io/badge/Markdown-20232A.svg?logo=markdown&logoColor=white" />
