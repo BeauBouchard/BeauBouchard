@@ -27,7 +27,7 @@
 
 Start by making a class `rainbow` and adding it to any old `HTML` element. Make the class have an `:after` with `content: ''`, which allows it to render that after element to the page on load.
 
-Because we are going to do multiple borders, we are going to do `drop-shadow` to that `:after`.
+Because we are going to do multiple boxes, layered, an easy way of doing this is to use `drop-shadow`.
 
 #### HTML
 
@@ -39,15 +39,12 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 
 ```css
 .rainbow {
-  width: 35vw;
-  height: 17.5vw;
-  background: #E7484F;
-}
-
-.ranbow:after {
-  position: absolute;
-  content: '';
-  box-shadow: 0 0 0 1vw #F68B1D;
+  width: 1vw;
+  height: 2vh;
+  background: transparent;
+  box-shadow:
+    0 0 0 5.5vw #FCED00, // 1vw width
+    0 0 0 6.5vw #009E4F, // 1vw width
 }
 ```
 
@@ -64,15 +61,15 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 
 ```css
 .rainbow {
-  width: 35vw;
-  height: 17.5vw;
-  background: #E7484F;
-}
-
-.ranbow:after {
-  position: absolute;
-  content: '';
-  box-shadow: 0 0 0 1vw #F68B1D;
+  position: relative;
+  width: 1vw;
+  height: 2vh;
+  border-radius: 50%;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 3.5vw #E7484F, // 1vw width
+    0 0 0 4.5vw #F68B1D, // 1vw width
 }
 ```
 
@@ -84,15 +81,19 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 
 ```css
 .rainbow {
-  width: 35vw;
-  height: 17.5vw;
-  background: #E7484F;
-}
-
-.ranbow:after {
-  position: absolute;
-  content: '';
-  box-shadow: 0 0 0 1vw #F68B1D;
+  position: relative;
+  width: 1vw;
+  height: 2vh;
+  border-radius: 50%;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 3.5vw #E7484F, // 1vw width
+    0 0 0 4.5vw #F68B1D, // 1vw width
+    0 0 0 5.5vw #FCED00, // 1vw width
+    0 0 0 6.5vw #009E4F, // 1vw width
+    0 0 0 7.5vw #00AAC3, // 1vw width
+    0 0 0 8.5vw #732982; // 1vw width
 }
 ```
 
@@ -132,9 +133,28 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 }
 
 .rainbow {
-  width: 35vw;
-  height: 17.5vw;
-  background: #E7484F;
+  position: relative;
+  top: 190px;
+  left: 200px;
+  width: 1vw;
+  height: 2vh;
+  border-radius: 50%;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 3.5vw #E7484F, // 1vw width
+    0 0 0 4.5vw #F68B1D, // 1vw width
+    0 0 0 5.5vw #FCED00, // 1vw width
+    0 0 0 6.5vw #009E4F, // 1vw width
+    0 0 0 7.5vw #00AAC3, // 1vw width
+    0 0 0 8.5vw #732982; // 1vw width
+    
+    $theme-pride-six:                     #;
+$theme-pride-seven:                   #;
+$theme-pride-eight:                   #;
+$theme-pride-nine:                    #;
+$theme-pride-ten:                     #;
+$theme-pride-eleven:                  #;
 }
 ```
 <p>Voilà . . . AN ARCH</p>
