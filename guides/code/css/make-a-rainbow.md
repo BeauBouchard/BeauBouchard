@@ -4,6 +4,13 @@
 # How to Make a rainbow with just CSS and HTML
 
 
+<p class="spacers"> </p>
+<p class="spacers"> </p>
+<div class="rainbow-container">
+  <div class="guide-rainbow-pride"></div>
+</div>
+<p class="spacers"> </p>
+<p class="spacers"> </p>
 
 <p>In this document you will learn to make the above rainbow only using CSS. </p>
 
