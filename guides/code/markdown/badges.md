@@ -203,7 +203,21 @@ The following styles are available. Flat is the default. Examples are shown with
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC)
 ```
 
+<div align="center">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
+</div> 
 
+```md
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+```
+ 
+ <div align="center">
+ <img src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" />
+</div> 
+ 
+```md
+![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
+```
 
 <div align="center">
  <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
@@ -236,7 +250,6 @@ The following styles are available. Flat is the default. Examples are shown with
 ```md
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
 ```
-
 
 
 
