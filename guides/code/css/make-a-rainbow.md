@@ -69,8 +69,8 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
   border-radius: 50%;
   background: transparent;
   box-shadow:
-    0 0 0 3.5vw #E7484F, // 1vw width
-    0 0 0 4.5vw #F68B1D, // 1vw width
+    0 0 0 1vw #E7484F, // 1vw width
+    0 0 0 2vw #F68B1D, // 1vw width
 }
 ```
 
@@ -94,12 +94,12 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
   border-radius: 50%;
   background: transparent;
   box-shadow:
-    0 0 0 3.5vw #E7484F, // 1vw width
-    0 0 0 4.5vw #F68B1D, // 1vw width
-    0 0 0 5.5vw #FCED00, // 1vw width
-    0 0 0 6.5vw #009E4F, // 1vw width
-    0 0 0 7.5vw #00AAC3, // 1vw width
-    0 0 0 8.5vw #732982; // 1vw width
+    0 0 0 1vw #E7484F, // 1vw width
+    0 0 0 2vw #F68B1D, // 1vw width
+    0 0 0 3vw #FCED00, // 1vw width
+    0 0 0 4vw #009E4F, // 1vw width
+    0 0 0 5vw #00AAC3, // 1vw width
+    0 0 0 6vw #732982; // 1vw width
 }
 ```
 
@@ -149,12 +149,12 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
   background: transparent;
   /** This shadow box adds 0.5vw and 1vw width strips **/
   box-shadow:
-    0 0 0 3.5vw #E7484F, // 1vw width
-    0 0 0 4.5vw #F68B1D, // 1vw width
-    0 0 0 5.5vw #FCED00, // 1vw width
-    0 0 0 6.5vw #009E4F, // 1vw width
-    0 0 0 7.5vw #00AAC3, // 1vw width
-    0 0 0 8.5vw #732982; // 1vw width
+    0 0 0 1vw #E7484F, // 1vw width
+    0 0 0 2vw #F68B1D, // 1vw width
+    0 0 0 3vw #FCED00, // 1vw width
+    0 0 0 4vw #009E4F, // 1vw width
+    0 0 0 5vw #00AAC3, // 1vw width
+    0 0 0 6vw #732982; // 1vw width
     
     $theme-pride-six:                     #;
 $theme-pride-seven:                   #;
