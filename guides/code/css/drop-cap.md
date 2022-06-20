@@ -6,7 +6,13 @@
 
 Having experimented a bit with this, adjusting the `font-size` and `line-height` can be an issue. Scale the paragraph to be 
 
+```html
 
+<p>paragraph 1</p>
+<p>paragraph 2</p>
+<p>paragraph 3</p>
+
+```
 
 ```css
 /** Dropcap Only The First Paragraph **/
@@ -19,6 +25,14 @@ p:first-of-type:first-letter {
   padding-right: 0.5em;
   margin-top: -0.1em;
 } 
+```
+
+```html
+
+<p>paragraph 1</p>
+<p>paragraph 2</p>
+<p>paragraph 3</p>
+
 ```
 
 ```css
@@ -35,9 +49,16 @@ p:first-child:first-letter {
 
 ```
 
+```html
+<p>paragraph 1</p>
+<p>paragraph 2</p>
+<p class="dropme">paragraph 3</p>
+
+```
+
 ```css
 /** Just this Class will receive a dropcap **/
-.justme:first-letter {
+.dropme:first-letter {
   color: #B91646;
   float: left;
   font-weight: bold;
