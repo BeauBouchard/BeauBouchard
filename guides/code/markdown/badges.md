@@ -119,7 +119,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 ```
 
@@ -127,7 +127,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
 </div> 
  
-```md
+```markdown
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ```
 
@@ -135,7 +135,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![Docker](https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white)
 ```
 
@@ -143,7 +143,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
 ```
 
@@ -151,7 +151,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)
 ```
 
@@ -159,23 +159,23 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/GoLang-20232A.svg?logo=go&logoColor=%2379D4FD" />
 </div> 
 
-```md
-![GraphQL](https://img.shields.io/badge/GoLang-20232A.svg?logo=go&logoColor=%2379D4FD)
+```markdown
+![GoLang](https://img.shields.io/badge/GoLang-20232A.svg?logo=go&logoColor=%2379D4FD)
 ```
 
 <div align="center">
  <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
 </div> 
 
-```md!
-[GraphQL](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098)
+```markdown
+![GraphQL](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098)
 ```
 
 <div align="center">
  <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ```
 
@@ -183,7 +183,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
 </div> 
 
-```md
+```markdown
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ```
 
@@ -191,7 +191,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/Markdown-20232A.svg?logo=markdown&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![markdown](https://img.shields.io/badge/Markdown-20232A.svg?logo=markdown&logoColor=white)
 ```
 
@@ -199,7 +199,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC" />
 </div> 
 
-```md
+```markdown
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC)
 ```
 
@@ -207,7 +207,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
 ```
  
@@ -215,7 +215,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" />
 </div> 
  
-```md
+```markdown
 ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 ```
 
@@ -223,7 +223,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
 ```
 
@@ -231,7 +231,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ```
 
@@ -239,7 +239,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white" />
 </div> 
 
-```md
+```markdown
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white)
 ```
 
@@ -247,7 +247,7 @@ The following styles are available. Flat is the default. Examples are shown with
  <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" />
 </div> 
 
-```md
+```markdown
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
 ```
 
