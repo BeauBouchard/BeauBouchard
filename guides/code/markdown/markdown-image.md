@@ -19,4 +19,13 @@ You can also add HTML tags to Markdown files, for things like github or Github P
   <img  width="100" height="100" alt="Alt Text Here" src="http://beau.sh/assets/media/images/logos/sage.png?raw=true" />
 ```
 
-<p><a href="https://beau.sh/guides/code/markdown/markdown-alignment">Read more about how to align the images Here!</a></p>
+<p>
+  <a href="https://beau.sh/guides/code/markdown/markdown-alignment">Read more about how to align the images Here!</a>
+</p>
+
+<p class="spacers"> <br /></p>
+<div align="center" >
+  <p>
+    <a href="https://beau.sh/guides/">⬅️ Back to Guides</a>
+  </p>
+</div>
