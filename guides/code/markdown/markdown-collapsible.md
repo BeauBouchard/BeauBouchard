@@ -92,3 +92,9 @@ otherwise the markdown/code blocks won't show correctly.
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details">MDN HTML Documentation on details tag.</a>
 
+<p class="spacers"> <br /></p>
+<div align="center" >
+  <p>
+    <a href="https://beau.sh/guides/">⬅️ Back to Guides</a>
+  </p>
+</div>
