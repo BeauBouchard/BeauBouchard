@@ -33,7 +33,10 @@ However the badges below use logos, You will use the url below for all the follo
 
 The above example was using this:
 
- * **LABEL** is "GraphQL" any text can be provided.
+ * **LABEL** is `GraphQL`, virtually any text can be provided.
+   * Dashes --	→	- Dash
+   * Underscores __	→	_ Underscore
+   * _ or Space  	→	  Space
  * **BADGE-COLOR** is `20232A` for the hex color of an subtle off black.
  * **LOGO-NAME** is `graphql` which is from the available logos. 
    * To check the slug names of all available logos, look at the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">slugs.md file</a> of all available logos from simple logos.
