@@ -259,6 +259,24 @@ $theme-pride-eleven:                  #732982;
     0 0 0 7.5vw $theme-pride-ten,   // 1vw width
     0 0 0 8.5vw $theme-pride-eleven;// 1vw width
 }
+
+// or that rainbow on the top
+.guide-rainbow-top {
+  position: relative;
+  top: 190px;
+  left: 200px;
+  width: 1vw;
+  height: 2vh;
+  border-radius: 50%;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 1vw #F0C71D, // 1vw width
+    0 0 0 2vw #EA9F1C, // 1vw width
+    0 0 0 3vw #D45E20, // 1vw width
+    0 0 0 4vw #DF453B, // 1vw width
+    0 0 0 5vw #C82F3E, // 1vw width
+}
 ```
 <p class="spacers"> </p>
 
