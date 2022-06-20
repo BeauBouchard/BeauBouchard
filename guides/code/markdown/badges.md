@@ -63,9 +63,19 @@ The whole url and example above is like so:
  <img src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" />
 </div> 
 
+
 ```md
  ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ```
+
+<div align="center">
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" />
+</div> 
+```md
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
+```
+
+
 <div align="center">
  <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
 </div> 
@@ -73,7 +83,30 @@ The whole url and example above is like so:
 ```md
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ```
- 
+
+<div align="center">
+ <img src="https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white" />
+</div> 
+
+```md
+![Docker](https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white)
+```
+
+<div align="center">
+ <img src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />
+</div> 
+```md
+![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)
+```
+
+<div align="center">
+ <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" />
+</div> 
+
+```md
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)
+```
+
 <div align="center">
  <img src="https://img.shields.io/badge/GoLang-20232A.svg?logo=go&logoColor=%2379D4FD" />
 </div> 
@@ -129,6 +162,27 @@ The whole url and example above is like so:
 ```md
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ```
+
+<div align="center">
+ <img src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white" />
+</div> 
+```md
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white)
+```
+
+<div align="center">
+ <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" />
+</div> 
+```md
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
+```
+
+
+
+
+
+
+
 
 <p class="spacers"> <br /></p>
 <div align="center" >
