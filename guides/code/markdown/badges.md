@@ -58,7 +58,7 @@ The whole url and example above is like so:
 ```
 
 
-## Badge Styles
+## Styles
 
 The following styles are available. Flat is the default. Examples are shown with an optional logo:
 
@@ -80,6 +80,26 @@ The following styles are available. Flat is the default. Examples are shown with
 
 <div align="center">
 <p>&style=social <img src="https://img.shields.io/badge/social-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=social" /></p>
+</div> 
+
+## colors
+
+<div align="center">
+<img src="https://img.shields.io/badge/brightgreen-brightgreen.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/green-green.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/yellowgreen-yellowgreen.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/yellow-yellow.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/orange-orange.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/red-red.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/blue-blue.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/lightgrey-lightgrey.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/success-success.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/important-important.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/critical-critical.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/informational-informational.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/inactive-inactive.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/blueviolet-blueviolet.svg?style=for-the-badge" />
+<img src="https://img.shields.io/badge/violet-violet.svg?style=for-the-badge" />
 </div> 
 
 # Examples
