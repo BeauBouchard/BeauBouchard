@@ -10,7 +10,6 @@
   <div class="guide-rainbow-top"></div>
 </div>
 <p class="spacers"> </p>
-<p class="spacers"> </p>
 
 <p>In this document you will learn to make the above rainbow only using CSS. </p>
 
@@ -27,6 +26,8 @@
 <div align="center">
   <img src="/assets/media/images/guides/images/neatpartyoudont.jpg" />
 </div>
+
+<p>like most things in CSS you just make borders or backgrounds layered, and smoothed till it looks something like the shape you wanted. Lets get started.</p>
 
 <p class="spacers"> </p>
 
