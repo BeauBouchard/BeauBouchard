@@ -24,25 +24,24 @@
 
 
 The great minds at [Shields.io](https://shields.io/) thought up a great way to create custom badges for practically anything you need. 
-You will use the url below for all the following examples. 
 
 A simple example can be `https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>`
 
-However the badges below use logos, which is more like 
+However the badges below use logos, You will use the url below for all the following examples. 
 
 `https://img.shields.io/badge/<LABEL>-<BADGE-COLOR>.svg?logo=<LOGO-NAME>&logoColor=<LOGO-COLOR>`
 
 The above example was using this:
 
-`LABEL` is "GraphQL" any text can be provided.
+<p>**LABEL** is "GraphQL" any text can be provided.</p>
 
-`BADGE-COLOR` is `20232A` for the hex color of an subtle off black.
+<p>**BADGE-COLOR** is `20232A` for the hex color of an subtle off black.</p>
 
-`LOGO-NAME` is `graphql` which is from the available logos. 
+<p>**LOGO-NAME** is `graphql` which is from the available logos. 
 
-To check the slug names of all available logos, look at the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">slugs.md file</a> of all available logos from simple logos.
+<p>To check the slug names of all available logos, look at the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">slugs.md file</a> of all available logos from simple logos.</p></p>
 
-`LOGO-COLOR` is `E10098` with `%23` which is `#` url-encoded.
+**LOGO-COLOR** is `E10098` with `%23` which is `#` url-encoded.</p>
 
 
 
