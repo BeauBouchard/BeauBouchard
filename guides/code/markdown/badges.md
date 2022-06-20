@@ -71,7 +71,7 @@ The following styles are available. Flat is the default. Examples are shown with
 </div> 
 
 <div align="center">
- <p>&style=flat-square <img src="https://img.shields.io/badge/flat-square-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=flat-square" /></p>
+ <p>&style=flat-square <img src="https://img.shields.io/badge/flat--square-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=flat-square" /></p>
 </div> 
 
 <div align="center">
