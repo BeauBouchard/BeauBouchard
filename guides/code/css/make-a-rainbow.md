@@ -175,13 +175,6 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
     0 0 0 4vw #009E4F, // 1vw width
     0 0 0 5vw #00AAC3, // 1vw width
     0 0 0 6vw #732982; // 1vw width
-    
-    $theme-pride-six:                     #;
-$theme-pride-seven:                   #;
-$theme-pride-eight:                   #;
-$theme-pride-nine:                    #;
-$theme-pride-ten:                     #;
-$theme-pride-eleven:                  #;
 }
 ```
 <p>Voilà . . . AN ARCH</p>
