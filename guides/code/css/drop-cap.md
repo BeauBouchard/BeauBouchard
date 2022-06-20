@@ -6,74 +6,7 @@
 
 Having experimented a bit with this, adjusting the `font-size` and `line-height` can be an issue.
 
-## Dropcap First Paragraph Only
 
-
-<div class="guide-dropcap-01">
-  <p>paragraph 1</p>
-  <p>paragraph 2</p>
-  <p>paragraph 3</p>
-</div>
-
-### Code
-
-```html
-
-<div class="guide-dropcap-01">
-  <p>paragraph 1</p>
-  <p>paragraph 2</p>
-  <p>paragraph 3</p>
-</div>
-
-```
-
-```css
-/** Dropcap Only The First Paragraph **/
-p:first-of-type:first-letter {
-  color: #B91646;
-  float: left;
-  font-weight: bold;
-  font-size: 2em;
-  line-height: 1.9em;
-  padding-right: 0.5em;
-  margin-top: -0.1em;
-} 
-```
-
-
-## Dropcap All Paragraphs
-
-
-<div class="guide-dropcap-02">
-  <p>paragraph 1</p>
-  <p>paragraph 2</p>
-  <p>paragraph 3</p>
-</div>
-
-### Code
-
-```html
-<div class="guide-dropcap-02">
-  <p>paragraph 1</p>
-  <p>paragraph 2</p>
-  <p>paragraph 3</p>
-</div>
-
-```
-
-```css
-/** Dropcap All Paragraphs **/
-p:first-child:first-letter {
-  color: #B91646;
-  float: left;
-  font-weight: bold;
-  font-size: 2em;
-  line-height: 1.9em;
-  padding-right: 0.5em;
-  margin-top: -0.1em;
-}
-
-```
 
 ## Class Specific Dropcap
 
@@ -102,8 +35,81 @@ p:first-child:first-letter {
   padding-right: 0.5em;
   margin-top: -0.1em;
 }
+```
+
+## Dropcap First Paragraph Only
+
+<div class="guide-dropcap-01">
+  <p>paragraph 1</p>
+  <p>paragraph 2</p>
+  <p>paragraph 3</p>
+</div>
+
+### Code
+
+```html
+
+<div class="guide-dropcap-01">
+  <p>paragraph 1</p>
+  <p>paragraph 2</p>
+  <p>paragraph 3</p>
+</div>
 
 ```
+
+```css
+/** Dropcap Only The First Paragraph **/
+.guide-dropcap-01 {
+  p:first-of-type:first-letter {
+    color: #B91646;
+    float: left;
+    font-weight: bold;
+    font-size: 2em;
+    line-height: 1.9em;
+    padding-right: 0.5em;
+    margin-top: -0.1em;
+  } 
+} 
+```
+
+
+## Dropcap All Paragraphs
+
+
+<div class="guide-dropcap-02">
+  <p>paragraph 1</p>
+  <p>paragraph 2</p>
+  <p>paragraph 3</p>
+</div>
+
+### Code
+
+```html
+<div class="guide-dropcap-02">
+  <p>paragraph 1</p>
+  <p>paragraph 2</p>
+  <p>paragraph 3</p>
+</div>
+
+```
+
+```css
+/** Dropcap All Paragraphs **/
+.guide-dropcap-02 {
+  p:first-child:first-letter {
+    color: #B91646;
+    float: left;
+    font-weight: bold;
+    font-size: 2em;
+    line-height: 1.9em;
+    padding-right: 0.5em;
+    margin-top: -0.1em;
+  }
+}
+
+```
+
+
 
 <p class="spacers"> <br /></p>
 
