@@ -72,8 +72,9 @@ Feel free to skip the end to see pre-made badges.
  <img src="https://img.shields.io/badge/Markdown-20232A.svg?logo=markdown&logoColor=white" />
 </div> 
 
-```md![markdown](https://img.shields.io/badge/Markdown-20232A.svg?logo=markdown&logoColor=white)
-
+```md
+![markdown](https://img.shields.io/badge/Markdown-20232A.svg?logo=markdown&logoColor=white)
+```
 
 <div align="center">
  <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
