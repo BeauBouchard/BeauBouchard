@@ -53,7 +53,7 @@ The above example was using this:
 
 The whole url and example above is like so: 
 
-```md
+```markdown
 ![Alt Text](https://img.shields.io/badge/Badge-20232A.svg?logo=Gunicorn&logoColor=%23E10098)
 ```
 
@@ -111,7 +111,7 @@ The following styles are available. Flat is the default. Examples are shown with
 </div> 
 
 
-```md
+```markdown
  ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 ```
 
