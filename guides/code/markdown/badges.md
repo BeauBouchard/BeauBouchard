@@ -9,7 +9,11 @@
 
 <div align="center">
  <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+ <p>
+  Feel free to <a href="#Examples">skip the end to see pre-made badges. </a>
+ </p>
 </div> 
+
 
 The great minds at Shields.io thought up a great way to create custom badges for practically anything you need. 
 You will use the url below for all the following examples. 
@@ -37,7 +41,6 @@ The above example was using this:
 
 To check the slug names of available logos, look at the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">slugs.md file</a> of all available logos from simple logos.
 
-Feel free to skip the end to see pre-made badges. 
 
 # Examples
 
