@@ -280,3 +280,11 @@ $theme-pride-eleven:                  #732982;
 <p><a href="https://en.wikipedia.org/wiki/Rainbow_flag_(LGBT)#2010s_to_present">Read more about the history of why the LGBT+ flag has the colors it does Here!</a></p>
 
 <p><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">Read more about VW and VH size measurements in the browser Here at MDN, they really are great!</a></p>
+
+<p class="spacers"> <br /></p>
+<div align="center" >
+  <p>
+    <a href="https://beau.sh/guides/">⬅️ Back to Guides</a>
+  </p>
+</div>
+
