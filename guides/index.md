@@ -40,17 +40,17 @@
 
 ## Language Specific
 
-### CSS/SCSS
+### ![SCSS](https://img.shields.io/badge/SCSS-1572B6.svg?logo=cssmodules&logoColor=white&style=for-the-badge) / ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge) 
 
- * [Make a Rainbow in ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](/guides/code/css/make-a-rainbow)
- * [Add a Drop Cap to your Text with ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](/guides/code/css/drop-cap)
+ * [Make a Rainbow in CSS](/guides/code/css/make-a-rainbow)
+ * [Add a Drop Cap to your Text with CSS](/guides/code/css/drop-cap)
 
-### Markdown
+### ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white&style=for-the-badge)
 
- * [Make a Collapsible in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-collapsible)
- * [Add Badges to your README in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/badges)
- * [Add an Image in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-image)
- * [Center Things in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-alignment)
+ * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
+ * [Add Badges to your README in Markdown](/guides/code/markdown/badges)
+ * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
+ * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
 
 
 ## Github
