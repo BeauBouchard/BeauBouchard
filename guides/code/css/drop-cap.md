@@ -74,8 +74,9 @@ p:first-child:first-letter {
 ## NOTES
 
 
- * `1em` equals the font size of the parent element. 
- * `1rem` equals the font size of the html element, so adjusting the HTML's font size scales other sizes from it.
+`1em` equals the font size of the parent element. 
+`1rem` equals the font size of the html element, so adjusting the HTML's font size scales other sizes from it.
+
  * [Values_and_units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
 
 The `:first-child` CSS pseudo-class represents the first element among a group of sibling elements.
