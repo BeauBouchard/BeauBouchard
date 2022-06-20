@@ -3,8 +3,17 @@
 
 # Adding Cool Badges to your Github Readme Pages
 
+<div align="center">
+ <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+ <p>
+  Feel free to <a href="#Examples">skip the end to see pre-made badges. </a>
+ </p>
+</div> 
+<p class="spacers"> <br /></p>
+
 
 ## Making a Badge
+
 
 
 <div align="center">
@@ -12,7 +21,6 @@
  <p>
   Feel free to <a href="#Examples">skip the end to see pre-made badges. </a>
  </p>
-</div> 
 
 
 The great minds at Shields.io thought up a great way to create custom badges for practically anything you need. 
