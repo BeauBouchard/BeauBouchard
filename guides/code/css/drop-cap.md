@@ -124,7 +124,7 @@ The `:first-child` CSS pseudo-class represents the first element among a group o
 
 <div align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">
-    <img src="https://img.shields.io/badge/%3Afirst--child-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1?style=for-the-badge" alt=":first-child"/>
+    <img src="https://img.shields.io/badge/%3Afirst--child-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1&style=for-the-badge" alt=":first-child"/>
   </a>
 </div>
 
@@ -132,7 +132,7 @@ The `:first-of-type` CSS pseudo-class represents the first element of its type a
 
 <div align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/:first-of-type">
-    <img src="https://img.shields.io/badge/%3Afirst--of--type-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1?style=for-the-badge" alt=":first-of-type"/>
+    <img src="https://img.shields.io/badge/%3Afirst--of--type-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1&style=for-the-badge" alt=":first-of-type"/>
   </a>
 </div>
 
@@ -141,7 +141,7 @@ The `::first-letter` CSS pseudo-element applies styles to the first letter of th
 
 <div align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter">
-    <img src="https://img.shields.io/badge/%3A%3Afirst--letter-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1?style=for-the-badge" alt="::first-letter"/>
+    <img src="https://img.shields.io/badge/%3A%3Afirst--letter-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1&style=for-the-badge" alt="::first-letter"/>
   </a>
 </div>
 
