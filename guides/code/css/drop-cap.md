@@ -116,7 +116,7 @@ p:first-child:first-letter {
 
 <div align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">
-    <img src="https://img.shields.io/badge/Values_and_units-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1?style=for-the-badge" alt="Values_and_units"/>
+    <img src="https://img.shields.io/badge/Values_and_units-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1&style=for-the-badge" alt="Values_and_units"/>
   </a>
 </div>
 
