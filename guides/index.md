@@ -43,6 +43,7 @@
 ### CSS/SCSS
 
  * [Make a Rainbow in ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](/guides/code/css/make-a-rainbow)
+ * [Add a Drop Cap to your Text with ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](/guides/code/css/drop-cap)
 
 ### Markdown
 
