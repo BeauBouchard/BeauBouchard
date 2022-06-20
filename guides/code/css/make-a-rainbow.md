@@ -43,15 +43,17 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
   height: 2vh;
   background: transparent;
   box-shadow:
-    0 0 0 5.5vw #FCED00, // 1vw width
-    0 0 0 6.5vw #009E4F, // 1vw width
+    0 0 0 1vw #FCED00, // 1vw width
+    0 0 0 2vw #009E4F, // 1vw width
 }
 ```
-
 <p class="spacers"> </p>
-
-
-<div class="guide-rainbow-01"></div>
+<p class="spacers"> </p>
+<div class="rainbow-container-flow">
+  <div class="guide-rainbow-01"></div>
+</div>
+<p class="spacers"> </p>
+<p class="spacers"> </p>
 
 <p>You should see a single box like above</p>
 
@@ -66,14 +68,19 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
   height: 2vh;
   border-radius: 50%;
   background: transparent;
-  /** This shadow box adds 0.5vw and 1vw width strips **/
   box-shadow:
     0 0 0 3.5vw #E7484F, // 1vw width
     0 0 0 4.5vw #F68B1D, // 1vw width
 }
 ```
 
-<div class="guide-rainbow-02"></div>
+<p class="spacers"> </p>
+<p class="spacers"> </p>
+<div class="rainbow-container-flow">
+  <div class="guide-rainbow-02"></div>
+</div>
+<p class="spacers"> </p>
+<p class="spacers"> </p>
 
 ### Step 3 - Make more circles
 
@@ -86,7 +93,6 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
   height: 2vh;
   border-radius: 50%;
   background: transparent;
-  /** This shadow box adds 0.5vw and 1vw width strips **/
   box-shadow:
     0 0 0 3.5vw #E7484F, // 1vw width
     0 0 0 4.5vw #F68B1D, // 1vw width
@@ -97,12 +103,13 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
 }
 ```
 
-
-<div class="guide-rainbow-03"></div>
-
-
-<div class="guide-5830-l06"></div>
-
+<p class="spacers"> </p>
+<p class="spacers"> </p>
+<div class="rainbow-container-flow">
+  <div class="guide-rainbow-03"></div>
+</div>
+<p class="spacers"> </p>
+<p class="spacers"> </p>
 
 <p class="spacers"> </p>
 
