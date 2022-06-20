@@ -17,7 +17,9 @@
 
 
 <div align="center">
- <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+ <p>
+  <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+ </p>
 </div> 
 
 
@@ -43,12 +45,15 @@ To check the slug names of all available logos, look at the <a href="https://git
 `LOGO-COLOR` is `E10098` with `%23` which is `#` url-encoded.
 
 
+
+
+### Markdown Code
+
 The whole url and example above is like so: 
 
 ```md
 ![Alt Text](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23E10098)
 ```
-
 
 # Examples
 
