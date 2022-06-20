@@ -435,8 +435,8 @@ $theme-whoami-vlink-color:            #9CAF88;
   height: 2vh;
   background: transparent;
   box-shadow:
-    0 0 0 1vw #FCED00, // 1vw width
-    0 0 0 2vw #009E4F, // 1vw width
+    0 0 0 1vw #E7484F, // 1vw width
+    0 0 0 2vw #F68B1D, // 1vw width
 }
 
 .guide-rainbow-02 {
@@ -484,6 +484,24 @@ $theme-whoami-vlink-color:            #9CAF88;
     0 0 0 4vw #009E4F, // 1vw width
     0 0 0 5vw #00AAC3, // 1vw width
     0 0 0 6vw #732982; // 1vw width
+}
+
+.guide-rainbow-top {
+  position: relative;
+  top: 190px;
+  left: 200px;
+  width: 1vw;
+  height: 2vh;
+  border-radius: 50%;
+  background: transparent;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 1vw #37E2D5, // 1vw width
+    0 0 0 2vw #590696, // 1vw width
+    0 0 0 3vw #C70A80, // 1vw width
+    0 0 0 4vw #FBCB0A, // 1vw width
+    0 0 0 5vw #019267, // 1vw width
+    0 0 0 6vw #FFD365; // 1vw width
 }
 
 
