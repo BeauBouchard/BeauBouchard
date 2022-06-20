@@ -90,6 +90,7 @@ It is no longer recommended to directly attach `align=""` to `<img/>` tags
 
 Read here: <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/align">MDN HTMLImageElement Documentation on 'align' property.</a>
 
+<p class="spacers"> <br /></p>
 <div align="center" >
   <p>
     <a href="https://beau.sh/guides/">⬅️ Back to Guides</a>
