@@ -45,6 +45,12 @@ The above example was using this:
 
 ### Markdown Code
 
+<div align="center">
+ <p>
+  <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+ </p>
+</div> 
+
 The whole url and example above is like so: 
 
 ```md
