@@ -4,7 +4,7 @@
 # Adding Cool Badges to your Github Readme Pages
 
 <div align="center">
- <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+ <img src="https://img.shields.io/badge/Badge-20232A.svg?logo=Gunicorn&logoColor=%23e10098" />
  <p>
   Feel free to <a href="#examples">skip the end to see pre-made badges. </a>
  </p>
@@ -18,7 +18,7 @@
 
 <div align="center">
  <p>
-  <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+  <img src="https://img.shields.io/badge/Badge-20232A.svg?logo=Gunicorn&logoColor=%23e10098" />
  </p>
 </div> 
 
@@ -33,12 +33,12 @@ However the badges below use logos, You will use the url below for all the follo
 
 The above example was using this:
 
- * **LABEL** is `GraphQL`, virtually any text can be provided.
+ * **LABEL** is `Badge`, virtually any text can be provided.
    * Dashes `--`	→	`-` Dash
    * Underscores `__`	→	`_` Underscore
    * `_` or Space ` ` 	→	` ` Space
  * **BADGE-COLOR** is `20232A` for the hex color of an subtle off black.
- * **LOGO-NAME** is `graphql` which is from the available logos. 
+ * **LOGO-NAME** is `Gunicorn` which is from the available logos. 
    * To check the slug names of all available logos, look at the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">slugs.md file</a> of all available logos from simple logos.
  * **LOGO-COLOR** is `E10098` with `%23` which is `#` url-encoded.
 
@@ -47,14 +47,14 @@ The above example was using this:
 
 <div align="center">
  <p>
-  <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+  <img src="https://img.shields.io/badge/Badge-20232A.svg?logo=Gunicorn&logoColor=%23e10098" />
  </p>
 </div> 
 
 The whole url and example above is like so: 
 
 ```md
-![Alt Text](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23E10098)
+![Alt Text](https://img.shields.io/badge/Badge-20232A.svg?logo=Gunicorn&logoColor=%23E10098)
 ```
 
 
