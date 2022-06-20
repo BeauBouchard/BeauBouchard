@@ -33,15 +33,15 @@ However the badges below use logos, You will use the url below for all the follo
 
 The above example was using this:
 
-<p>**LABEL** is "GraphQL" any text can be provided.</p>
+**LABEL** is "GraphQL" any text can be provided.
 
-<p>**BADGE-COLOR** is `20232A` for the hex color of an subtle off black.</p>
+**BADGE-COLOR** is `20232A` for the hex color of an subtle off black.
 
-<p>**LOGO-NAME** is `graphql` which is from the available logos. 
+**LOGO-NAME** is `graphql` which is from the available logos. 
 
-<p>To check the slug names of all available logos, look at the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">slugs.md file</a> of all available logos from simple logos.</p></p>
+To check the slug names of all available logos, look at the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">slugs.md file</a> of all available logos from simple logos.
 
-**LOGO-COLOR** is `E10098` with `%23` which is `#` url-encoded.</p>
+**LOGO-COLOR** is `E10098` with `%23` which is `#` url-encoded.
 
 
 
