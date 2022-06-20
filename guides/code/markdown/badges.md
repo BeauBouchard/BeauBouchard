@@ -149,6 +149,16 @@ The whole url and example above is like so:
 ```
 
 <div align="center">
+ <img src="https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC" />
+</div> 
+
+```md
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC)
+```
+
+
+
+<div align="center">
  <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
 </div> 
 
