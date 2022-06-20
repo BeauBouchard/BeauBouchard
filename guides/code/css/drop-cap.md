@@ -32,7 +32,7 @@ Having experimented a bit with this, adjusting the `font-size` and `line-height`
   font-weight: bold;
   font-size: 2em;
   line-height: 1.9em;
-  padding-right: 0.5em;
+  padding-right: 0.1em;
   margin-top: -0.1em;
 }
 ```
@@ -60,13 +60,13 @@ Having experimented a bit with this, adjusting the `font-size` and `line-height`
 ```css
 /** Dropcap Only The First Paragraph **/
 .guide-dropcap-01 {
-  p:first-of-type:first-letter {
+  p:first-of-type::first-letter {
     color: #B91646;
     float: left;
     font-weight: bold;
     font-size: 2em;
     line-height: 1.9em;
-    padding-right: 0.5em;
+    padding-right: 0.1em;
     margin-top: -0.1em;
   } 
 } 
@@ -96,13 +96,13 @@ Having experimented a bit with this, adjusting the `font-size` and `line-height`
 ```css
 /** Dropcap All Paragraphs **/
 .guide-dropcap-02 {
-  p:first-child:first-letter {
+  p:first-child::first-letter {
     color: #B91646;
     float: left;
     font-weight: bold;
     font-size: 2em;
     line-height: 1.9em;
-    padding-right: 0.5em;
+    padding-right: 0.1em;
     margin-top: -0.1em;
   }
 }
