@@ -63,23 +63,23 @@ The whole url and example above is like so:
 The following styles are available. Flat is the default. Examples are shown with an optional logo:
 
 <div align="center">
-  <p>&style=plastic <img src="https://img.shields.io/badge/plastic-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=plastic" /></p>
+<p>&style=plastic <img src="https://img.shields.io/badge/plastic-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=plastic" /></p>
 </div> 
 
 <div align="center">
- <p>&style=flat (default) <img src="https://img.shields.io/badge/flat-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=flat" /></p>
+<p>&style=flat (default) <img src="https://img.shields.io/badge/flat-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=flat" /></p>
 </div> 
 
 <div align="center">
- <p>&style=flat-square <img src="https://img.shields.io/badge/flat--square-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=flat-square" /></p>
+<p>&style=flat-square <img src="https://img.shields.io/badge/flat--square-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=flat-square" /></p>
 </div> 
 
 <div align="center">
-  <p>&style=for-the-badge <img src="https://img.shields.io/badge/for--the--badge-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=for-the-badge" />
+<p>&style=for-the-badge <img src="https://img.shields.io/badge/for--the--badge-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=for-the-badge" />
 </div> 
 
 <div align="center">
-  <p>&style=social <img src="https://img.shields.io/badge/social-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=social" /></p>
+<p>&style=social <img src="https://img.shields.io/badge/social-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=social" /></p>
 </div> 
 
 # Examples
