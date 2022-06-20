@@ -39,19 +39,30 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
 #### HTML
 
 ```html
-<div class="rainbow"></div>
+<div class="rainbow-container">
+  <div class="rainbow"></div>
+</div>
 ```
 
 #### CSS
 
 ```css
+.rainbow-container {
+  width: 500px;
+  height: 200px;
+  margin: auto;
+  padding: 0;
+}
+
 .rainbow {
+  position: relative;
+  left: 200px;
   width: 1vw;
   height: 2vh;
   background: transparent;
   box-shadow:
-    0 0 0 1vw #FCED00, // 1vw width
-    0 0 0 2vw #009E4F, // 1vw width
+    0 0 0 1vw #E7484F, // 1vw width
+    0 0 0 2vw #F68B1D, // 1vw width
 }
 ```
 <p class="spacers"> </p>
@@ -71,6 +82,7 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
 ```css
 .rainbow {
   position: relative;
+  left: 200px;
   width: 1vw;
   height: 2vh;
   border-radius: 50%;
