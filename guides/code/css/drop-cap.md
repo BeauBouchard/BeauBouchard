@@ -114,22 +114,36 @@ p:first-child:first-letter {
 
 `1rem` equals the font size of the html element, so adjusting the HTML's font size scales other sizes from it.
 
-
- * [Values_and_units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units)
-
+<div align="center" >
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">
+    <img src="https://img.shields.io/badge/Values_and_units-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1" alt="Values_and_units"/>
+  </a>
+</div>
 
 The `:first-child` CSS pseudo-class represents the first element among a group of sibling elements.
 
- * [:first-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child)
+<div align="center" >
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">
+    <img src="https://img.shields.io/badge/%3Afirst-child-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1" alt=":first-child"/>
+  </a>
+</div>
 
 The `:first-of-type` CSS pseudo-class represents the first element of its type among a group of sibling elements.
 
- * [:first-of-type](https://developer.mozilla.org/en-US/docs/Web/CSS/:first-of-type)
+<div align="center" >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/:first-of-type">
+    <img src="https://img.shields.io/badge/%3Afirst-of-type-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1" alt=":first-of-type"/>
+  </a>
+</div>
 
 
 The `::first-letter` CSS pseudo-element applies styles to the first letter of the first line of a block-level element, but only when not preceded by other content (such as images or inline tables).
 
- * [::first-letter](https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter)
+<div align="center" >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter">
+    <img src="https://img.shields.io/badge/%3A%3Afirst-letter-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1" alt="::first-letter"/>
+  </a>
+</div>
 
 
 <p class="spacers"> <br /></p>
