@@ -23,7 +23,7 @@
 </div> 
 
 
-The great minds at Shields.io thought up a great way to create custom badges for practically anything you need. 
+The great minds at [Shields.io](https://shields.io/) thought up a great way to create custom badges for practically anything you need. 
 You will use the url below for all the following examples. 
 
 A simple example can be `https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>`
