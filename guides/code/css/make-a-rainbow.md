@@ -104,19 +104,32 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 
 <p>then cut them in half by turning off overflow, and moving the object slightly down, so the bounding box of the object is off-center, only showing half of it. and . . . </p>
 
+
+#### HTML
+
+```html
+<div class="rainbow-container">
+  <div class="rainbow"></div>
+</div>
+```
+
+
 #### CSS
 
 ```css
+// Put this around the rainbow
+.rainbow-container {
+  width: 500px;
+  height: 200px;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+}
+
 .rainbow {
   width: 35vw;
   height: 17.5vw;
   background: #E7484F;
-}
-
-.ranbow:after {
-  position: absolute;
-  content: '';
-  box-shadow: 0 0 0 1vw #F68B1D;
 }
 ```
 
@@ -128,7 +141,7 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 
 ### Full Rainbow Example
 
-<div class="guide-container-rainbow-pride">
+<div class="rainbow-container">
   <div class="guide-rainbow-pride"></div>
 </div>
 
@@ -137,9 +150,32 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 
 ### Full Rainbow Example Code
 
+#### HTML 
+
+```html
+<div class="rainbow-container">
+  <div class="rainbow-pride"></div>
+</div>
+```
+
+#### SCSS
+
 ```scss
 /** Happy Pride Month Rainbow Colors **/
-.guide-container-rainbow-pride {
+$theme-pride-one:                     #FBF9F5;
+$theme-pride-two:                     #FEAEC7;
+$theme-pride-three:                   #75D7EF;
+$theme-pride-four:                    #613A15;
+$theme-pride-five:                    #101010;
+$theme-pride-six:                     #E7484F;
+$theme-pride-seven:                   #F68B1D;
+$theme-pride-eight:                   #FCED00;
+$theme-pride-nine:                    #009E4F;
+$theme-pride-ten:                     #00AAC3;
+$theme-pride-eleven:                  #732982;
+
+// Put this around the rainbow
+.rainbow-container {
   width: 500px;
   height: 200px;
   margin: auto;
@@ -147,26 +183,27 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
   overflow: hidden;
 }
 
-.guide-rainbow-pride {
+.rainbow-pride {
   position: relative;
-  top: 242px;
+  top: 190px;
   left: 200px;
   width: 1vw;
   height: 2vh;
   background: transparent;
   border-radius: 50%;
-  box-shadow: 
-    0 0 0 0.5vw #FBF9F5,
-    0 0 0 1vw   #FEAEC7,
-    0 0 0 1.5vw #75D7EF,
-    0 0 0 2vw   #613A15,
-    0 0 0 2.5vw #101010,
-    0 0 0 3.5vw #E7484F,
-    0 0 0 4.5vw #F68B1D,
-    0 0 0 5.5vw #FCED00,
-    0 0 0 6.5vw #009E4F,
-    0 0 0 7.5vw #00AAC3,
-    0 0 0 8.5vw #732982;
+  /** This shadow box adds 0.5vw and 1vw width strips **/
+  box-shadow:
+    0 0 0 0.5vw $theme-pride-one,   // 0.5vw width
+    0 0 0 1vw   $theme-pride-two,   // 0.5vw width
+    0 0 0 1.5vw $theme-pride-three, // 0.5vw width
+    0 0 0 2vw   $theme-pride-four,  // 0.5vw width
+    0 0 0 2.5vw $theme-pride-five,  // 1vw width
+    0 0 0 3.5vw $theme-pride-six,   // 1vw width
+    0 0 0 4.5vw $theme-pride-seven, // 1vw width
+    0 0 0 5.5vw $theme-pride-eight, // 1vw width
+    0 0 0 6.5vw $theme-pride-nine,  // 1vw width
+    0 0 0 7.5vw $theme-pride-ten,   // 1vw width
+    0 0 0 8.5vw $theme-pride-eleven;// 1vw width
 }
 ```
 <p class="spacers"> </p>
