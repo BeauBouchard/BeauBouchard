@@ -7,7 +7,7 @@
 <p class="spacers"> </p>
 <p class="spacers"> </p>
 <div class="rainbow-container">
-  <div class="guide-rainbow-pride"></div>
+  <div class="guide-rainbow-top"></div>
 </div>
 <p class="spacers"> </p>
 <p class="spacers"> </p>
