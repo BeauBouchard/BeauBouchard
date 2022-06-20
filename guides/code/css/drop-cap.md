@@ -2,15 +2,28 @@
 <p><a href="/">home</a> / <a href="/guides">guides</a></p>
 <div class="rainbow-retro"></div>
 
-# Add a decorative 
+# Add a Decorative Drop-Cap to your Text
 
-Having experimented a bit with this, adjusting the `font-size` and `line-height` can be an issue. Scale the paragraph to be 
+Having experimented a bit with this, adjusting the `font-size` and `line-height` can be an issue.
+
+## Dropcap First Paragraph Only
+
+
+<div class="guide-dropcap-01">
+  <p>paragraph 1</p>
+  <p>paragraph 2</p>
+  <p>paragraph 3</p>
+</div>
+
+### Code
 
 ```html
 
-<p>paragraph 1</p>
-<p>paragraph 2</p>
-<p>paragraph 3</p>
+<div class="guide-dropcap-01">
+  <p>paragraph 1</p>
+  <p>paragraph 2</p>
+  <p>paragraph 3</p>
+</div>
 
 ```
 
@@ -27,11 +40,24 @@ p:first-of-type:first-letter {
 } 
 ```
 
-```html
 
-<p>paragraph 1</p>
-<p>paragraph 2</p>
-<p>paragraph 3</p>
+## Dropcap All Paragraphs
+
+
+<div class="guide-dropcap-02">
+  <p>paragraph 1</p>
+  <p>paragraph 2</p>
+  <p>paragraph 3</p>
+</div>
+
+### Code
+
+```html
+<div class="guide-dropcap-02">
+  <p>paragraph 1</p>
+  <p>paragraph 2</p>
+  <p>paragraph 3</p>
+</div>
 
 ```
 
@@ -48,6 +74,15 @@ p:first-child:first-letter {
 }
 
 ```
+
+## Class Specific Dropcap
+
+<p>paragraph 1</p>
+<p>paragraph 2</p>
+<p class="dropme">paragraph 3</p>
+
+
+### Code
 
 ```html
 <p>paragraph 1</p>
@@ -70,6 +105,7 @@ p:first-child:first-letter {
 
 ```
 
+<p class="spacers"> <br /></p>
 
 ## NOTES
 
