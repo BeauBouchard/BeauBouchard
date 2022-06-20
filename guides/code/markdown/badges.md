@@ -75,7 +75,7 @@ The following styles are available. Flat is the default. Examples are shown with
 </div> 
 
 <div align="center">
-<p>&style=for-the-badge <img src="https://img.shields.io/badge/for--the--badge-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=for-the-badge" />
+<p>&style=for-the-badge <img src="https://img.shields.io/badge/for--the--badge-20232A.svg?logo=Gunicorn&logoColor=%23E10098&style=for-the-badge" /></p>
 </div> 
 
 <div align="center">
