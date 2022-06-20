@@ -47,14 +47,14 @@
 ### Markdown
 
  * [Make a Collapsible in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-collapsible)
- * [Add Badges to your README in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/badges)
+ * [Add Badges to your README in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/badges)
  * [Add an Image in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-image)
  * [Center Things in ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white)](/guides/code/markdown/markdown-alignment)
 
 
 ## Github
 
-* [Add Badges to your READMEs or Github Profile Pages](/guides/code/badges)
+* [Add Badges to your READMEs or Github Profile Pages](/guides/code/markdown/badges)
 
 
 
