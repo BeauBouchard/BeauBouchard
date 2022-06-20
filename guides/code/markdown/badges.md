@@ -7,10 +7,31 @@
 ## Making a Badge
 
 
+<div align="center">
+ <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
+</div> 
+
 The great minds at Shields.io thought up a great way to create custom badges for practically anything you need. 
 You will use the url below for all the following examples. 
 
-`https://img.shields.io/badge/{words}-{hex-color}.svg?logo={logo-name}&logoColor={logo-color}`
+A simple example can be `https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>`
+
+However the badges below use logos, which is more like 
+
+`https://img.shields.io/badge/<LABEL>-<BADGE-COLOR>.svg?logo=<LOGO-NAME>&logoColor=<LOGO-COLOR>`
+
+The above example was using this:
+
+```md
+![Alt Text](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23E10098)
+```
+
+<p>`LABEL` is "GraphQL" any text can be provided</p>
+<p>`BADGE-COLOR` is `20232A` for the hex color of an subtle off black. </p>
+<p>`LOGO-NAME` is `graphql` which is from the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">available logos</a></p>
+<p>`LOGO-COLOR` is `E10098` with `%23` which is `#` url-encoded.</p>
+
+To check the slug names of available logos, look at the <a href="https://github.com/simple-icons/simple-icons/blob/develop/slugs.md">slugs.md file</a> of all available logos from simple logos.
 
 Feel free to skip the end to see pre-made badges. 
 
@@ -91,3 +112,10 @@ Feel free to skip the end to see pre-made badges.
 ```md
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white)
 ```
+
+<p class="spacers"> <br /></p>
+<div align="center" >
+  <p>
+    <a href="https://beau.sh/guides/">⬅️ Back to Guides</a>
+  </p>
+</div>
