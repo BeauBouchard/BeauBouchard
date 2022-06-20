@@ -429,6 +429,8 @@ $theme-whoami-vlink-color:            #9CAF88;
 }
 
 .guide-rainbow-01 {
+  position: relative;
+  left: 200px;
   width: 1vw;
   height: 2vh;
   background: transparent;
@@ -438,6 +440,8 @@ $theme-whoami-vlink-color:            #9CAF88;
 }
 
 .guide-rainbow-02 {
+  position: relative;
+  left: 200px;
   width: 1vw;
   height: 2vh;
   border-radius: 50%;
@@ -450,6 +454,7 @@ $theme-whoami-vlink-color:            #9CAF88;
 
 .guide-rainbow-03 {
   position: relative;
+  left: 200px;
   width: 1vw;
   height: 2vh;
   border-radius: 50%;
@@ -473,12 +478,12 @@ $theme-whoami-vlink-color:            #9CAF88;
   background: transparent;
   /** This shadow box adds 0.5vw and 1vw width strips **/
   box-shadow:
-    0 0 0 1vw $theme-pride-six,   // 1vw width
-    0 0 0 2vw $theme-pride-seven, // 1vw width
-    0 0 0 3vw $theme-pride-eight, // 1vw width
-    0 0 0 4vw $theme-pride-nine,  // 1vw width
-    0 0 0 5vw $theme-pride-ten,   // 1vw width
-    0 0 0 6vw $theme-pride-eleven;// 1vw width
+    0 0 0 1vw #E7484F, // 1vw width
+    0 0 0 2vw #F68B1D, // 1vw width
+    0 0 0 3vw #FCED00, // 1vw width
+    0 0 0 4vw #009E4F, // 1vw width
+    0 0 0 5vw #00AAC3, // 1vw width
+    0 0 0 6vw #732982; // 1vw width
 }
 
 
