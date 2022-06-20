@@ -33,7 +33,7 @@
 
 ### Step 1 - Make a box
 
-Start by making a class `rainbow` and adding it to any old `HTML` element. Make the class have an `:after` with `content: ''`, which allows it to render that after element to the page on load.
+Start by making a class `rainbow` and adding it to any old `HTML` element. Make the class have another class wrapping it, as a container. This container will be how we position the shape, and control how much of it is displayed. We will start with the two classes `rainbow-container` and `rainbow` inside of it. Add a `width` and `height` to the container so we can have it as a standard size.
 
 Because we are going to do multiple boxes, layered, an easy way of doing this is to use `drop-shadow`.
 
@@ -167,7 +167,7 @@ Because we are going to do multiple boxes, layered, an easy way of doing this is
   height: 2vh;
   border-radius: 50%;
   background: transparent;
-  /** This shadow box adds 0.5vw and 1vw width strips **/
+  /** This shadow box adds 1vw width strips **/
   box-shadow:
     0 0 0 1vw #E7484F, // 1vw width
     0 0 0 2vw #F68B1D, // 1vw width
@@ -262,7 +262,6 @@ $theme-pride-eleven:                  #732982;
   height: 2vh;
   border-radius: 50%;
   background: transparent;
-  /** This shadow box adds 0.5vw and 1vw width strips **/
   box-shadow:
     0 0 0 1vw #F0C71D, // 1vw width
     0 0 0 2vw #EA9F1C, // 1vw width
@@ -273,3 +272,11 @@ $theme-pride-eleven:                  #732982;
 ```
 <p class="spacers"> </p>
 
+
+## NOTES
+
+<p><a href="https://www.loc.gov/lgbt-pride-month/about/">Read more about the history of pride month and the history of the Stonewall uprising Here!</a></p>
+
+<p><a href="https://en.wikipedia.org/wiki/Rainbow_flag_(LGBT)#2010s_to_present">Read more about the history of why the LGBT+ flag has the colors it does Here!</a></p>
+
+<p><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">Read more about VW and VH size measurements in the browser Here at MDN, they really are great!</a></p>
