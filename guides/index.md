@@ -53,7 +53,7 @@
  * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
 
 
-## Github
+## ![Github](https://img.shields.io/badge/Github-20232a.svg?logo=github&logoColor=white&style=for-the-badge)
 
 * [Add Badges to your READMEs or Github Profile Pages](/guides/code/markdown/badges)
 
