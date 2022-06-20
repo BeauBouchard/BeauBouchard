@@ -6,7 +6,7 @@
 <div align="center">
  <img src="https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098" />
  <p>
-  Feel free to <a href="#Examples">skip the end to see pre-made badges. </a>
+  Feel free to <a href="#examples">skip the end to see pre-made badges. </a>
  </p>
 </div> 
 <p class="spacers"> <br /></p>
