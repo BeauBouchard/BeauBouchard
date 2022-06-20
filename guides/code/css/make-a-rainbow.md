@@ -4,7 +4,6 @@
 # How to Make a rainbow with just CSS and HTML
 
 
-<div class="guide-5830-l01"></div>
 
 <p>In this document you will learn to make the above rainbow only using CSS. </p>
 
@@ -55,7 +54,7 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 <p class="spacers"> </p>
 
 
-<div class="guide-5830-l01"></div>
+<div class="guide-rainbow-01"></div>
 
 <p>You should see a single box like above</p>
 
@@ -77,6 +76,8 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
 }
 ```
 
+<div class="guide-rainbow-02"></div>
+
 ### Step 3 - Make more circles
 
 #### CSS
@@ -94,6 +95,10 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
   box-shadow: 0 0 0 1vw #F68B1D;
 }
 ```
+
+
+<div class="guide-rainbow-03"></div>
+
 
 <div class="guide-5830-l06"></div>
 
@@ -132,10 +137,12 @@ Because we are going to do multiple borders, we are going to do `drop-shadow` to
   background: #E7484F;
 }
 ```
-
 <p>Voilà . . . AN ARCH</p>
 
-<div class="guide-5830-l07"></div>
+<div class="rainbow-container">
+  <div class="guide-rainbow-04"></div>
+</div>
+
 
 <p class="spacers"> </p>
 
