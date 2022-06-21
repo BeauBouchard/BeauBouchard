@@ -97,29 +97,6 @@ I am Beau, I like to code things.
 
 
 
-## Tools I built
-
-### [dotfiles](https://github.com/BeauBouchard/dotfiles) - ![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white) my personal dotfiles I normally use
-
-### [Sever Side Tools NPM Package](https://github.com/wh-iterabb-it/sst-ts) - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white) Reusable npm module for some essential items my APIs use.
-
-
-## 😄 Fun Projects 
-
-### 🛰️ APIs
-
- * [obiter-dictum](https://github.com/Crucible-Standard/obiter-dictum)[![Issues](https://img.shields.io/github/issues/Crucible-Standard/obiter-dictum.svg)](https://github.com/Crucible-Standard/obiter-dictum/issues)[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Crucible-Standard/obiter-dictum/blob/main/LICENSE)![Known Vulnerabilities](https://snyk.io/test/github/Crucible-Standard/obiter-dictum/badge.svg)[![Total alerts](https://img.shields.io/lgtm/alerts/g/Crucible-Standard/obiter-dictum.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/obiter-dictum/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Crucible-Standard/obiter-dictum.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/obiter-dictum/context:javascript)
- * [meteorology](https://github.com/Crucible-Standard/meteorology)[![Issues](https://img.shields.io/github/issues/Crucible-Standard/meteorology.svg)](https://github.com/Crucible-Standard/meteorology/issues)[![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/Crucible-Standard/meteorology/blob/main/LICENSE)
-![Known Vulnerabilities](https://snyk.io/test/github/Crucible-Standard/meteorology/badge.svg)[![Total alerts](https://img.shields.io/lgtm/alerts/g/Crucible-Standard/meteorology.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/meteorology/alerts/)[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Crucible-Standard/meteorology.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/meteorology/context:javascript)
- * [cryptoget](https://github.com/Crucible-Standard/cryptoget)[![Issues](https://img.shields.io/github/issues/Crucible-Standard/cryptoget.svg)](https://github.com/Crucible-Standard/cryptoget/issues)[![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/Crucible-Standard/cryptoget/blob/main/LICENSE)![Known Vulnerabilities](https://snyk.io/test/github/Crucible-Standard/cryptoget/badge.svg)[![Total alerts](https://img.shields.io/lgtm/alerts/g/Crucible-Standard/cryptoget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/cryptoget/alerts/)[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Crucible-Standard/cryptoget.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/cryptoget/context:javascript)
- * [mtastate](https://github.com/Crucible-Standard/mtastate)[![Issues](https://img.shields.io/github/issues/Crucible-Standard/mtastate.svg)](https://github.com/Crucible-Standard/mtastate/issues)[![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/Crucible-Standard/mtastate/blob/main/LICENSE)[![Known Vulnerabilities](https://snyk.io/test/github/Crucible-Standard/mtastate/badge.svg)](#)[![Total alerts](https://img.shields.io/lgtm/alerts/g/Crucible-Standard/mtastate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/mtastate/alerts/) 
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Crucible-Standard/mtastate.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Crucible-Standard/mtastate/context:javascript)
- * [aphorismcookie](https://github.com/free-ignorance/aphorismcookie)
- * [meowfacts](https://github.com/wh-iterabb-it/meowfacts) [![Issues](https://img.shields.io/github/issues/Crucible-Standard/obiter-dictum.svg)](https://github.com/wh-iterabb-it/meowfacts/issues) [![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/wh-iterabb-it/meowfacts/blob/main/LICENSE) ![Known Vulnerabilities](https://snyk.io/test/github/wh-iterabb-it/meowfacts/badge.svg) 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/wh-iterabb-it/meowfacts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wh-iterabb-it/meowfacts/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/wh-iterabb-it/meowfacts.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wh-iterabb-it/meowfacts/context:javascript) [![codecov](https://codecov.io/gh/wh-iterabb-it/meowfacts/branch/master/graph/badge.svg)](https://codecov.io/gh/wh-iterabb-it/meowfacts)
- * [shrewd](https://github.com/free-ignorance/shrewd) [![Issues](https://img.shields.io/github/issues/free-ignorance/shrewd.svg)](https://github.comfree-ignorance/shrewd/issues) [![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/free-ignorance/shrewd/blob/main/LICENSE) ![Known Vulnerabilities](https://snyk.io/test/github/free-ignorance/shrewd/badge.svg)[![Total alerts](https://img.shields.io/lgtm/alerts/g/free-ignorance/shrewd.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/free-ignorance/shrewd/alerts/)[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/free-ignorance/shrewd.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/free-ignorance/shrewd/context:javascript)[![codecov](https://codecov.io/gh/free-ignorance/shrewd/branch/main/graph/badge.svg)](https://codecov.io/gh/free-ignorance/shrewd)
-
- * [soothsaying](https://github.com/free-ignorance/soothsaying)
 
 
 
@@ -131,21 +108,4 @@ I am Beau, I like to code things.
 
 [wh.iterabb.it](https://wh.iterabb.it)
 
-## 📫 How to reach me 
 
-📵 Don't Call my Phone. . . (sorry, I enjoy when I am disconnected)
-
-* DM me on [![Twitter](https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue)](https://twitter.com/beaubouchard)
-* OR Email me with the subject "From Your Github Page"
-  * If you want, you can shedule a time to chat on audio/video services. 
-
-### 💅 Profiles
-
- [![LinkTree](https://img.shields.io/badge/LinkTree-FFFFFF.svg?logo=linktree&logoColor=blue)](https://linktr.ee/beaubouchard)
- [![Twitter](https://img.shields.io/badge/Twitter-FFFFFF.svg?logo=twitter&logoColor=blue)](https://twitter.com/beaubouchard)
- [![Github](https://img.shields.io/badge/Github-FFFFFF.svg?logo=github&logoColor=blue)](https://github.com/BeauBouchard/)
- [![Linkedin](https://img.shields.io/badge/Linkedin-FFFFFF.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/beaubouchard/)
- 
-## Like My Stuff?
-
- [![Twitter](https://img.shields.io/twitter/follow/beaubouchard?label=Follow&style=social)](https://twitter.com/beaubouchard?ref_src=twsrc%5Etfw) 
