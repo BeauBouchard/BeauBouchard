@@ -102,10 +102,11 @@ I am Beau, I like to code things.
 
 ### 🌐 Websites
 
-[beau.sh](https://beau.sh)
+<p align="center">
+ <a href="https://beau.sh">
+  <img src="https://img.shields.io/badge/beau.sh-20232A.svg?style=for-the-badge" alt="beau.sh" />
+ </a>
+</p>
 
-[sage.af](https://sage.af)
-
-[wh.iterabb.it](https://wh.iterabb.it)
 
 
