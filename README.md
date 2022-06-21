@@ -104,7 +104,7 @@ I am Beau, I like to code things.
 
 <p align="center">
  <a href="https://beau.sh">
-  <img src="https://img.shields.io/badge/❥beau.sh-20232A.svg?style=for-the-badge" alt="beau.sh" />
+  <img width="190px" height="58px" src="https://img.shields.io/badge/❥_beau.sh-20232A.svg?style=for-the-badge" alt="beau.sh" />
  </a>
 </p>
 
