@@ -275,11 +275,28 @@ $theme-pride-eleven:                  #732982;
 
 ## NOTES
 
-<p><a href="https://www.loc.gov/lgbt-pride-month/about/">Read more about the history of pride month and the history of the Stonewall uprising Here!</a></p>
+<p>Read more about the history of pride month and the history of the Stonewall uprising: </p>
+<div align="center" >
+  <a href="https://www.loc.gov/lgbt-pride-month/about/">
+    <img src="https://img.shields.io/badge/Pride_History-1572B6.svg?logo=Gunicorn&logoColor=%23e10098&style=for-the-badge" alt="Pride History Explained" />
+  </a>
+</div>
 
-<p><a href="https://en.wikipedia.org/wiki/Rainbow_flag_(LGBT)#2010s_to_present">Read more about the history of why the LGBT+ flag has the colors it does Here!</a></p>
 
-<p><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">Read more about VW and VH size measurements in the browser Here at MDN, they really are great!</a></p>
+<p>Read more about the history of why the LGBT+ flag has the colors it does:</p>
+<div align="center" >
+  <a href="https://en.wikipedia.org/wiki/Rainbow_flag_(LGBT)#2010s_to_present" >
+    <img src="https://img.shields.io/badge/Pride_Flag_History-1572B6.svg?logo=Gunicorn&logoColor=%23e10098&style=for-the-badge" alt="Link image to Rainbow flag wikipedia" />
+  </a>
+</div>
+
+<p>Read more about VW and VH size measurements in the browser Here at MDN, they really are great!</p>
+<div align="center" >
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units">
+    <img src="https://img.shields.io/badge/Values_and_units-20232A.svg?logo=mdnwebdocs&logoColor=%233F8ED1&style=for-the-badge" alt="Values_and_units"/>
+  </a>
+</div>
+
 
 <p class="spacers"> <br /></p>
 <div align="center" >
