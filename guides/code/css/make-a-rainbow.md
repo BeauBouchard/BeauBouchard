@@ -278,7 +278,7 @@ $theme-pride-eleven:                  #732982;
 <p>Read more about the history of pride month and the history of the Stonewall uprising: </p>
 <div align="center" >
   <a href="https://www.loc.gov/lgbt-pride-month/about/">
-    <img src="https://img.shields.io/badge/Pride_History-1572B6.svg?logo=Gunicorn&logoColor=%23e10098&style=for-the-badge" alt="Pride History Explained" />
+    <img src="https://img.shields.io/badge/Pride_History-20232A.svg?logo=Gunicorn&logoColor=%23e10098&style=for-the-badge" alt="Pride History Explained" />
   </a>
 </div>
 
@@ -286,7 +286,7 @@ $theme-pride-eleven:                  #732982;
 <p>Read more about the history of why the LGBT+ flag has the colors it does:</p>
 <div align="center" >
   <a href="https://en.wikipedia.org/wiki/Rainbow_flag_(LGBT)#2010s_to_present" >
-    <img src="https://img.shields.io/badge/Pride_Flag_History-1572B6.svg?logo=Gunicorn&logoColor=%23e10098&style=for-the-badge" alt="Link image to Rainbow flag wikipedia" />
+    <img src="https://img.shields.io/badge/Pride_Flag_History-20232A.svg?logo=Gunicorn&logoColor=%23e10098&style=for-the-badge" alt="Link image to Rainbow flag wikipedia" />
   </a>
 </div>
 
