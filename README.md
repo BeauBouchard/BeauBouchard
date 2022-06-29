@@ -12,7 +12,6 @@ I am Beau, I like to code things.
  [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Abash)
  [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Acss)
  [![GoLang](https://img.shields.io/badge/GoLang-20232A.svg?logo=go&logoColor=%2379D4FD)](https://go.dev/)
- [![GraphQL](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098)](https://graphql.org/)
  [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Ahtml)
  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3BeauBouchard+language%3Ajavascript)
  [![markdown](https://img.shields.io/badge/Markdown-20232A.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3BeauBouchard+language%3Amarkdown)
@@ -22,6 +21,7 @@ I am Beau, I like to code things.
 ### 🧰 Frameworks and Libraries
 
  [![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white)](https://expressjs.com/)
+ [![GraphQL](https://img.shields.io/badge/GraphQL-20232A.svg?logo=graphql&logoColor=%23e10098)](https://graphql.org/)
  [![Jest](https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white)](https://jestjs.io/)
  [![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
  [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
