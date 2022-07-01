@@ -24,8 +24,8 @@ This is easy to do with the "jq" command like the following:
 ```bash
 read_json() {
 	while IFS= read -r NAME && IFS= read -r FAVCOLOR; do
-    echo "${NAME}'s favorite color is ${FAVCOLOR}"
-  done < <(jq -r ".[] | .name, .favorite_color" ./people.json)
+		echo "${NAME}'s favorite color is ${FAVCOLOR}"
+	done < <(jq -r ".[] | .name, .favorite_color" ./people.json)
 }
 ```
 
