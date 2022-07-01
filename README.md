@@ -52,8 +52,8 @@ I am Beau, I like to code things.
 
 #### ⚠️ Monitoring and Alerting
 
- [![New Relic](https://img.shields.io/badge/New%20Relic-FFFFFF.svg?logo=newrelic&logoColor=blue)](https://newrelic.com/)
- [![DataDog](https://img.shields.io/badge/DataDog-FFFFFF.svg?logo=datadog&logoColor=blue)](https://www.datadoghq.com/)
+ [![New Relic](https://img.shields.io/badge/New%20Relic-20232A.svg?logo=newrelic&logoColor=blue)](https://newrelic.com/)
+ [![DataDog](https://img.shields.io/badge/DataDog-20232A.svg?logo=datadog&logoColor=purple)](https://www.datadoghq.com/)
  [![PagerDuty](https://img.shields.io/badge/Pagerduty-FFFFFF.svg?logo=pagerduty&logoColor=blue)](https://www.pagerduty.com/)
  [![Apiary](https://img.shields.io/badge/Apiary-FFFFFF.svg?logo=oracle&logoColor=%23F90000)](https://apiary.io/)
 
