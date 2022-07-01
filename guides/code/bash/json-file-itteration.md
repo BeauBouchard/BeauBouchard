@@ -30,12 +30,14 @@ read_json() {
 ```
 
 The output of the above command should look like this: 
+
 ```bash
 Bob's favorite color is red
 Doug's favorite color is blue
 Samantha's favorite color is red
 Jessica's favorite color is green
 ```
+
 ## Detailed Explaination
 
 
