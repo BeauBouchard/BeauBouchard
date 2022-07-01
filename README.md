@@ -28,14 +28,14 @@ I am Beau, I like to code things.
  [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)](https://docs.github.com/en/actions)
  [![Docker](https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 
-### Hosting
+### ☁️ Hosting
 
  [![AWS](https://img.shields.io/badge/AWS%20Hosting-FFFFFF.svg?logo=amazonaws&logoColor=orange)](https://aws.amazon.com/)
  [![netlify](https://img.shields.io/badge/Netlify-FFFFFF.svg?logo=netlify&logoColor=blue)](https://www.netlify.com/)
  [![Heroku](https://img.shields.io/badge/Heroku-FFFFFF.svg?logo=heroku&logoColor=%23430098)](#idontusethisanymore)
  [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-FFFFFF.svg?logo=github&logoColor=%232671E5)](https://pages.github.com/)
  
- #### 🗄️ Databases
+#### 🗄️ Databases
 
  [![MySQL](https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC)](https://www.mysql.com/)
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
@@ -46,6 +46,7 @@ I am Beau, I like to code things.
  [![AWS Lambda](https://img.shields.io/badge/AWS%20Lambdas-FFFFFF.svg?logo=awslambda&logoColor=orange)](https://aws.amazon.com/)
  [![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-FFFFFF.svg?logo=googlecloud&logoColor=blue)](https://cloud.google.com/functions)
  [![Kubernetes](https://img.shields.io/badge/Kubernetes-FFFFFF.svg?logo=kubernetes&logoColor=blue)](https://kubernetes.io/)
+ [![Serverless](https://img.shields.io/badge/Serverless-20232A.svg?logo=serverless&logoColor=white)](https://www.serverless.com/)
  [![Helm](https://img.shields.io/badge/Helm-FFFFFF.svg?logo=helm&logoColor=blue)](https://helm.sh/)
  [![Terraform](https://img.shields.io/badge/Terraform-FFFFFF.svg?logo=terraform&logoColor=purple)](https://www.terraform.io/)
 
