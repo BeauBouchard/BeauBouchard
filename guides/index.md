@@ -40,6 +40,11 @@
 
 ## Language Specific
 
+### ![BASH](https://img.shields.io/badge/BASH-1572B6.svg?logo=gnu-bash&logoColor=white&style=for-the-badge) 
+
+ * [Itterate through a JSON file in Bash](/guides/code/bash/json-file-itteration)
+ * [Input for your Bash Scripts](/guides/code/bash/bash-input)
+
 ### ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge) 
 
  * [Make a Rainbow in CSS](/guides/code/css/make-a-rainbow)
