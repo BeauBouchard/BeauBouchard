@@ -40,25 +40,24 @@
 
 ## Language Specific
 
-### ![BASH](https://img.shields.io/badge/BASH-1572B6.svg?logo=gnu-bash&logoColor=white&style=for-the-badge) 
+<h3 id="bash"><img alt="Bash" src="https://img.shields.io/badge/BASH-20232a.svg?logo=gnu-bash&logoColor=white&style=for-the-badge" /></h3>
 
  * [Itterate through a JSON file in Bash](/guides/code/bash/json-file-itteration)
  * [Input for your Bash Scripts](/guides/code/bash/bash-input)
 
-### ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge) 
+<h3 id="css"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge" /></h3>
 
  * [Make a Rainbow in CSS](/guides/code/css/make-a-rainbow)
  * [Add a Drop Cap to your Text with CSS](/guides/code/css/drop-cap)
 
-### ![Markdown](https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white&style=for-the-badge)
+<h3 id="markdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-20232a.svg?logo=markdown&logoColor=white&style=for-the-badge" /></h3>
 
  * [Make a Collapsible in Markdown](/guides/code/markdown/markdown-collapsible)
  * [Add Badges to your README in Markdown](/guides/code/markdown/badges)
  * [Add an Image in Markdown](/guides/code/markdown/markdown-image)
  * [Center Things in Markdown](/guides/code/markdown/markdown-alignment)
 
-
-## ![Github](https://img.shields.io/badge/Github-20232a.svg?logo=github&logoColor=white&style=for-the-badge)
+<h3 id="github"><img alt="Github" src="https://img.shields.io/badge/Github-20232a.svg?logo=github&logoColor=white&style=for-the-badge" /></h3>
 
 * [Add Badges to your READMEs or Github Profile Pages](/guides/code/markdown/badges)
 
