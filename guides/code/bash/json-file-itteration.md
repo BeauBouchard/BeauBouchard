@@ -40,6 +40,11 @@ Jessica's favorite color is green
 
 ## Detailed Explaination
 
+<p>Using the raw output from JQ, we can then itterate over every json as if it was an entry from an array. Then using the named pipes, we can name the Inputs for the READ command.</p>
+<p><strong>--raw-output / -r:</strong> - With this option, if the filter's result is a string then it will be written directly to standard output rather than being formatted as a JSON string with quotes. This can be useful for making jq filters talk to non-JSON-based systems. -- <a href="https://stedolan.github.io/jq/manual/">jq man pages</a></p>
+<p>While we are looping, the the <strong>-r</strong> option on <strong>read</strong> prevents it from treating backslash as a special character. -- <a href="https://ss64.com/bash/read.html">man for bash / read</a></p>
+
+
 
 <p class="spacers"> <br /></p>
 <div align="center" >
