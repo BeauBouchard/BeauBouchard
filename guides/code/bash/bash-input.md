@@ -11,9 +11,9 @@
   port=$(input_user  "what port for server?" 8080)
 ```
 
-which will prompt the user for a text input, but also have the option for a default answer. 
+<p>Which will prompt the user for a text input, but also have the option for a default answer. </p>
 
-The function looks like this
+<p>The function looks like this . . .</p>
 
 ```bash
 # input decision for user, useful for assigning variiable values
@@ -67,9 +67,22 @@ delete_check() {
 }
 ```
 
+## Detailed Explaination
+
+
+Using the `read -p` command above means you want to execute `read` using the `-p` option, which stands for prompt.
+	
+<p><a href="https://ss64.com/bash/read.html">-p (prompt)</a> - Display prompt on standard error, without a trailing newline, before attempting to read any input. The prompt is displayed only if input is coming from a terminal.</p>
+
+
+<p><a href="https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html">If</a> checks the return string of the input function, using a string comparison. But there are many other things you can do with responses.</p>
+
 
 <p class="spacers"> <br /></p>
 <div align="center" >
+  <p>
+    <a href="https://beau.sh/guides/#bash">More Bash Guides . . .</a>
+  </p>
   <p>
     <a href="https://beau.sh/guides/">⬅️ Back to Guides</a>
   </p>
