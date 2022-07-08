@@ -11,9 +11,6 @@
 <p class="spacers"> <br /></p>
 <div align="center" >
   <p>
-    <a href="https://beau.sh/guides/#bash">More Bash Guides . . .</a>
-  </p>
-  <p>
     <a href="https://beau.sh/guides/">⬅️ Back to Guides</a>
   </p>
 </div>
