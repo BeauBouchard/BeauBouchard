@@ -29,7 +29,7 @@ The last two steps we are adding which are unique in this document are to use `j
 
 In this example here is what the `npm run test:coverage` includes in `package.json`:
 
-```
+```json
     "test:coverage": "jest --coverage | ./node_modules/.bin/codecov",
 ```
 
