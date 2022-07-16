@@ -27,8 +27,14 @@ The last two steps we are adding which are unique in this document are to use `j
       verbose: true # optional (default = false)
 ```
 
+In this example here is what the `npm run test:coverage` includes in `package.json`:
 
-For instructions about setting up a codecov account, checkout this document on their site here. 
+```
+    "test:coverage": "jest --coverage | ./node_modules/.bin/codecov",
+```
+
+
+For instructions about setting up a codecov account, <a href="https://docs.codecov.com/docs">checkout this document on their site here</a>.  
 
 Which all starts by setting up a repo with an <a href="https://about.codecov.io/sign-up/">account from github here</a>. 
 
