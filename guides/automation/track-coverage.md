@@ -6,9 +6,9 @@
 This is the third part in a series about making github actions, make sure to check out the rest of them
 
  - <a href="/guides/automation/github-actions">Github Actions Primer</a>
-   -  <a href="/guides/automation/github-actions">Linting</a>
-   -  <a href="/guides/automation/github-actions">Testing</a>
-   -  <a href="/guides/automation/track-coverage">Code Coverage</a>
+   -  <a href="/guides/automation/github-actions-linting">Linting</a>
+   -  <a href="/guides/automation/github-actions-testing">Testing</a>
+   -  <a href="/guides/automation/github-actions-track-coverage">Code Coverage</a>
 
 ## Making a Github Action
 
