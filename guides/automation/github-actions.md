@@ -1,9 +1,16 @@
 <p><a href="/">home</a> / <a href="/guides">guides</a></p>
 <div class="rainbow-retro"></div>
 
-# Adding Quick Github Actions to Automate things!
+# Github Actions Primer
 
-Adding automation is not just for production, you should be adding them to all your environments. in this short guide you will add several types of Github actions to a workflow. 
+### Adding Quick Github Actions to Automate things!
+
+ - <a href="/guides/automation/github-actions">Github Actions Primer</a>
+   -  <a href="/guides/automation/github-actions-linting">Linting</a>
+   -  <a href="/guides/automation/github-actions-testing">Testing</a>
+   -  <a href="/guides/automation/github-actions-track-coverage">Code Coverage</a>
+
+Adding automation is not just for production, you should be adding them to all your environments. In this short guide you will add several types of Github actions to a workflow. 
 
 Github actions are infrastructure as code, and are created in YAML declarations that exist in the repo. 
 
@@ -20,44 +27,9 @@ on:
 
 ```
 
+## Linting 
 
-
-## Code Linting!
-
-```yaml
-name: Default Node CI
-
-on:
-  pull_request:
-    types: [opened, synchronize, reopened]
-    
-jobs:
-  lint:
-    name: lints
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checking Out Commits Securely . . .
-        uses: actions/checkout@v2
-      - name: Setup Node 14 Environment . . .
-        uses: actions/setup-node@v1
-        with:
-          node-version: 14
-      - name: Install Dependencies . . .
-        working-directory: .
-        run: npm ci
-      - name: Run The Lints . . .
-        run: npm run test:lint
-```
-
-## Code Testing!
-
-```yaml
-
-```
-
-## Code Coverage!
-
-
+   -  <a href="/guides/automation/github-actions-linting">Linting</a>
 
 ## Code Quality!
 
