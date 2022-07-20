@@ -60,6 +60,10 @@
 <h3 id="github"><img alt="Github" src="https://img.shields.io/badge/Github-20232a.svg?logo=github&logoColor=white&style=for-the-badge" /></h3>
 
 * [Add Badges to your READMEs or Github Profile Pages](/guides/code/markdown/badges)
+ - <a href="/guides/automation/github-actions">Github Actions Primer</a>
+   -  <a href="/guides/automation/github-actions-linting">Linting</a>
+   -  <a href="/guides/automation/github-actions-testing">Testing</a>
+   -  <a href="/guides/automation/github-actions-track-coverage">Code Coverage</a>
 
 
 
