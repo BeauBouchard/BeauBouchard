@@ -31,7 +31,7 @@ I am Beau, I like to code things.
 ### ☁️ Infrastructure
 
  [![AWS](https://img.shields.io/badge/AWS%20Hosting-FFFFFF.svg?logo=amazonaws&logoColor=orange)](https://aws.amazon.com/)
- [![Lambda](https://img.shields.io/badge/AWS%20Lambdas-FFFFFF.svg?logo=awslambda&logoColor=orange)](https://aws.amazon.com/)
+ [![Lambda](https://img.shields.io/badge/Lambda-FFFFFF.svg?logo=awslambda&logoColor=orange)](https://aws.amazon.com/)
  [![Serverless](https://img.shields.io/badge/Serverless-20232A.svg?logo=serverless&logoColor=white)](https://www.serverless.com/)
  [![netlify](https://img.shields.io/badge/Netlify-FFFFFF.svg?logo=netlify&logoColor=blue)](https://www.netlify.com/)
  [![Heroku](https://img.shields.io/badge/Heroku-FFFFFF.svg?logo=heroku&logoColor=%23430098)](#idontusethisanymore)
