@@ -43,10 +43,10 @@ I am Beau, I like to code things.
  
 #### 🗄️ Data Tier
 
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC" />
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4fa94b?style=flat-square&logo=MongoDB&logoColor=white" />
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" />
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4fa94b?style=flat-square&logo=MongoDB&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
 
 #### ⚠️ Monitoring and Alerting
 
@@ -57,8 +57,9 @@ I am Beau, I like to code things.
 
 #### Project Management and Documentation 
 
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-2c2d35?style=flat-square&logo=Figma&logoColor=white" />
-<img alt="Jira" src="https://img.shields.io/badge/Jira-07405e.svg?logo=jira&logoColor=white" />
+![Figma](https://img.shields.io/badge/-Figma-2c2d35?style=flat-square&logo=Figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-07405e.svg?logo=jira&logoColor=white)
+
 
 ## 🏛️ Organizations I contributed to
 
