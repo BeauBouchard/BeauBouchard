@@ -43,9 +43,10 @@ I am Beau, I like to code things.
  
 #### 🗄️ Data Tier
 
- [![MySQL](https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC)](https://www.mysql.com/)
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)
- ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF.svg?logo=mysql&logoColor=%23007ACC" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4fa94b?style=flat-square&logo=MongoDB&logoColor=white" />
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" />
 
 #### ⚠️ Monitoring and Alerting
 
@@ -54,6 +55,10 @@ I am Beau, I like to code things.
  [![PagerDuty](https://img.shields.io/badge/Pagerduty-FFFFFF.svg?logo=pagerduty&logoColor=blue)](https://www.pagerduty.com/)
  [![Apiary](https://img.shields.io/badge/Apiary-FFFFFF.svg?logo=oracle&logoColor=%23F90000)](https://apiary.io/)
 
+#### Project Management and Documentation 
+
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-2c2d35?style=flat-square&logo=Figma&logoColor=white" />
+<img alt="Jira" src="https://img.shields.io/badge/Jira-07405e.svg?logo=jira&logoColor=white" />
 
 ## 🏛️ Organizations I contributed to
 
