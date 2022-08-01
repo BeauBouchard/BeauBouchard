@@ -8,7 +8,7 @@ This is a 3 part series that covers 3 short tutorials that help you go from hell
 
 We will focus the guides in three parts
 * [Containerize your Application With Docker](/guides/automation/docker.md)
-* Basic Kubernetes and Deploying your Containerized Application
+* [Basic Kubernetes and Deploying your Containerized Application](/guides/kubernetes/basic-kubernetes.md)
 * Impliment Continuous Deployments (CI/CD) in Kubernetes 
 
 
