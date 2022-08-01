@@ -51,9 +51,9 @@
 
 <h3 id="kubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-FFFFFF.svg?logo=kubernetes&logoColor=blue&style=for-the-badge" /></h3>
 
- - <a href="/guides/kubernetes/up-and-running-2022.md">Kubernetes Primer</a>
-   -  [Containerize your Application With Docker](/guides/automation/docker.md)
-   -  [Basic Kubernetes and Deploying your Containerized Application](/guides/kubernetes/basic-kubernetes.md)
+ - <a href="/guides/kubernetes/up-and-running-2022">Kubernetes Primer</a>
+   -  [Containerize your Application With Docker](/guides/automation/docker)
+   -  [Basic Kubernetes and Deploying your Containerized Application](/guides/kubernetes/basic-kubernetes)
    -  [Impliment Continuous Deployments (CI/CD) in Kubernetes]()
 
 
