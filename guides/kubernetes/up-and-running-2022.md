@@ -7,9 +7,11 @@
 This is a 3 part series that covers 3 short tutorials that help you go from helloworld to continous deployment of your repo into a cluster. 
 
 We will focus the guides in three parts
-* [Containerize your Application With Docker](/guides/automation/docker.md)
-* [Basic Kubernetes and Deploying your Containerized Application](/guides/kubernetes/basic-kubernetes.md)
-* Impliment Continuous Deployments (CI/CD) in Kubernetes 
+
+ - <a href="/guides/kubernetes/up-and-running-2022">Kubernetes Primer</a>
+   -  [Containerize your Application With Docker](/guides/automation/docker)
+   -  [Basic Kubernetes and Deploying your Containerized Application](/guides/kubernetes/basic-kubernetes)
+   -  [Impliment Continuous Deployments (CI/CD) in Kubernetes]()
 
 
 
