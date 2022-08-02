@@ -3,8 +3,6 @@ Hi there 👋
 I am Beau, I like to code things. 
 
 
-# About Beau . . .
-
 ## 🛠️ My Favorite Tools and Such
 
 ### 👨‍💻 Languages
