@@ -139,13 +139,14 @@ Finish the following function to return true if the word is a palindrome (same f
  * @return {boolean} - return true if the word is a palindrome (same front to back) or false if it not a palindrome.
  **/
  function isPalindrome(word) {
-  const length = str.length;
+  // using recusion
+  const length = word.length;
   if (length <= 1){
     return true;
-  } else if (str.charAt(0) !== str.slice(-1)) {
+  } else if (word.charAt(0) !== word.slice(-1)) {
     return false;
   } else {
-    return isPalindrome(str.substring(1,length-1));
+    return isPalindrome(word.substring(1,length-1));
   }
 }
 
@@ -157,5 +158,35 @@ console.log(isPalindrome("madam"));
 // This statement should be true
 console.log(isPalindrome(`nurses run`));
 
+
+// Part 2
+// Instead of returning true, have it return how many non-empty strings are palindromes. A substring is any continuous sequence of characters in the string.  Two sub strings are different if they occur at different positions in `word`.  
+/** 
+ * @param {string} str - the string to check if it is a Palindrome
+ * @return {number} - return how many non-empty strings are palindromes
+ **/
+ function howManyPalindromes(str) {
+    // The trick for part two is counting the loop progression using a variable 
+    let count = 0;
+    const length = str.length;
+    let subString;
+
+    for (let i = 1; i < length; i++) {
+      for(let j = 0; j < length - i; j++) {
+        subString = str.substring(j, j+i+1);
+        // the trick to part 2 is checking the split / reverse
+        if(subString === subString.split('').reverse().join('')) {
+            count += 1;
+        }
+      }
+    }
+    return count;
+ }
+ 
+ // Part 3 could be unique palindromes
+
 ```
+
+
+
 
