@@ -8,9 +8,10 @@
     <li><a href="#table-of-contents">Table of Contents</a></li>
     <li><a href="#common-questions">Common Questions</a>
       <ul>
-        <li><a href="#">Find out if two strings are Anagrams.</a></li>
+        <li><a href="#">Find out if two strings are Anagrams</a></li>
         <li><a href="#">First Unique Questions</a></li>
         <li><a href="#">Find out if string is a Palindrome</a></li>
+        <li><a href="#">Various String Exercises</a></li>
       </ul>
     </li>
   </ul>
@@ -93,14 +94,14 @@ Given a string s, find the first non-repeating character in it and return its in
 A Palindrome is a word, phrase, or sequence that reads the same backward as forward, e.g., `madam` or `nurses run`.
 A string is said to be a Palindrome if the reverse of teh string is same as itself. 
 
-#### Example question format 
+#### Example question format in Javascript 
 
 Finish the following function to return true if the word is a palindrome (same front to back) or false if it is not.
 
 ```js
 /** 
  * @param {string} word - the word to check if it is a Palindrome
- * @return {boolean} - return true if the word is a palindrome (same front to back) or false if it is not.
+ * @return {boolean} - return true if the word is a palindrome (same front to back) or false if it not a palindrome.
  **/
  function isPalindrome(word) {
  
@@ -127,3 +128,11 @@ Finish the following function to return true if the word is a palindrome (same f
 
 // console.log(howManyPalindromes(`abaabbbba`));
 ```
+
+#### Example Solution in Javascript 
+
+
+```js
+
+```
+
