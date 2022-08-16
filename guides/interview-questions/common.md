@@ -134,5 +134,28 @@ Finish the following function to return true if the word is a palindrome (same f
 
 ```js
 
+/** 
+ * @param {string} word - the word to check if it is a Palindrome
+ * @return {boolean} - return true if the word is a palindrome (same front to back) or false if it not a palindrome.
+ **/
+ function isPalindrome(word) {
+  const length = str.length;
+  if (length <= 1){
+    return true;
+  } else if (str.charAt(0) !== str.slice(-1)) {
+    return false;
+  } else {
+    return isPalindrome(str.substring(1,length-1));
+  }
+}
+
+// Part 1
+// This statement should be false
+console.log(isPalindrome("cat"));
+// this statement should be true
+console.log(isPalindrome("madam"));
+// This statement should be true
+console.log(isPalindrome(`nurses run`));
+
 ```
 
