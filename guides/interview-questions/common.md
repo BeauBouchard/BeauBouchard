@@ -6,6 +6,7 @@
 
   <ul>
     <li><a href="#table-of-contents">Table of Contents</a></li>
+    <li><a href="#motivations">Motivations</a></li>
     <li><a href="#common-questions">Common Questions</a>
       <ul>
         <li><a href="#">Find out if two strings are Anagrams</a></li>
@@ -19,14 +20,21 @@
 
 </details>
 
-<p align="justify">
-Interview Questions which involve improviation of answering a question on the spot, and then coding the question live makes a lot of assumptions around someone's ability and may not be best suited for all interviews. The exercises are interesting and can highlight people's appitude for discovering a solution in real time, but for myself and many others with ADHD or anxiety will often underperform. Most of the same individuals will excell if you give them a study ruberic before a test or explicit instructions and assuptions for a take home assement; however doing the same thing blind and improvied can be a disasterous challange that requires more from their ability to not have stage shock than problem solving. 
-I have spent time testing out various ways to solve puzzles find them fun and I expect most of these to appear at least once in an interview process for someone some day, its worth to have more discussion around using these resources and what they are trying to assertain from a canidate. I absolutly love puzzles but I can't even do a handshake correctly under pressure, you're not going to get the best live coding experience from me, but whiteboarding and giving me an exercise to work on and later review are my favorite. 
-</p>
+## Motivations
+
+<details>
+  <summary>Accessibility Considerations</summary>
+  <p align="justify">
+  Interview Questions which involve improviation of answering a question on the spot, and then coding the question live makes a lot of assumptions around someone's ability and may not be best suited for all interviews. The exercises are interesting and can highlight people's appitude for discovering a solution in real time, but for myself and many others with ADHD or anxiety will often underperform. Most of the same individuals will excell if you give them a study ruberic before a test or explicit instructions and assuptions for a take home assement; however doing the same thing blind and improvied can be a disasterous challange that requires more from their ability to not have stage shock than problem solving. 
+  I have spent time testing out various ways to solve puzzles find them fun and I expect most of these to appear at least once in an interview process for someone some day, its worth to have more discussion around using these resources and what they are trying to assertain from a canidate. I absolutly love puzzles although its important to keep in mind when assessing someone that some people can messup handshakes under pressure even though they know how to do them.
+  If you are a hiring manager and you have a decision to give a live coding exercise to an itnerviewee I always recommend to white board or even better offer the assignment as a take home and review the code later in a very relivant peer review setting. 
+  </p>
+  
+</details>
 
 I wanted to demonstrate some of the nuances in these questions to both practice them as a learning exercise but also to demonstrate and articulate some of these more interesting subtle sub-questions of these exercises. 
 
-If you are a hiring manager and you have a decision to give a live coding exercise to an itnerviewee I always recommend to white board or even better offer the assignment as a take home and review the code later in a very relivant peer review setting. 
+
 
 ## Common Questions
 
