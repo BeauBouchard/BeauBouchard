@@ -3,6 +3,17 @@ Hi there 👋
 I am Beau, I like to code things. 
 
 
+## Stats
+
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=beaubouchard&show_icons=true&count_private=true&theme=dark&custom_title=Beau%20Bouchard%27s%202022%20Github%20Stats" alt="stats" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beaubouchard&hide=html,css&layout=compact&count_private=true&theme=dark&langs_count=8" alt="stats" />
+</p>
+
 ## 🛠️ My Favorite Tools and Such
 
 ### 👨‍💻 Languages
@@ -102,6 +113,7 @@ I am Beau, I like to code things.
 
 
 
+
 ### 🌐 Websites
 
 <p align="center">
@@ -109,6 +121,4 @@ I am Beau, I like to code things.
   <img width="190px" height="58px" src="https://img.shields.io/badge/❥_beau.sh-20232A.svg?style=for-the-badge" alt="beau.sh" />
  </a>
 </p>
-
-
 
