@@ -19,7 +19,7 @@
 
 </details>
 
-
+<p 
 Interview Questions which involve improviation of answering a question on the spot, and then coding the question live makes a lot of assumptions around someone's ability and may not be best suited for all interviews. The exercises are interesting and can highlight people's appitude for discovering a solution in real time, but for myself and many others with ADHD or anxiety will often underperform. Most of the same individuals will excell if you give them a study ruberic before a test or explicit instructions and assuptions for a take home assement; however doing the same thing blind and improvied can be a disasterous challange that requires more from their ability to not have stage shock than problem solving. 
 I have spent time testing out various ways to solve puzzles find them fun and I expect most of these to appear at least once in an interview process for someone some day, its worth to have more discussion around using these resources and what they are trying to assertain from a canidate. I absolutly love puzzles but I can't even do a handshake correctly under pressure, you're not going to get the best live coding experience from me, but whiteboarding and giving me an exercise to work on and later review are my favorite. 
 
@@ -185,11 +185,14 @@ console.log(isPalindrome(`nurses run`));
  
  // Part 3 could be unique palindromes
 
+
 ```
 
 
 
-### The Prime number Questions
+<h3 id="prime-number-questions">The Prime number Questions</h3>
+
+I first read about this exercise a decade ago on projecteuler in problems [3](https://projecteuler.net/problem=3), [10](https://projecteuler.net/problem=10), [49](https://projecteuler.net/problem=49) and also on [khan academy](https://www.khanacademy.org/math/cc-fourth-grade-math/imp-factors-multiples-and-patterns/imp-prime-and-composite-numbers/e/prime_numbers) when I did some exercises there. 
 
 There are many exercises that involve prime numbers, most of them involve finding if a number is prime or not, or generating prime numbers from 0 to N. 
 
@@ -287,7 +290,12 @@ for(let i=-2; i <= 35; i++) {
 ```
 
 
-
+<p class="spacers"> <br /></p>
+<div align="center" >
+  <p>
+    <a href="https://beau.sh/guides/">⬅️ Back to Guides</a>
+  </p>
+</div>
 
 
 
