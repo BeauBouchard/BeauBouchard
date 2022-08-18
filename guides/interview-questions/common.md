@@ -12,7 +12,7 @@
         <li><a href="#">First Unique Questions</a></li>
         <li><a href="#">Find out if string is a Palindrome</a></li>
         <li><a href="#">Various String Exercises</a></li>
-        <li><a href="#">Various String Exercises</a></li>
+        <li><a href="#prime-number-questions">The Prime number Questions</a></li>
       </ul>
     </li>
   </ul>
