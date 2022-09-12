@@ -68,11 +68,11 @@ I am Beau, I like to code things.
 
 ## 🏛️ Organizations I contributed to
 
-<p align="center">
+<div align="center">
  <a href="https://github.com/Bombas">
   <div align="center">
    <figure class="image">
-    <img width="100" height="100" alt="Bombas" src="https://good360.org/wp-content/uploads/2019/07/bombas.png">
+    <img width="100" height="100" alt="Bombas" src="https://good360.org/wp-content/uploads/2019/07/bombas.png" />
     <figcaption>Bombas</figcaption>
    </figure>
   </div>  
@@ -80,7 +80,7 @@ I am Beau, I like to code things.
  <a href="https://github.com/codecov">
   <div align="center">
    <figure class="image">
-    <img width="100" height="100" alt="codecov" src="https://avatars.githubusercontent.com/u/8226205?s=200&v=4">
+    <img width="100" height="100" alt="codecov" src="https://avatars.githubusercontent.com/u/8226205?s=200&v=4" />
     <figcaption>codecov</figcaption>
    </figure>
   </div>  
@@ -88,15 +88,15 @@ I am Beau, I like to code things.
  <a href="https://github.com/Crucible-Standard">
   <div align="center">
    <figure class="image">
-    <img width="100" height="100" alt="The Crucible Standard" src="https://avatars.githubusercontent.com/u/84492635?s=400&u=371bc7d77cb45b0c8e067efc0aa352e390439cb0&v=4">
+    <img width="100" height="100" alt="The Crucible Standard" src="https://avatars.githubusercontent.com/u/84492635?s=400&u=371bc7d77cb45b0c8e067efc0aa352e390439cb0&v=4" />
     <figcaption>Crucible Standard</figcaption>
    </figure>
   </div> 
  </a>
  <a href="https://github.com/free-ignorance">
   <div align="center">
-   <figure class="image">
-    <img width="100" height="100" alt="Free Ignorance Media" src="https://avatars.githubusercontent.com/u/50443974?s=400&u=963c2bc728a294bf13717a5d3d8b2c9ce0a5daf7&v=4">
+   <figure>
+    <img width="100" height="100" alt="Free Ignorance Media" src="https://avatars.githubusercontent.com/u/50443974?s=400&u=963c2bc728a294bf13717a5d3d8b2c9ce0a5daf7&v=4" />
     <figcaption>Free Ignorance</figcaption>
    </figure>
   </div> 
@@ -104,7 +104,7 @@ I am Beau, I like to code things.
  <a href="https://github.com/slackapi">
   <div align="center">
    <figure class="image">
-    <img width="100" height="100" alt="slackapi" src="https://avatars.githubusercontent.com/u/6962987?s=200&v=4">
+    <img width="100" height="100" alt="slackapi" src="https://avatars.githubusercontent.com/u/6962987?s=200&v=4" />
     <figcaption>slackapi</figcaption>
    </figure>
   </div>
@@ -112,7 +112,7 @@ I am Beau, I like to code things.
  <a href="https://github.com/sequelize">
   <div align="center">
    <figure class="image">
-    <img width="100" height="100" alt="sequelize" src="https://avatars.githubusercontent.com/u/3591786?s=200&v=4">
+    <img width="100" height="100" alt="sequelize" src="https://avatars.githubusercontent.com/u/3591786?s=200&v=4" />
     <figcaption>Sequelize</figcaption>
    </figure>
   </div>
@@ -120,7 +120,7 @@ I am Beau, I like to code things.
  <a href="http://soul-cycle.com/">
    <div align="center">
     <figure class="image">
-    <img width="100" height="100" alt="Soul Cycle" src="https://healthywithnedi.com/wp-content/uploads/2019/01/soulcycle-logo.jpg">
+    <img width="100" height="100" alt="Soul Cycle" src="https://healthywithnedi.com/wp-content/uploads/2019/01/soulcycle-logo.jpg" />
       <figcaption>Soul Cycle</figcaption>
     </figure>
    </div>
@@ -128,7 +128,7 @@ I am Beau, I like to code things.
  <a href="https://opensource.com/education/12/9/posse-2012-report">
    <div align="center">
     <figure class="image">
-    <img width="100" height="50" alt="POSSE" src="https://opensource.com/sites/default/files/lead-images/EDU_POSSE.png">
+    <img width="100" height="50" alt="POSSE" src="https://opensource.com/sites/default/files/lead-images/EDU_POSSE.png" />
       <figcaption>POSSE</figcaption>
     </figure>
    </div>
@@ -136,7 +136,7 @@ I am Beau, I like to code things.
  <a href="https://github.com/Lazy-Newb-Pack">
    <div align="center">
     <figure class="image">
-    <img width="100" height="100" alt="White Rabbit" src="https://avatars.githubusercontent.com/u/8883924?s=400&u=9985f7d7d097c4c4131daa928fa27ff14831544e&v=4">
+    <img width="100" height="100" alt="White Rabbit" src="https://avatars.githubusercontent.com/u/8883924?s=400&u=9985f7d7d097c4c4131daa928fa27ff14831544e&v=4" />
       <figcaption>White Rabbit</figcaption>
     </figure>
    </div>
@@ -152,7 +152,7 @@ I am Beau, I like to code things.
  <a href="https://vice.com/">
    <img >
  </a>
-</p>
+</div>
 
 
 ### 🌐 Websites
