@@ -5,8 +5,6 @@
     <div class="rainbow-pride"></div>
     <div class="whoami-name">Beau Bouchard</div>
     <p class="spacers"><br /></p>
-    <p class="spacers"><br /></p>
-
     <div align="center">
       <p class="spacers"><br /></p>
       <h2>💅 Profiles</h2>
