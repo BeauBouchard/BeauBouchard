@@ -15,8 +15,6 @@
         </ul>
       </li>
     </ul>
-
-
     <div align="center">
       <p class="spacers"><br /></p>
       <h2>💅 Profiles</h2>
