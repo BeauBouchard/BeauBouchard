@@ -6,15 +6,7 @@
     <div class="whoami-name">Beau Bouchard</div>
     <p class="spacers"><br /></p>
     <p class="spacers"><br /></p>
-    <h2>📫 How to reach me </h2>
-    <p>📵 Don't Call my Phone. . . (sorry, I enjoy when I am disconnected)</p>
-    <ul>
-      <li>Email me with the subject "From Your Github Page"
-        <ul>
-          <li>If you want, you can shedule a time to chat on audio/video services. </li>
-        </ul>
-      </li>
-    </ul>
+
     <div align="center">
       <p class="spacers"><br /></p>
       <h2>💅 Profiles</h2>
