@@ -6,7 +6,7 @@ I am Beau, I like to code things.
 ## Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=beaubouchard&show_icons=true&count_private=true&theme=dark&custom_title=Beau%27s%202023%20Github%20Stats&rank_icon=percentile" alt="stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=beaubouchard&show_icons=true&count_private=true&theme=dark&custom_title=Beau%27s%202024%20Github%20Stats&rank_icon=percentile" alt="stats" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beaubouchard&text_color=0D0D0D&ring=B70E91&currStreakLabel=14c1c1" alt="GitHub Streak" />
 </p>
 
