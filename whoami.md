@@ -1,3 +1,8 @@
+---
+title: Beau Bouchard About Page
+layout: imagePages
+background_image: /assets/media/images/backgrounds/about2.jpg
+---
 <div class="whoami">
   <div class="whoami-buffer"> </div>
   <div class="whoami-inner">
@@ -6,6 +11,8 @@
     <div class="whoami-name">Beau Bouchard</div>
     <p class="spacers"><br /></p>
     <div align="center">
+      <p class="spacers"><br /></p>
+      <div id="gh" data-login="beaubouchard"></div>
       <p class="spacers"><br /></p>
       <h2>💅 Profiles</h2>
       <p>

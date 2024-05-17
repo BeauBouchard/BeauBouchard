@@ -1,14 +1,12 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 /** Default beau.sh Page Theme **/
 $theme-default-primary:               #3AB0FF;
 $theme-default-secondary:             #FFB562;
 $theme-default-trinary:               #F87474;
-$theme-default-background:            #F9F2ED;
-$theme-default-text-color:            #323232;
+$theme-default-background:            #FFFFFF;
+$theme-default-text-color:            #6c7a89;
 $theme-default-link-color:            #FFB562;
 $theme-default-hlink-color:           #F87474;
 $theme-default-vlink-color:           #FF8862;
@@ -31,13 +29,19 @@ $symbol-warning:                      "⚠️";
 $symbol-alert:                        "🚨";
 
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 1rem;
   line-height: 1.5;
   color: $theme-default-text-color;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
   background-color: $theme-default-background;
   overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  color: #2a2f36;
 }
 
 .spacers { 
@@ -109,7 +113,7 @@ $theme-retro-wave-background:         #F9F0E3;
 .header-rainbow-retro {
   margin-top: 0px;
   margin-bottom: 50px;
-  text-align: center;
+  margin-left: 25%;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 3rem;
   letter-spacing: 0.15rem;
@@ -247,9 +251,8 @@ $theme-pride-eleven:                  #732982;
 }
 
 .page, .page__content {
-  float: left;
   clear: both;
-  width: 100%
+  padding-left: 25%;
 }
 
 @media only screen and (min-width:1024px) {
@@ -264,9 +267,29 @@ $theme-pride-eleven:                  #732982;
   }
 }
 
+.menu__list {
+  font-family: Muli,sans-serif;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  letter-spacing: 0;
+}
+
+.menu__list__item__link {
+  font-size: 30px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, .7);
+  padding: 10px 0
+}
+
+.menu__list__item__link:hover {
+  color: #fff
+}
+
 .header {
   padding: 40px 20px;
-  background: #161b21
+  background-color: $theme-default-background;
 }
 
 @media only screen and (min-width:768px) {
@@ -431,7 +454,8 @@ $theme-pride-eleven:                  #732982;
 
 
 .header .socials {
-  padding: 12px 20px
+  padding: 12px 20px;
+  display: inline;
 }
 
 @media only screen and (min-width:768px) {
@@ -463,6 +487,57 @@ $theme-pride-eleven:                  #732982;
 .header .socials .socials__item__link:hover {
   background: #fff;
   color: #161b21
+}
+
+.socials {
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+
+.socials__item {
+  display: inline-block;
+  margin-left: 2px
+}
+
+.socials__item:first-child {
+  margin-left: 0
+}
+
+.socials__item__link {
+  position: relative;
+  display: block;
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+  background: #abb7b7;
+  font-size: 17px;
+  line-height: 1;
+  color: #fff
+}
+
+@media only screen and (min-width:768px) {
+  .socials__item__link {
+    width: 40px;
+    height: 40px;
+    font-size: 20px
+  }
+}
+
+.socials__item__link svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -52%);
+  -o-transform: translate(-50%, -52%);
+  -ms-transform: translate(-50%, -52%);
+  -webkit-transform: translate(-50%, -52%);
+  transform: translate(-50%, -52%)
+}
+
+.socials__item__link:hover {
+  background: #a2ded0;
+  color: #fff
 }
 
 .header ol {
@@ -600,14 +675,12 @@ $theme-whoami-vlink-color:            #9CAF88;
   position: absolute;
   top: 0;
   left: 0;
-  font-family: helvetica, arial, sans-serif;
-  background-color: #2E2E31;
-  color: #F9F2ED;
-  h1, h2, h3 {
-     font-family: helvetica, arial, sans-serif;
-    background-color: #2E2E31;
-    color: #F9F2ED;
-  }
+  font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: $theme-default-text-color;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 80%);
+  background-color: $theme-default-background;
 }
 
 .whoami-inner {
@@ -619,6 +692,10 @@ $theme-whoami-vlink-color:            #9CAF88;
   }
 }
 
+.ghThumbNail {
+  display:  none;
+}
+
 .whoami-buffer {
   padding-top: 35px;
   padding-bottom: 25px;
@@ -626,7 +703,7 @@ $theme-whoami-vlink-color:            #9CAF88;
 
 /** whoami Page Text Animation **/
 .whoami-name {
-  color: #fffbf1;
+  color: $theme-default-text-color;
   font-size: 32px;
   font-weight: bold;
   text-decoration: none;
@@ -635,9 +712,6 @@ $theme-whoami-vlink-color:            #9CAF88;
   position: absolute;
   top: 15vh;
   left: 50vw;
-  text-shadow:
-             0 16px 20px #2E2E31,
-             0 20px 24px #2F2E31;
   transform: translateX(-50%) translateY(-50%);  
 }
 
@@ -656,13 +730,13 @@ $theme-whoami-vlink-color:            #9CAF88;
 }
 
 .whoami-name:before {
-  border-color: #3AB0FF #3AB0FF rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+  border-color: #3AB0FF #3AB0FF rgba(255, 255, 255, 0) rgba(255, 255, 255, 0);
   z-index: -1;
 }
 
 .whoami-name:after {
-  border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #3AB0FF #3AB0FF;
-  box-shadow: 25px 25px 25px rgba(46, 46, 49, .8);
+  border-color: rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) #3AB0FF #3AB0FF;
+  box-shadow: 25px 25px 25px rgba(255, 255, 255, 0);
 }
 
 @keyframes spin {
