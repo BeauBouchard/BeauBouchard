@@ -7,10 +7,8 @@ description: "A collection of Beau Bouchard’s weird web projects"
 social:
   name: Beau Bouchard
   links:
-    - https://twitter.com/beaubouchard
     - https://www.linkedin.com/in/beaubouchard
     - https://github.com/beaubouchard
-twitter:
-  username: beaubouchard
-  card: summary
+    - https://mastodon.social/@beaubouchard
+    - https://bsky.app/profile/beaubouchard.bsky.social
 url: beau.sh
