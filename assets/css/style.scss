@@ -265,7 +265,9 @@ $theme-pride-eleven:                  #732982;
 
 @media only screen and (min-width:1220px) {
   .header .socials {
-    margin-top: 35px
+    margin-top: 35px;
+    width: 20px;
+    height: 20px;
   }
 }
 
@@ -281,17 +283,14 @@ $theme-pride-eleven:                  #732982;
 
 .header ol {
   list-style: none;
-  counter-reset: footnotes
 }
 
 .header ol li {
   margin-top: 5px;
   font-size: 13px;
-  counter-increment: footnotes
 }
 
 .header ol li:before {
-  content: counter(footnotes);
   box-sizing: border-box;
   display: inline-block;
   margin-right: 3px;
