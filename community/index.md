@@ -1,14 +1,8 @@
-<p><a href="/">home</a> / <a href="/projects">projects</a></p>
+<p><a href="/">home</a> / <a href="/community">community</a></p>
 <div class="rainbow-retro"></div>
-<h5 class="header-rainbow-retro">Projects</h5>
+<h5 class="header-rainbow-retro">Community</h5>
 
-## 🚧 Current  
-
-<div align="center">
-  <p></p>
-</div>
-
-## 🕰️ Past  
+Through the many projects over my career there has always been opporatunities to create and contribute to communities. Just to highlight a few I care about below. 
 
 <div>
   <h3>Chat Bot(s)</h3>
