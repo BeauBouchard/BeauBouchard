@@ -2,15 +2,12 @@
 <div class="rainbow-retro"></div>
 <h5 class="header-rainbow-retro">Projects</h5>
 
-## 🚧 Current  
-
+<h2> 🚧 Current</h2>
 <div align="center">
   <p></p>
 </div>
 
-## 🕰️ Past  
-
-<div>
+<h2> 🕰️ Past</h2>
   <h3>Chat Bot(s)</h3>
   <p align="center">
     <a href="https://katelibby.chat/"> 
@@ -63,4 +60,3 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crucible-Standard&repo=mtastate" alt="Readme Card for mtastate" />
     </a>
   </p>
-</div>
